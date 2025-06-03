@@ -165,7 +165,7 @@
 
 
           <ul class="address-list">
-            <li> <i class="fas fa-map-marker-alt"></i> <a href="#"> Kistler Maschinen- und Anlagenbau GmbH, <br>
+            <li> <i class="fas fa-map-marker-alt"></i> <a href="#">  
                 Mackstrasse 84, <br>
                 88348 Bad Saulgau, Germany </a> </li>
             <li> <i class="fas fa-phone"></i> <a href="tel:+497581488820"> +49 / 7581 / 48882-0 </a> </li>
@@ -198,11 +198,12 @@
           ADDRESS FORM AREA END
      ============================ -->
 
-  <section class="map">
+ <section class="map">
     <div class="container">
       <div class="row">
-        <div class="col-md-12 map-area">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d43739385.15551817!2d9.516960000000001!3d48.00134!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479a4aa12f729af1%3A0xacd7701db1561118!2sKistler%20Maschinen-%20und%20Anlagenbau%20GmbH!5e0!3m2!1sen!2sin!4v1742820568533!5m2!1sen!2sin" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <div class="col-md-12 map-area"> 
+
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10348554.479309125!2d-0.1093548!3d50.710615!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479a721ec2b1be6b%3A0x75e85d6b8e91e55b!2sGermany!5e0!3m2!1sen!2sin!4v1748942352526!5m2!1sen!2sin" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </div>
     </div>

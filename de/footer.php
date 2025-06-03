@@ -3,7 +3,7 @@
       <div class="row footer-title-box">
         <!-- first -->
         <div class="col-xl-4 col-lg-4 col-md-6 footer-first">
-          <p class="f-address"> Kistler Maschinen- und Anlagenbau GmbH, <br>
+          <p class="f-address">  
             Mackstraße 84, <br>
             88348 Bad Saulgau, Deutschland
           </p>

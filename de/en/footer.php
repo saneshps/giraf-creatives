@@ -1,10 +1,10 @@
   <section class="footer-area">
     <div class="container">
-      <div class="row footer-title-box">
+      <div class="row footer-title-box"> 
         <!-- first -->
         <div class="col-xl-4 col-lg-4 col-md-6 footer-first">
-          <p class="f-address"> Kistler Maschinen- und Anlagenbau GmbH, <br>
-            Mackstrasse 84, <br>
+          <p class="f-address"> 
+           Mackstrasse 84, <br>
             88348 Bad Saulgau, Germany
           </p>
           <p> <a href="tel:497581488820"> +49 / 7581 / 48882-0 </a> </p>
@@ -24,15 +24,15 @@
           <!-- ======================= 
           BACK TO BUTTON END
        =======================-->
-
+ 
           <img src="./img/logo.png" alt="logo">
-          <p> © 2025 Alle Rechte vorbehalten <span> <a href="https://girafcreatives.com/de/en" target="_blank"> Giraf </a> </span> creatives
+          <p> © 2025 All rights reserved <span> <a href="https://girafcreatives.com/de/en" target="_blank"> Giraf Creatives </a> </span> creatives
           </p>
         </div>
         <!-- secnd -->
         <!-- Third -->
         <div class="col-xl-4 col-lg-4 col-md-6 footer-third">
-          <h4> SOZIALE MEDIEN </h4>
+          <h4> SOCIAL MEDIA </h4>
           <div class="social-links">
 
             <div id='contact-info'>
