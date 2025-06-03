@@ -194,7 +194,7 @@
             <div class="col-xl-4 col-lg-6 col-md-12">
 
               <div class="services-list-box serv-detail-space serv-page">
-                <a href="web-and-app-development.php">
+                <a href="web-und-app-entwicklung.php">
                   <h3> 04 </h3>
                   <h2> Web- und App-Entwicklung </h2>
                   <p> Eine starke digitale Präsenz ist entscheidend für den Erfolg eines Unternehmens. In einer Zeit, in
@@ -202,7 +202,7 @@
                     eine absolute Notwendigkeit.
 
                   </p>
-                  <span href="web-and-app-development.php"> View More ... </span>
+                  <span href="web-und-app-entwicklung.php"> View More ... </span>
                 </a>
               </div>
 

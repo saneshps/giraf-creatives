@@ -25,8 +25,8 @@
        <li class="<?php echo ($curPageName == "index.php") ? 'active' : '' ?>">
          <a href="index.php"> Heim </a>
        </li>
-       <li class="<?php echo ($curPageName == "about.php") ? 'active' : '' ?>">
-         <a href="about.php"> Über uns </a>
+       <li class="<?php echo ($curPageName == "Über-uns.php") ? 'active' : '' ?>">
+         <a href="Über-uns.php"> Über uns </a>
        </li>
        <li class="<?php echo ($curPageName == "portfolio.php") ? 'active' : '' ?>">
          <a href="portfolio.php"> Projekte </a>
