@@ -26,7 +26,14 @@
        =======================-->
 
           <img src="./img/logo.png" alt="logo">
-          <p> © 2024 All rights reserved <span> <a href="https://giraf.in/" target="_blank"> Giraf </a> </span> creatives
+          <p>© 2025 All rights reserved
+             <span>
+             <a href="https://girafcreatives.com/in" target="_blank"> Giraf Creatives </a>
+           
+             </span>  
+          </p>
+          <p>  
+             <span>    <a class="privacy" href="privacy-policy.php"> Privacy Policy </a>  </span>  
           </p>
         </div>
         <!-- secnd -->
@@ -91,6 +98,18 @@
                     <span></span>
                     <span>
                       <i class="fab fa-youtube"></i>
+                    </span>
+
+                  </div>
+                </a>
+                <a href="https://api.whatsapp.com/send?phone=+918075461989&text=👋 Welcome to Giraf! How may we assist you today" target='_blank' class='orange-shadow'>
+                  <div>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span>
+                      <i class="fab fa-whatsapp"></i>
                     </span>
 
                   </div>

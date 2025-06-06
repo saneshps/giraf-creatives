@@ -269,7 +269,7 @@ $result = $conn->query($sql);
 
           <!-- =============== BUTTON =================== -->
           <div class="read-more">
-            <a href="about.php" class="btn btn-lg">
+            <a href="Über-uns.php" class="btn btn-lg">
               Mehr erfahren
               <i class="fas fa-angle-right"></i>
             </a>
@@ -518,7 +518,7 @@ $result = $conn->query($sql);
               <h2> <a href="digital-marketing.php"> Digital Marketing </a> </h2>
               <h2> <a href="animation.php"> Animation </a> </h2>
               <h2> <a href="photography-and-video-production.php"> Fotografie und Videoproduktion </a> </h2>
-              <h2> <a href="web-and-app-development.php"> Web- und App-Entwicklung </a> </h2>
+              <h2> <a href="web-und-app-entwicklung.php"> Web- und App-Entwicklung </a> </h2>
 
 
             </li>

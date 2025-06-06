@@ -274,3 +274,80 @@
 }
 
 // ============================================ MAP AREA END
+
+
+// ============================================ PRIVACY POLICY AREA START
+.privacy-area {
+    overflow: hidden;
+
+    padding: 70px 0;
+
+    @include respond-below(lg) {
+        padding: 0 0 30px 0;
+    }
+
+    @include respond-below(md) {
+        padding: 0 0 30px 0;
+    }
+
+    .privacy-first {
+
+        ul {
+            margin: 0 0 0 20px;
+
+            li {
+                list-style-type: disc;
+                color: #fff;
+                line-height: 30px;
+            }
+        }
+
+        h6 {
+            color: $brand-color;
+            font-weight: 400;
+            font-size: 1.4rem !important;
+            margin: 15px 0 0 0;
+
+            @include respond-below(md) {
+                font-size: 1.2rem !important;
+            }
+
+            @include respond-below(sm) {
+                font-size: 1.1rem !important;
+            }
+
+        }
+
+        h4 {
+            color: $primary-color;
+            line-height: 35px;
+            padding-top: 14px;
+            font-size: 2.2rem;
+
+            @include respond-below(lg) {
+                line-height: 30px;
+            }
+
+            @include respond-below(md) {
+                line-height: 26px;
+                padding-top: 8px;
+            }
+        }
+
+        p {
+            color: #fff;
+            font-weight: 300;
+            line-height: 26px;
+            margin: 14px 0 15px 0;
+        }
+
+
+
+    }
+
+
+
+
+}
+
+// ============================================ PRIVACY POLICY AREA END

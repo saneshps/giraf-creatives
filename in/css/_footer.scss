@@ -20,8 +20,7 @@
         justify-content: flex-end;
         align-items: flex-start;
 
-        .f-address
-        {
+        .f-address {
             line-height: 30px;
         }
 
@@ -29,12 +28,11 @@
             color: $light-gray;
             padding: 0 0 12px 0;
 
-            a 
-            {
+            a {
                 text-decoration: none;
                 color: $light-gray;
-                &:hover
-                {
+
+                &:hover {
                     color: $light-gray;
                     text-decoration: none;
                 }
@@ -91,6 +89,12 @@
                     }
                 }
             }
+        }
+
+        .privacy {
+            color: #c6c6c6;
+            font-size: 14px;
+            font-weight: 300;
         }
     }
 

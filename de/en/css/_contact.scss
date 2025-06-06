@@ -12,18 +12,6 @@
         padding: 0 0 30px 0;
     }
 
-    .box-commn {
-        @include respond-below(md) {
-            padding: 40px 15px;
-            margin: 40px 0 0 0;
-        }
-
-        @include respond-below(sm) {
-            padding: 25px 0px;
-            margin: 40px 0 0 0;
-        }
-    }
-
     .address-from-first {
 
 
@@ -59,7 +47,7 @@
         }
 
         p {
-            color: #333;
+            color: #fff;
             font-weight: 300;
             line-height: 22px;
             margin: 14px 0 15px 0;
@@ -259,81 +247,7 @@
         }
     }
 
-    .fm {
-        &.box-commn {
-            @include respond-below(md) {
-                padding: 20px 30px;
-            }
 
-            @include respond-below(sm) {
-                border: none;
-            }
-        }
-    }
-
-    .felix-image {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-
-        img {
-            width: 250px;
-
-            @include respond-below(xl) {
-                width: 250px;
-            }
-
-            @include respond-below(lg) {
-                width: 210px;
-            }
-
-            @include respond-below(md) {
-                width: 240px;
-                margin: 60px 0 0 0;
-            }
-
-            @include respond-below(sm) {
-                width: 170px;
-            }
-        }
-
-        h4 {
-            font-size: 28px !important;
-            margin: 10px 0 10px 0;
-
-            @include respond-below(lg) {
-                font-size: 24px !important;
-                margin: 10px 0 5px 0;
-            }
-
-            @include respond-below(sm) {
-                font-size: 22px !important;
-                margin: 10px 0 5px 0;
-            }
-        }
-
-        h5 {
-
-            @include respond-below(sm) {
-                margin: 0px 0 5px 0;
-            }
-
-            a {
-                font-size: 18px !important;
-                color: #000;
-
-                @include respond-below(sm) {
-                    font-size: 17px !important;
-                }
-
-                &:hover {
-                    color: $brand-color;
-                    text-decoration: none;
-                }
-            }
-        }
-    }
 
 }
 
@@ -360,3 +274,80 @@
 }
 
 // ============================================ MAP AREA END
+
+
+// ============================================ PRIVACY POLICY AREA START
+.privacy-area {
+    overflow: hidden;
+
+    padding: 70px 0;
+
+    @include respond-below(lg) {
+        padding: 0 0 30px 0;
+    }
+
+    @include respond-below(md) {
+        padding: 0 0 30px 0;
+    }
+
+    .privacy-first {
+
+        ul {
+            margin: 0 0 0 20px;
+
+            li {
+                list-style-type: disc;
+                color: #000;
+                line-height: 30px;
+            }
+        }
+
+        h6 {
+            color: $brand-color;
+            font-weight: 400;
+            font-size: 1.4rem !important;
+            margin: 15px 0 0 0;
+
+            @include respond-below(md) {
+                font-size: 1.2rem !important;
+            }
+
+            @include respond-below(sm) {
+                font-size: 1.1rem !important;
+            }
+
+        }
+
+        h4 {
+            color: $primary-color;
+            line-height: 35px;
+            padding-top: 14px;
+            font-size: 2.2rem;
+
+            @include respond-below(lg) {
+                line-height: 30px;
+            }
+
+            @include respond-below(md) {
+                line-height: 26px;
+                padding-top: 8px;
+            }
+        }
+
+        p {
+            color: #000;
+            font-weight: 400;
+            line-height: 26px;
+            margin: 14px 0 15px 0;
+        }
+
+
+
+    }
+
+
+
+
+}
+
+// ============================================ PRIVACY POLICY AREA END

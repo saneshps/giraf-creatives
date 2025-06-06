@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Contact Us|Digital Marketing,Designing,Branding Agency,India|Giraf </title>
+  <title> Privacy Policy |Digital Marketing,Designing,Branding Agency,India|Giraf </title>
   <meta name="description" content="Looking for a Digital Marketing Company, Branding, Designing, Web and App Development, Animation, Photography and Video Production in India Contact Us: +91 9874598775">
 
   <!-- canonical -->
@@ -95,8 +95,8 @@
      ===================== -->
   <section>
     <div class="banner-area">
-      <img src="./img/banner-cnt.jpg" alt="banner">
-      <h1> Contact Us </h1>
+      <img src="./img/banner-privacy.jpg" alt="banner">
+      <h1> Privacy Policy </h1>
     </div>
   </section>
   <!-- =====================
@@ -106,43 +106,107 @@
   <!-- ============================
           ADDRESS FORM AREA START
      ============================== -->
-  <section class="address-from-area">
+  <section class="privacy-area">
     <div class="container">
       <div class="row">
-        <div class="col-xl-4 col-lg-5 col-md-12 address-from-first">
-          <h6> CONTACT US</h6>
-          <h4> Please connect with us </h4>
-          <h4> Climb on the bandwagon, and reach the heights </h4>
-          <P> Take the first step to success from here. Need our service? Don't wait!! Take your phone and dial our
-            number.
-            Or give a message. You are precious to us. we value your time and passion.</P>
+        <div class="col-md-12 privacy-first"> 
+          
+          <P>  At Giraf Creatives, accessible from www.girafcreatives.com, one of our main priorities is the privacy of our visitors.
+             This Privacy Policy document contains types of information that is collected and recorded by Giraf Creatives and how we use it.
+             </P>
+          <P>  If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us. </P>
+          <P>  This Privacy Policy applies only to our online activities and is valid for visitors
+             to our website with regards to the information that they shared and/or collect in Giraf Creatives.
+              This policy is not applicable to any information collected offline or via channels other than this website.
+               Our Privacy Policy was created with the help of the Free Privacy Policy Generator.
+             </P>
+          <P>   Consent   </P>
+          <P>  By using our website, you hereby consent to our Privacy Policy and agree to its terms. </P>
+          <P>  Information we collect </P>
+          <P>  The personal information that you are asked to provide, and the reasons why you are asked 
+            to provide it, will be made clear to you at the point we ask you to provide your personal information.
+             </P>
+          <P>  If you contact us directly, we may receive additional information about you such as your name,
+             email address, phone number, the contents of the message and/or attachments you may send us,
+              and any other information you may choose to provide.
+             </P>
+          <P>  When you register for an Account, we may ask for your contact information, including
+             items such as name, company name, address, email address, and telephone number.
+             </P>
+          <P>  How we use your information </P>
+          <P>   We use the information we collect in various ways, including to:  </P>
 
-          <ul class="address-list">
-            <li> <i class="fas fa-map-marker-alt"></i> <a href="#"> Masters Building Mavoor, <br>
-                Calicut - 673661 <br>
-                Kerala - India.</a> </li>
-            <li> <i class="fas fa-phone"></i> <a href="tel:918075461989"> +91 80 75 46 19 89 </a> </li>
-            <li> <i class="fas fa-envelope"></i> <a href="mailto:info@girafcreatives.com"> info@girafcreatives.com </a> </li>
-            <li> <i class="fas fa-map-marker-alt"></i> <a> Calicut, Kerala, <br>
-                India </a>
-            </li>
-          </ul>
+<ul>
+  <li> Provide, operate, and maintain our website </li>
+  <li> Improve, personalize, and expand our website </li>
+  <li> Understand and analyze how you use our website </li>
+  <li> Develop new products, services, features, and functionality </li>
+  <li> Communicate with you, either directly or through one of our partners, including for customer service,
+     to provide you with updates and other information relating to the website, and for marketing and promotional purposes
+     </li>
+  <li> Send you emails </li>
+  <li> Find and prevent fraud </li>
+</ul>
 
-          <ul class="contact-social">
-            <li> <a href="https://www.facebook.com/people/GIRAF/100088398906381/" target="_blank"> <i class="fab fa-facebook-f"></i> </a> </li>
-            <li> <a href="https://twitter.com/Girafcreatives" target="_blank"> <i class="fab fa-twitter"></i> </a> </li>
-            <li> <a href="https://www.instagram.com/girafcreatives/" target="_blank"> <i class="fab fa-instagram"></i> </a> </li>
-            <li> <a href="https://www.linkedin.com/company/girafcreatives/?viewAsMember=true" target="_blank"> <i class="fab fa-linkedin-in"></i> </a> </li>
-            <li> <a href="https://www.youtube.com/@Giraf_Creatives" target="_blank"> <i class="fab fa-youtube"></i> </a> </li>
-            <li> <a href="https://api.whatsapp.com/send?phone=+918075461989&text=👋 Welcome to Giraf! How may we assist you today" target="_blank"> <i class="fab fa-whatsapp"></i> </a> </li>
-          </ul>
+<p>   Log Files   </p>
+
+          <P>  Giraf Creatives follows a standard procedure of using log files. These files log visitors when they visit websites.
+             All hosting companies do this and a part of hosting services' analytics. The information collected by log files
+              include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp,
+               referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally
+                identifiable. The purpose of the information is for analyzing trends, administering the site,
+                 tracking users' movement on the website, and gathering demographic information.
+             </P>
+          <P>  Advertising Partners Privacy Policies </P>
+          <P>  You may consult this list to find the Privacy Policy for each of the advertising partners of Giraf Creatives. </P>
+          <P>  Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in 
+            their respective advertisements and links that appear on Giraf Creatives, which are sent directly to users' browser.
+             They automatically receive your IP address when this occurs. These technologies are used to measure the 
+             effectiveness of their advertising campaigns and/or to personalize the advertising content that you
+              see on websites that you visit.
+             </P>
+          <P>  Note that Giraf Creatives has no access to or control over these cookies that are used by third-party advertisers. </P>
+          <P>  Third Party Privacy Policies </P>
+          <P>  Giraf Creatives's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you
+             to consult the respective Privacy Policies of these third-party ad servers for more detailed information.
+              It may include their practices and instructions about how to opt-out of certain options.
+             </P>
+          <P>  You can choose to disable cookies through your individual browser options. To know more detailed information
+             about cookie management with specific web browsers, it can be found at the browsers' respective websites.
+             </P>
+          <P>  CCPA Privacy Rights (Do Not Sell My Personal Information) </P>
+          <P>  Under the CCPA, among other rights, California consumers have the right to: </P>
+          <P>  Request that a business that collects a consumer's personal data disclose the categories and specific
+             pieces of personal data that a business has collected about consumers. 
+             </P>
+          <P>  Request that a business delete any personal data about the consumer that a business has collected. </P>
+          <P>  Request that a business that sells a consumer's personal data, not sell the consumer's personal data. </P>
+          <P>  If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us. </P>
+          <P>  GDPR Data Protection Rights   </P>
+          <P>  We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following: </P>
+          <P>  The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service. </P>
+          <P>  The right to rectification – You have the right to request that we correct any information you believe is inaccurate.
+             You also have the right to request that we complete the information you believe is incomplete.
+             </P>
+          <P>  The right to erasure – You have the right to request that we erase your personal data, under certain conditions. </P>
+          <P>  The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions. </P>
+          <P>  The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions </P>
+          <P>  The right to data portability – You have the right to request that we transfer the data that we have collected to another organization,
+             or directly to you, under certain conditions. </P>
+          <P>  If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us. </P>
+          <P>  Children's Information </P>
+          <P>  Another part of our priority is adding protection for children while using the internet. 
+            We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+             </P>
+          <P>  Giraf Creatives does not knowingly collect any Personal Identifiable Information from children under the age of 13.
+             If you think that your child provided this kind of information on our website, we strongly encourage you to
+              contact us immediately and we will do our best efforts to promptly remove such information from our records.
+             </P>
+        
 
         </div>
 
-        <div class="col-xl-8 col-lg-7 col-md-12 map-area">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3913.037903446182!2d75.94523977581123!3d11.258622050112908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba64548fa59dffb%3A0xab742d55bff85c73!2sGiraf!5e0!3m2!1sen!2sin!4v1685001961346!5m2!1sen!2sin" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-        </div>
+        
       </div>
     </div>
   </section>
@@ -150,67 +214,7 @@
           ADDRESS FORM AREA END
      ============================ -->
 
-  <!-- ===================
-          FORM AREA START
-     ===================== -->
-  <section class="address-from-area">
-    <div class="container">
-      <div class="row mx-auto justify-content-center">
-
-
-        <div class="col-xl-9 col-lg-10 col-md-12 address-from">
-          <div class="form-bg">
-            <div class="form-container">
-              <!-- <form class="form-horizontal" method="post" action="send_mail.php"> -->
-                <form class="form-horizontal" method="post" action="send_mail.php" id="contact_form_">
-
-                <h3 class="title"> Drop Us a Line </h3>
-
-                <p> Your email address will not be published. Required fields are marked * </p>
-                <div class="form-group">
-                  <input type="text" class="form-control required" name="firstname" placeholder="Name">
-                </div>
-
-
-                <div class="form-group">
-                  <input type="email" class="form-control required" name="email" placeholder="Email">
-                </div>
-                <div class="form-group">
-                  <input type="text" class="form-control " name="phone" placeholder="Phone">
-                </div>
-
-
-                <div class="form-group">
-                  <input type="text" class="form-control" name="subject" placeholder="Subject">
-                </div>
-                <div class="form-group">
-                  <textarea class="form-control" name="msg" rows="4" cols="120" placeholder="Message"></textarea>
-
-                </div>
-                <!--<div class="g-recaptcha" data-sitekey="6Ld-GlArAAAAAJEbB1KrL2pS_nN4f2aO2Ybw7uu5"></div>  G captcha Local--> 
-
-                <div class="g-recaptcha" data-sitekey="6Le7ggIrAAAAAJun6e28-mI0moO5OwQHzvENAt9f"> Giraf Live
-                </div>
-                <br>
-                <br>
-                <br>
-                <button type="submit" name="subc" id="sub" class="btn btn-default" style="top: 10px;"> Get in Touch <i class="fas fa-angle-right"></i> </button>
-              </form>
-            </div>
-          </div>
-
-
-
-        </div>
-
-
-
-      </div>
-    </div>
-  </section>
-  <!-- ===================
-          FORM AREA END
-     ===================== -->
+ 
 
 
 

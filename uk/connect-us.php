@@ -179,17 +179,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container">
       <div class="row box-commn justify-content-center align-items-center">
         <div class="col-xl-6 col-lg-7 col-md-12 address-from-first">
-          <h6> Let Us make it happen! </h6>
-          <h4>Reach out to us to explore more on <br> how we can help you take the leap </h4>
+          <h6> You are almost there! </h6>
+          <h4> Give us a call to learn more about <br>
+how we can help you stand apart. </h4>
 
 
           <ul class="address-list">
-            <li> <i class="fas fa-map-marker-alt"></i> <a href="#"> Kistler Maschinen- und Anlagenbau GmbH, <br>
+            <!-- <li> <i class="fas fa-map-marker-alt"></i> <a href="#"> Kistler Maschinen- und Anlagenbau GmbH, <br>
                 Mackstrasse 84, <br>
                 88348 Bad Saulgau, Germany </a> </li>
-            <li> <i class="fas fa-phone"></i> <a href="tel:+497581488820"> +49 / 7581 / 48882-0 </a> </li>
+            <li> <i class="fas fa-phone"></i> <a href="tel:+497581488820"> +49 / 7581 / 48882-0 </a> </li> -->
             <li> <i class="fas fa-envelope"></i> <a href="mailto:info@girafcreatives.com"> info@girafcreatives.com </a> </li>
-            <li> <i class="fas fa-map-marker-alt"></i> <a> Germany </a>
+            <li> <i class="fas fa-map-marker-alt"></i> <a> UK </a>
             </li>
           </ul>
 
@@ -221,8 +222,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container">
       <div class="row">
         <div class="col-md-12 map-area">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d43739385.15551817!2d9.516960000000001!3d48.00134!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479a4aa12f729af1%3A0xacd7701db1561118!2sKistler%20Maschinen-%20und%20Anlagenbau%20GmbH!5e0!3m2!1sen!2sin!4v1742820568533!5m2!1sen!2sin" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
+          
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10842543.651837125!2d-15.024794630218125!3d54.10133062173865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x25a3b1142c791a9%3A0xc4f8a0433288257a!2sUnited%20Kingdom!5e1!3m2!1sen!2sin!4v1749191392945!5m2!1sen!2sin" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
       </div>
     </div>
   </section>

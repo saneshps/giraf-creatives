@@ -26,7 +26,10 @@
        =======================-->
  
           <img src="./img/logo.png" alt="logo">
-          <p> © 2025 All rights reserved <span> <a href="https://girafcreatives.com/de/en" target="_blank"> Giraf Creatives </a> </span> creatives
+          <p> © 2025 All rights reserved <span> <a href="https://girafcreatives.com/de/en" target="_blank"> Giraf Creatives </a> </span>
+          </p>
+           <p>  
+             <span>    <a class="privacy" href="privacy-policy.php"> Privacy Policy </a>  </span>  
           </p>
         </div>
         <!-- secnd -->

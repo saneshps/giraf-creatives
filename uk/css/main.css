@@ -6358,14 +6358,14 @@ h2 {
 }
 .footer-area .footer-third {
   display: flex;
-  justify-content: flex-end;
-  align-items: flex-end;
+  justify-content: center;
+  align-items: center;
   flex-direction: column;
 }
 @media (max-width: 639px) {
   .footer-area .footer-third {
-    justify-content: flex-start;
-    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
     margin: 20px 0 0 0;
   }
 }

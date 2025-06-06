@@ -411,7 +411,7 @@ main {
 .nav-visible .nav-wrapper {
   transform: translateX(0);
   visibility: visible;
-  z-index: 99;
+  z-index: 9999;
 }
 
 .nav {
@@ -6353,6 +6353,11 @@ h2 {
   text-decoration: none;
   color: #ce900b;
 }
+.footer-area .footer-second .privacy {
+  color: #333333;
+  font-size: 14px;
+  font-weight: 400;
+}
 .footer-area .footer-third {
   display: flex;
   justify-content: flex-end;
@@ -6372,17 +6377,6 @@ h2 {
 }
 .footer-area .footer-third .social-links {
   padding: 30px 0 0 0;
-}
-.footer-area .footer-title-box {
-  border: 1px solid #ccc;
-  padding: 50px 30px;
-  border-radius: 30px;
-  background: #fff;
-}
-@media (max-width: 639px) {
-  .footer-area .footer-title-box {
-    padding: 40px 10px;
-  }
 }
 
 #intro {
@@ -6458,7 +6452,7 @@ h2 {
   width: 70%;
   height: 70%;
   transition: 0.5s;
-  border: 1px solid #F9B217;
+  border: 1px solid #835d0a;
   border-radius: 0;
 }
 
@@ -7662,18 +7656,6 @@ h2 {
     padding: 0 0 30px 0;
   }
 }
-@media (max-width: 991px) {
-  .address-from-area .box-commn {
-    padding: 40px 15px;
-    margin: 40px 0 0 0;
-  }
-}
-@media (max-width: 639px) {
-  .address-from-area .box-commn {
-    padding: 25px 0px;
-    margin: 40px 0 0 0;
-  }
-}
 .address-from-area .address-from-first h6 {
   color: #F9B217;
   font-weight: 400;
@@ -7707,7 +7689,7 @@ h2 {
   }
 }
 .address-from-area .address-from-first p {
-  color: #333;
+  color: #fff;
   font-weight: 300;
   line-height: 22px;
   margin: 14px 0 15px 0;
@@ -7876,80 +7858,6 @@ h2 {
     width: 100%;
   }
 }
-@media (max-width: 991px) {
-  .address-from-area .fm.box-commn {
-    padding: 20px 30px;
-  }
-}
-@media (max-width: 639px) {
-  .address-from-area .fm.box-commn {
-    border: none;
-  }
-}
-.address-from-area .felix-image {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-.address-from-area .felix-image img {
-  width: 250px;
-}
-@media (max-width: 1599px) {
-  .address-from-area .felix-image img {
-    width: 250px;
-  }
-}
-@media (max-width: 1199px) {
-  .address-from-area .felix-image img {
-    width: 210px;
-  }
-}
-@media (max-width: 991px) {
-  .address-from-area .felix-image img {
-    width: 240px;
-    margin: 60px 0 0 0;
-  }
-}
-@media (max-width: 639px) {
-  .address-from-area .felix-image img {
-    width: 170px;
-  }
-}
-.address-from-area .felix-image h4 {
-  font-size: 28px !important;
-  margin: 10px 0 10px 0;
-}
-@media (max-width: 1199px) {
-  .address-from-area .felix-image h4 {
-    font-size: 24px !important;
-    margin: 10px 0 5px 0;
-  }
-}
-@media (max-width: 639px) {
-  .address-from-area .felix-image h4 {
-    font-size: 22px !important;
-    margin: 10px 0 5px 0;
-  }
-}
-@media (max-width: 639px) {
-  .address-from-area .felix-image h5 {
-    margin: 0px 0 5px 0;
-  }
-}
-.address-from-area .felix-image h5 a {
-  font-size: 18px !important;
-  color: #000;
-}
-@media (max-width: 639px) {
-  .address-from-area .felix-image h5 a {
-    font-size: 17px !important;
-  }
-}
-.address-from-area .felix-image h5 a:hover {
-  color: #F9B217;
-  text-decoration: none;
-}
 
 .map-area {
   margin: 0 0 20px 0;
@@ -7969,6 +7877,68 @@ h2 {
     margin: 30px 0 60px 0;
   }
 }
+.privacy-area {
+  overflow: hidden;
+  padding: 70px 0;
+}
+@media (max-width: 1199px) {
+  .privacy-area {
+    padding: 0 0 30px 0;
+  }
+}
+@media (max-width: 991px) {
+  .privacy-area {
+    padding: 0 0 30px 0;
+  }
+}
+.privacy-area .privacy-first ul {
+  margin: 0 0 0 20px;
+}
+.privacy-area .privacy-first ul li {
+  list-style-type: disc;
+  color: #000;
+  line-height: 30px;
+}
+.privacy-area .privacy-first h6 {
+  color: #F9B217;
+  font-weight: 400;
+  font-size: 1.4rem !important;
+  margin: 15px 0 0 0;
+}
+@media (max-width: 991px) {
+  .privacy-area .privacy-first h6 {
+    font-size: 1.2rem !important;
+  }
+}
+@media (max-width: 639px) {
+  .privacy-area .privacy-first h6 {
+    font-size: 1.1rem !important;
+  }
+}
+.privacy-area .privacy-first h4 {
+  color: #000;
+  line-height: 35px;
+  padding-top: 14px;
+  font-size: 2.2rem;
+}
+@media (max-width: 1199px) {
+  .privacy-area .privacy-first h4 {
+    line-height: 30px;
+  }
+}
+@media (max-width: 991px) {
+  .privacy-area .privacy-first h4 {
+    line-height: 26px;
+    padding-top: 8px;
+  }
+}
+.privacy-area .privacy-first p {
+  color: #000;
+  font-weight: 400;
+  line-height: 26px;
+  margin: 14px 0 15px 0;
+}
+
 .home-header {
   height: 100%;
   color: #fff;
