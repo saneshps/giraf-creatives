@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "bigleapt_cms";
-$password = "43lxyTGB-*FS";
+$username = "root";
+$password = "";
 $database = "bigleapt_cms";
 
 // Create connection
