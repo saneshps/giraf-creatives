@@ -31,14 +31,14 @@
        <li class="<?php echo ($curPageName == "portfolio.php") ? 'active' : '' ?>">
          <a href="portfolio.php"> Projekte </a>
        </li>
-       <li class="<?php echo ($curPageName == "services.php" || $curPageName == "digital-marketing.php" || $curPageName == "branding.php" || $curPageName == "designing.php" || $curPageName == "web-and-app-development.php" || $curPageName == "photography-and-video-production.php" || $curPageName == "animation.php") ? 'active' : '' ?>">
-         <a href="services.php"> Unsere Services </a>
+       <li class="<?php echo ($curPageName == "dienstleistungen.php" || $curPageName == "digital-marketing.php" || $curPageName == "branding.php" || $curPageName == "designing.php" || $curPageName == "web-and-app-development.php" || $curPageName == "photography-and-video-production.php" || $curPageName == "animation.php") ? 'active' : '' ?>">
+         <a href="dienstleistungen.php"> Unsere Services </a>
        </li>
        <li class="<?php echo ($curPageName == "blogs.php" || $curPageName == "blog-details.php") ? 'active' : '' ?>">
          <a href="blogs.php"> Blogs </a>
        </li>
-       <li class="<?php echo ($curPageName == "connect-us.php") ? 'active' : '' ?>">
-         <a href="connect-us.php"> Kontakt </a>
+       <li class="<?php echo ($curPageName == "kontaktiere-uns.php") ? 'active' : '' ?>">
+         <a href="kontaktiere-uns.php"> Kontakt </a>
        </li>
      </ul>
      <span class="nav-marker"></span>

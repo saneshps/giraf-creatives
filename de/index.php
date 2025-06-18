@@ -147,7 +147,7 @@ $result = $conn->query($sql);
               <!-- <p> Stehen Sie aufrecht und selbstbewusst </p> -->
 
               <div class="read-more">
-                <a href="connect-us.php" class="btn btn-lg">
+                <a href="kontaktiere-uns.php" class="btn btn-lg">
                   Kontakt
                   <i class="fas fa-angle-right"></i>
                 </a>
@@ -526,7 +526,7 @@ $result = $conn->query($sql);
 
           <!-- =============== BUTTON =================== -->
           <div class="read-more">
-            <a href="services.php" class="btn btn-lg">
+            <a href="dienstleistungen.php" class="btn btn-lg">
               Unsere Services
               <i class="fas fa-angle-right"></i>
             </a>

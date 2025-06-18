@@ -1477,7 +1477,7 @@
 
           <!-- =============== BUTTON =================== -->
           <div class="read-more">
-            <a href="contact.php" class="btn btn-lg">
+            <a href="kontaktiere-uns.php" class="btn btn-lg">
               Kontaktieren Sie uns
               <i class="fas fa-angle-right"></i>
             </a>
