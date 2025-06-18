@@ -147,14 +147,14 @@
             <div class="col-xl-4 col-lg-6 col-md-12">
 
               <div class="services-list-box serv-detail-space serv-page">
-                <a href="digital-marketing.php">
+                <a href="digitales-marketing.php">
                   <h3> 01 </h3>
                   <h2> Digital Marketing </h2>
                   <p> Das Konsumverhalten hat sich in den letzten zehn Jahren drastisch verändert. Ein grundlegender
                     Wandel hat stattgefunden in der Art und Weise, wie Kunden nach Produkten suchen, sie
                     bewerten und kaufen. Diese Verlagerung der Kundenreise...
                   </p>
-                  <span href="digital-marketing.php"> View More ... </span>
+                  <span href="digitales-marketing.php"> View More ... </span>
                 </a>
               </div>
 
@@ -211,14 +211,14 @@
             <div class="col-xl-4 col-lg-6 col-md-12">
 
               <div class="services-list-box serv-detail-space serv-page">
-                <a href="photography-and-video-production.php">
+                <a href="fotografie-und-videoproduktion.php">
                   <h3> 05 </h3>
                   <h2> Produkt-Erklärvideos </h2>
                   <p> In diesem digitalen Zeitalter, in dem schneller und präziser Zugang zu Informationen bevorzugt
                     wird, ist es eine Herausforderung, das Interesse der Nutzer zu gewinnen und zu halten.
                     Unternehmen müssen effektive Strategien entwickeln, um Nutzer zu fesseln.
                   </p>
-                  <span href="photography-and-video-production.php"> View More ... </span>
+                  <span href="fotografie-und-videoproduktion.php"> View More ... </span>
                 </a>
               </div>
 
