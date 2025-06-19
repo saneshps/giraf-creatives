@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Get custom web application development services from the top Best web and App development company.We provide Web & Mobile App,E-commerce Development services">
-  <title> Website & Mobile App,E-commerce,Design Development Company,India|Giraf </title>
+  <title> Website & Mobile App,E-commerce,Design Development Company,India|Giraf Creatives</title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/in/web-and-app-development.php" rel="canonical">
   <!--// canonical -->

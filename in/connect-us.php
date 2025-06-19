@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Contact Us|Digital Marketing,Designing,Branding Agency,India|Giraf </title>
-  <meta name="description" content="Looking for a Digital Marketing Company, Branding, Designing, Web and App Development, Animation, Photography and Video Production in India Contact Us: +91 9874598775">
+  <meta name="description" content="Looking for Digital Marketing, Branding, Design, Web/App Development, Animation, Photo & Video in India? Contact: +91 9874598775 | info@giraf.in | Calicut, India">
+  <title>Contact Us| Giraf Creatives</title>
 
   <!-- canonical -->
   <link href="https://girafcreatives.com/in/connect-us.php" rel="canonical">

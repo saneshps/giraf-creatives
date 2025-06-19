@@ -15,8 +15,8 @@ $result = $conn->query($sql);
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Giraf is a top Digital Marketing Agency in India, providing Professional Branding, Animation,Web & App development,Designing,Photography and Videography Services">
-  <title> Best Digital Marketing,Web & App Development Company,India|Giraf </title>
+  <meta name="description" content="Giraf is a top digital marketing agency in India, with branches in Germany and the United States. For all types of creative work, connect with us.">
+  <title> Giraf Creatives| Best Advertising Agency in India </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/in" rel="canonical">
   <!--// canonical -->

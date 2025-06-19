@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="We are a leading Professional Advertising & Branding Agency in India.We also focus on Brand Strategy,Brand Identity,Digital Design,Print Design,Packaging services">
-  <title> Advertising &Professional Branding Agency,India|Giraf </title>
+  <title>Advertising & Professional Branding Agency,India|Giraf Creatives</title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/in/branding.php" rel="canonical">
   <!--// canonical -->

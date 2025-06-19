@@ -5,7 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Giraf </title>
+  <meta name="description" content="Unlock powerful design with Giraf Creatives — UI/UX that speaks, web design that performs, and graphics that leave a mark. Personalized, immersive, and brand-defining.">
+  <title> UI/UX, Web & Graphic Design Services | Giraf Creatives - Stand Tall with Design </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/in/designing.php" rel="canonical">
   <!--// canonical -->

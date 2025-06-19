@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Giraf is a leading digital marketing,web & App design & development company in India also focused on Designing,Branding,Photography and Video Production services">
-  <title> Top Website & App Design,Development,Branding Agency India|About </title>
+  <meta name="description" content="Digital marketing and advertising agency in India, also focused on branding, development, design, photography and videography, SEO, SMM, SEM, app development and animation.">
+  <title> Top Marketing Company,Development,Branding Agency India|About </title>
 
   <!-- canonical -->
   <link href="https://girafcreatives.com/in/about.php" rel="canonical">
