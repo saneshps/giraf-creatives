@@ -1102,6 +1102,15 @@
           </div>
         </div>
         <!--// clients-logos -->
+
+         <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/about/yes-shop.png" alt="cleanifix">
+          </div>
+        </div>
+        <!--// clients-logos -->
+        
       </div>
     </div>
   </section>

@@ -140,6 +140,78 @@
           <!-- ================ WEB START =================== -->
           <div class="row tab-bar-content is-active" id="website">
 
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <a href="https://alzamilmetal.com/" target="_blank"> <img src="./img/services/web/alzamil.jpg" alt="Alzamil"> </a>
+
+
+              </div>
+
+              <h4> <a href="https://www.alzamilmetal.com/" target="_blank"> Alzamil </a> </h4>
+              <h6> <a href="https://www.alzamilmetal.com/" target="_blank"> www.alzamilmetal.com </a> </h6>
+            </div>
+
+             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <a href="https://www.flexlifting.com/" target="_blank"> <img src="./img/services/web/flexlift.jpg" alt="Flexlift"> </a>
+
+
+              </div>
+
+              <h4> <a href="https://www.flexlifting.com/" target="_blank"> Flexlift </a> </h4>
+              <h6> <a href="https://www.flexlifting.com/" target="_blank"> www.flexlifting.com </a> </h6>
+            </div>
+
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <a href="https://yesmachinery.com/" target="_blank"> <img src="./img/services/web/yesmachinerym-com.jpg" alt="Yes Machinery"> </a>
+
+
+              </div>
+
+              <h4> <a href="https://yesmachinery.com/" target="_blank"> YES Machinery </a> </h4>
+              <h6> <a href="https://yesmachinery.com/" target="_blank"> www.yesmachinery.com </a> </h6>
+            </div>
+
+             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <a href="https://safetyatworks.com/" target="_blank"> <img src="./img/services/web/safetyat-work.jpg" alt="Safety at Work"> </a>
+
+
+              </div>
+
+              <h4> <a href="https://safetyatworks.com/" target="_blank"> Safety-at-Works </a> </h4>
+              <h6> <a href="https://safetyatworks.com/" target="_blank"> www.safetyatworks.com </a> </h6>
+            </div>
+
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <a href="https://glasslifter.com/" target="_blank"> <img src="./img/services/web/Glasslifter-2.jpg" alt="Glasslifter"> </a>
+
+
+              </div>
+
+              <h4> <a href="https://glasslifter.com/" target="_blank"> Glasslifter </a> </h4>
+              <h6> <a href="https://glasslifter.com/" target="_blank"> www.glasslifter.com </a> </h6>
+            </div>
+
+             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <a href="https://risagrobotics.com/" target="_blank"> <img src="./img/services/web/risagrobotics.jpg" alt="Risa Robotics"> </a>
+
+
+              </div>
+
+              <h4> <a href="https://risagrobotics.com/" target="_blank"> Risag Robotics </a> </h4>
+              <h6> <a href="https://risagrobotics.com/" target="_blank"> www.risagrobotics.com </a> </h6>
+            </div>
+
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -874,7 +946,8 @@
               <h4> <a> YES Machinery Sales App </a> </h4>
               <h6> <a href="https://www.yesmachinery.ae" target="_blank"> www.yesmachinery.ae </a> </h6>
             </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a>
                   <img src="./img/services/app/Seek-machine.jpg" alt="Seek Machine"> </a>
@@ -899,19 +972,15 @@
 
 
 
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a>
                   <img src="./img/services/app/Gullco-app.jpg" alt="Gullco"> </a>
-
-
               </div>
-
               <h4> <a> Gullco </a> </h4>
               <h6> <a href="https://www.gullco.com/" target="_blank"> www.gullco.com</a> </h6>
             </div>
-
 
 
           </div>
@@ -920,6 +989,28 @@
 
           <!-- ================ SEO  START =================== -->
           <div class="row tab-bar-content" id="seo">
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <img src="./img/services/seo/risagrobotics.jpg" alt="Risag Robotics">
+
+              </div>
+
+              <h4> <a href="https://risagrobotics.com/" target="_blank"> Risag Robotics</a> </h4>
+              <h6> <a href="https://risagrobotics.com/" target="_blank"> www.risagrobotics.com </a> </h6>
+            </div>
+
+                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <img src="./img/services/seo/safetyat-work.jpg" alt="Safety at Work">
+
+              </div>
+
+              <h4> <a href="https://safetyatworks.com/" target="_blank"> Safety-at-work</a> </h4>
+              <h6> <a href="https://safetyatworks.com/" target="_blank"> www.safetyatworks.com</a> </h6>
+            </div>
+
 
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -958,7 +1049,7 @@
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
-                <img src="./img/services/seo/Glass-Lifter.jpg" alt="Glass Lifter">
+                <img src="./img/services/seo/Glasslifter-2.jpg" alt="Glass Lifter">
 
               </div>
 

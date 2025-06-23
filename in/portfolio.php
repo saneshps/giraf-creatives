@@ -1458,12 +1458,6 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
               <h6> <a href="#" target="_blank"> Design </a> </h6>
             </div>
 
-
-
-
-
-
-
           </div>
 
           <div class="row tab-bar-content" id="app">
@@ -1499,6 +1493,7 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
               <h4> <a> YES Machinery Sales App </a> </h4>
               <h6> <a href="https://www.yesmachinery.ae" target="_blank"> www.yesmachinery.ae </a> </h6>
             </div>
+
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a>
@@ -1507,8 +1502,6 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
               <h4> <a> Seek Machine </a> </h4>
               <h6> <a href="https://seekmachines.com/" target="_blank"> www.seekmachines.com </a> </h6>
             </div>
-
-
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1522,17 +1515,12 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
               <h4> <a> Madhuirima Jewellery </a> </h4>
             </div>
 
-
-
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a>
                   <img src="./img/services/app/Gullco-app.jpg" alt="Gullco"> </a>
-
-
               </div>
-
               <h4> <a> Gullco </a> </h4>
               <h6> <a href="https://www.gullco.com/" target="_blank"> www.gullco.com</a> </h6>
             </div>
