@@ -97,10 +97,6 @@
           HERO AREA END
      ===================== -->
 
-
-
-
-
   <!-- =============================
           ABOUT AREA START
       ============================ -->
@@ -330,10 +326,7 @@
           <!--// col-md-8 -->
 
 
-
         </div>
-
-
 
         <!-- MANAGER -->
         <div class="row team-box">
@@ -406,8 +399,6 @@
           </div>
           <!-- team -->
 
-
-
           <!-- team -->
           <div class="col-xl-3 col-lg-4 col-md-4">
             <div class="our-team">
@@ -423,6 +414,20 @@
           </div>
           <!-- team -->
 
+          <!-- team -->
+          <div class="col-xl-3 col-lg-4 col-md-4">
+            <div class="our-team">
+              <div class="pic">
+                <img src="./img/team/hiran.jpg" alt="hiran">
+
+              </div>
+              <div class="team-content">
+                <h3 class="title"> Hiran Sagar </h3>
+                <span class="post"> Mobile App Developer </span>
+              </div>
+            </div>
+          </div>
+          <!-- team -->
 
           <!-- team -->
           <div class="col-xl-3 col-lg-4 col-md-4">
@@ -510,8 +515,6 @@
             </div>
           </div>
           <!-- team -->
-
-
 
 
         </div>
@@ -618,8 +621,6 @@
             </div>
           </div>
           <!-- team -->
-
-
 
         </div>
         <!-- Animators -->
@@ -1118,8 +1119,6 @@
           CLIENTS AREA END
        ====================== -->
 
-
-
   <!-- ======================
           FOOTER AREA START
        ====================== -->
@@ -1144,12 +1143,6 @@
   <!-- =====================
           FOOTER AREA END
        ===================== -->
-
-
-
-
-
-
 
   <!-- =====================
           JS AREA START

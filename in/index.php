@@ -652,6 +652,20 @@ $result = $conn->query($sql);
                   </div>
                   <!-- slide -->
 
+                  <!-- slide -->
+                  <div class="swiper-slide">
+                    <div class="our-team">
+                      <div class="pic">
+                        <img src="./img/team/hiran.jpg" alt="hiran">
+
+                      </div>
+                      <div class="team-content">
+                        <h3 class="title"> Hiran Sagar </h3>
+                        <span class="post"> Mobile App Developer </span>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- slide -->
 
                   <!-- slide -->
                   <div class="swiper-slide">
