@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Check out our portfolio that made us India’s top Digital Marketing, Branding, Web Design, Animation & App Development Company. See our work that sets us apart!">
-  <title>  
- 	
-Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
+  <title>
+
+    Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/in/portfolio.php" rel="canonical">
   <!--// canonical -->
@@ -183,7 +183,7 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
 
           <div class="row tab-bar-content is-active" id="website">
 
-  <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a href="https://alzamilmetal.com/" target="_blank"> <img src="./img/services/web/alzamil.jpg" alt="Alzamil"> </a>
@@ -195,7 +195,7 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
               <h6> <a href="https://www.alzamilmetal.com/" target="_blank"> www.alzamilmetal.com </a> </h6>
             </div>
 
-             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a href="https://www.flexlifting.com/" target="_blank"> <img src="./img/services/web/flexlift.jpg" alt="Flexlift"> </a>
@@ -207,17 +207,7 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
               <h6> <a href="https://www.flexlifting.com/" target="_blank"> www.flexlifting.com </a> </h6>
             </div>
 
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
-              <div class="box">
-                <a href="http://yesarabia.com/" target="_blank"> <img src="./img/services/web/yesarabia.jpg" alt="Yes Arabia"> </a>
-
-
-              </div>
-
-              <h4> <a href="http://yesarabia.com/" target="_blank"> YES Arabia </a> </h4>
-              <h6> <a href="http://yesarabia.com/" target="_blank"> www.yesarabia.com </a> </h6>
-            </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -231,7 +221,7 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
               <h6> <a href="https://yesmachinery.com/" target="_blank"> www.yesmachinery.com </a> </h6>
             </div>
 
-             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a href="https://safetyatworks.com/" target="_blank"> <img src="./img/services/web/safetyat-work.jpg" alt="Safety at Work"> </a>
@@ -255,7 +245,7 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
               <h6> <a href="https://glasslifter.com/" target="_blank"> www.glasslifter.com </a> </h6>
             </div>
 
-             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a href="https://risagrobotics.com/" target="_blank"> <img src="./img/services/web/risagrobotics.jpg" alt="Risa Robotics"> </a>
@@ -446,8 +436,8 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
               <h6> <a href="https://www.mgsaws.com/" target="_blank"> www.mgsaws.com </a> </h6>
             </div>
 
-             
-            
+
+
 
           </div>
 
@@ -1530,7 +1520,7 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
           <!-- ================ SEO  START =================== -->
           <div class="row tab-bar-content" id="seo">
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <img src="./img/services/seo/risagrobotics.jpg" alt="Risag Robotics">
@@ -1541,7 +1531,7 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
               <h6> <a href="https://risagrobotics.com/" target="_blank"> www.risagrobotics.com </a> </h6>
             </div>
 
-                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <img src="./img/services/seo/safetyat-work.jpg" alt="Safety at Work">
@@ -1697,7 +1687,7 @@ Portfolio | Digital Marketing & Advertising Agency| Giraf Creatives </title>
               <h6> <a href="https://rhinofloor.ae/" target="_blank"> www.rhinofloor.ae </a> </h6>
             </div>
 
-             
+
           </div>
 
           <!-- ================ SEO  END =================== -->
