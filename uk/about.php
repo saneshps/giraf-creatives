@@ -68,19 +68,30 @@
   <!-- blogs -->
   <?php include("gtag_head.php"); ?>
   <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NST5FJCH');</script>
-<!-- End Google Tag Manager -->
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NST5FJCH');
+  </script>
+  <!-- End Google Tag Manager -->
 </head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NST5FJCH"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) --> 
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NST5FJCH"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
   <!-- =====================
           HEADER START
      ===================== -->
@@ -541,7 +552,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <!--// clients-logos -->
 
+        <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/flex-lifting.png" alt="Flex Lifting">
+          </div>
+        </div>
+        <!--// clients-logos -->
 
+        <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/glass-lifter.png" alt="Glass Lifter">
+          </div>
+        </div>
+        <!--// clients-logos -->
+
+        <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/yes-shop.png" alt="Glass Lifter">
+          </div>
+        </div>
+        <!--// clients-logos -->
 
       </div>
     </div>
