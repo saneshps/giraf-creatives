@@ -845,6 +845,78 @@
     <div class="container">
       <div class="row">
 
+      <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/about/triplux.png" alt="triplux">
+          </div>
+        </div>
+        <!--// clients-logos -->
+
+      <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/about/Safety at work.png" alt="Safety at work">
+          </div>
+        </div>
+        <!--// clients-logos -->
+
+       <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/about/red rock.png" alt="red rock">
+          </div>
+        </div>
+        <!--// clients-logos -->
+
+        <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/about/Risag.png" alt="risag">
+          </div>
+        </div>
+        <!--// clients-logos -->
+
+        <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/about/harmas.png" alt="harmas">
+          </div>
+        </div>
+        <!--// clients-logos -->
+
+        <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/about/Granda.png" alt="granda">
+          </div>
+        </div>
+        <!--// clients-logos -->
+
+        <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/about/m tech.png" alt="m tech">
+          </div>
+        </div>
+        <!--// clients-logos -->
+
+      <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/about/Biax.png" alt="biax">
+          </div>
+        </div>
+        <!--// clients-logos -->
+      
+       <!-- clients-logos -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="clients-logos">
+            <img src="./img/clients/about/al zamil.png" alt="alzamil">
+          </div>
+        </div>
+        <!--// clients-logos -->
+
         <!-- clients-logos -->
         <div class="col-xl-2 col-lg-3 col-md-4 col-6">
           <div class="clients-logos">
@@ -1067,7 +1139,7 @@
           <!-- clients-logos -->
         <div class="col-xl-2 col-lg-3 col-md-4 col-6">
           <div class="clients-logos">
-            <img src="./img/clients/about/flaig.jpg" alt="flaig">
+            <img src="./img/clients/about/Flaig.png" alt="flaig">
           </div>
         </div>
         <!--// clients-logos -->
@@ -1083,7 +1155,7 @@
           <!-- clients-logos -->
         <div class="col-xl-2 col-lg-3 col-md-4 col-6">
           <div class="clients-logos">
-            <img src="./img/clients/about/dibo.jpg" alt="dibo">
+            <img src="./img/clients/about/Dibo.png" alt="dibo">
           </div>
         </div>
         <!--// clients-logos -->
