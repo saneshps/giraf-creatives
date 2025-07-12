@@ -890,7 +890,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <a>
                   <img src="./img/services/app/Seek-machine.jpg" alt="Seek Machine"> </a>
               </div>
-              <h4> <a> Seek Machine </a> </h4>
+              <h4> <a> Seek Machines </a> </h4>
               <h6> <a href="https://seekmachines.com/" target="_blank"> www.seekmachines.com </a> </h6>
             </div>
 
@@ -940,7 +940,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
               </div>
 
-              <h4> <a href="https://seekmachines.com" target="_blank"> Seek Machine </a> </h4>
+              <h4> <a href="https://seekmachines.com" target="_blank"> Seek Machines </a> </h4>
               <h6> <a href="https://seekmachines.com" target="_blank"> www.seekmachines.com </a> </h6>
             </div>
 
