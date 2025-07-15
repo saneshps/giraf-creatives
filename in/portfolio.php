@@ -183,7 +183,7 @@
 
           <div class="row tab-bar-content is-active" id="website">
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a href="https://scantool.dk/en" target="_blank"> <img src="./img/services/web/Scantool-new.jpg" alt="Scantool"> </a>
@@ -193,9 +193,9 @@
 
               <h4> <a href="https://scantool.dk/en" target="_blank"> Scantool </a> </h4>
               <h6> <a href="https://scantool.dk/en" target="_blank"> www.scantool.dk</a> </h6>
-          </div>
+            </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a href="https://yesshop.ae/" target="_blank"> <img src="./img/services/web/YES Shop.jpg" alt="YES shop"> </a>
@@ -205,7 +205,7 @@
 
               <h4> <a href="https://yesshop.ae/" target="_blank"> YES Shop </a> </h4>
               <h6> <a href="https://yesshop.ae/" target="_blank"> www.yesshop.ae</a> </h6>
-          </div>
+            </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -464,7 +464,7 @@
 
           <div class="row tab-bar-content" id="branding">
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <!-- <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/Welding Rotators.jpg">
                   <img src="./img/services/branding/Welding Rotators.jpg" alt="welding rotator">
@@ -473,9 +473,9 @@
               </div>
               <h4> <a>Welding Rotators</a> </h4>
               <h6> <a> Red Rock </a> </h6>
-            </div> 
+            </div>  -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/LABOUR DAY 2025.jpg">
                   <img src="./img/services/branding/LABOUR DAY 2025.jpg" alt="labour day">
@@ -484,9 +484,9 @@
               </div>
               <h4> <a> Labour Day 2025 </a> </h4>
               <h6> <a> Rhino Floor </a> </h6>
-            </div> 
+            </div>
 
-           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/TOBACCO DAY 2025 .jpg">
                   <img src="./img/services/branding/TOBACCO DAY 2025 .jpg" alt="tobacco day">
@@ -495,9 +495,9 @@
               </div>
               <h4> <a> Tobacco Day 2025 </a> </h4>
               <h6> <a> Giraf </a> </h6>
-            </div> 
+            </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/May Day.jpg">
                   <img src="./img/services/branding/May Day.jpg" alt="may day">
@@ -506,9 +506,9 @@
               </div>
               <h4> <a> May Day 2025 </a> </h4>
               <h6> <a> Giraf </a> </h6>
-            </div> 
+            </div>
 
-           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/omca May Day 2025.jpg">
                   <img src="./img/services/branding/omca May Day 2025.jpg" alt="omca may day">
@@ -517,9 +517,9 @@
               </div>
               <h4> <a> May Day 2025 </a> </h4>
               <h6> <a> Omca Machinery </a> </h6>
-            </div> 
+            </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/May day 2025 .jpg">
                   <img src="./img/services/branding/May day 2025 .jpg" alt="may day">
@@ -530,7 +530,7 @@
               <h6> <a> YES Clean </a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/omca Easter 2025.jpg">
                   <img src="./img/services/branding/omca Easter 2025.jpg" alt="omca easter">
@@ -541,7 +541,7 @@
               <h6> <a> Omca Machinery </a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/hijra 2025.jpg">
                   <img src="./img/services/branding/hijra 2025.jpg" alt="hijra">
@@ -560,10 +560,10 @@
 
               </div>
               <h4> <a> Hijra 2025 </a> </h4>
-              <h6> <a> Yes Machinery </a> </h6>
+              <h6> <a> YES Machinery </a> </h6>
             </div>
 
-           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/Hijra  2025 .jpg">
                   <img src="./img/services/branding/Hijra  2025 .jpg" alt="hijra">
@@ -596,7 +596,7 @@
               <h6> <a> Rhinofloor </a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/environment day2025.jpg">
                   <img src="./img/services/branding/environment day2025.jpg" alt="environment day">
@@ -607,7 +607,7 @@
               <h6> <a> Alshurooq </a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/environment day 2025.jpg">
                   <img src="./img/services/branding/environment day 2025.jpg" alt="environment day">
@@ -618,7 +618,7 @@
               <h6> <a> Bigleap </a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/Eid 2025.jpg">
                   <img src="./img/services/branding/Eid 2025.jpg" alt="Eid al adha">
@@ -1757,7 +1757,7 @@
           <!-- ================ SEO  START =================== -->
           <div class="row tab-bar-content" id="seo">
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <img src="./img/services/seo/Granda Lift.jpg" alt="Granda lift">
@@ -1768,7 +1768,7 @@
               <h6> <a href="https://www.grandagifts.com/" target="_blank"> www.grandagifts.com</a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <img src="./img/services/seo/Red Rock.jpg" alt="Red Rock">
@@ -1779,7 +1779,7 @@
               <h6> <a href="https://redrockautomation.com/" target="_blank"> www.redrockautomation.com</a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <img src="./img/services/seo/Mg Saws.jpg" alt="MG Saws">
@@ -1790,7 +1790,7 @@
               <h6> <a href="https://www.mgsaws.com/" target="_blank"> www.mgsaws.com</a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <img src="./img/services/seo/YES Shop.jpg" alt="YES Shop">
@@ -2305,7 +2305,7 @@
                           <div class="pulse1"> <i class="fas fa-play"></i> </div>
                         </div>
                       </a> </div>
-                       <!--// video popup -->
+                    <!--// video popup -->
                     <h4> <a href="#" target="_blank"> YES Machinery </a> </h4>
                     <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
                   </div>
@@ -2319,7 +2319,7 @@
                           <div class="pulse1"> <i class="fas fa-play"></i> </div>
                         </div>
                       </a> </div>
-                       <!--// video popup -->
+                    <!--// video popup -->
                     <h4> <a href="#" target="_blank"> YES Open House 2024 - Day 1 </a> </h4>
                     <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
                   </div>
@@ -2333,7 +2333,7 @@
                           <div class="pulse1"> <i class="fas fa-play"></i> </div>
                         </div>
                       </a> </div>
-                       <!--// video popup -->
+                    <!--// video popup -->
                     <h4> <a href="#" target="_blank"> YES Open House 2024 - Day 2 </a> </h4>
                     <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
                   </div>
@@ -2347,7 +2347,7 @@
                           <div class="pulse1"> <i class="fas fa-play"></i> </div>
                         </div>
                       </a> </div>
-                       <!--// video popup -->
+                    <!--// video popup -->
                     <h4> <a href="#" target="_blank"> CNC Drilling Machines | YES Machinery | DAMA|</a> </h4>
                     <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
                   </div>
