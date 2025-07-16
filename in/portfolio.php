@@ -1760,11 +1760,11 @@
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
-                <img src="./img/services/seo/Granda Lift.jpg" alt="Granda lift">
+                <img src="./img/services/seo/Granda gift.jpg" alt="Granda gift">
 
               </div>
 
-              <h4> <a href="https://www.grandagifts.com/" target="_blank">Granda Lift</a> </h4>
+              <h4> <a href="https://www.grandagifts.com/" target="_blank">Granda Gift</a> </h4>
               <h6> <a href="https://www.grandagifts.com/" target="_blank"> www.grandagifts.com</a> </h6>
             </div>
 
