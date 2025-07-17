@@ -140,6 +140,18 @@
           <!-- ================ WEB START =================== -->
           <div class="row tab-bar-content is-active" id="website">
 
+           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <a href="https://yesshop.ae/" target="_blank"> <img src="./img/services/web/yes-shop.jpg" alt="yes-shop"> </a>
+
+
+              </div>
+
+              <h4> <a href="https://yesshop.ae/" target="_blank"> YES Shop </a> </h4>
+              <h6> <a href="https://yesshop.ae/" target="_blank"> www.yesshop.ae</a> </h6>
+            </div>
+
           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
@@ -412,9 +424,118 @@
           <!-- ================ WEB END =================== -->
 
           <!-- ================ BRANDING START =================== -->
+          
           <div class="row tab-bar-content" id="branding">
+          
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/rhino-labour-day-2025.jpg">
+                  <img src="./img/services/branding/rhino-labour-day-2025.jpg" alt="labour day">
+                </a>
 
+              </div>
+              <h4> <a> Labour Day 2025 </a> </h4>
+              <h6> <a> Rhino Floor </a> </h6>
+            </div>
 
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/giraf-tobacco-2025.jpg">
+                  <img src="./img/services/branding/giraf-tobacco-2025.jpg" alt="tobacco day">
+                </a>
+
+              </div>
+              <h4> <a> Tobacco Day 2025 </a> </h4>
+              <h6> <a> Giraf </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/omca-mayday-2025.jpg">
+                  <img src="./img/services/branding/omca-mayday-2025.jpg" alt="omca may day">
+                </a>
+
+              </div>
+              <h4> <a> Labour Day 2025 </a> </h4>
+              <h6> <a> Omca Machinery </a> </h6>
+            </div>
+
+                   <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/yes-clean-mayday-2025.jpg">
+                  <img src="./img/services/branding/yes-clean-mayday-2025.jpg" alt="may day">
+                </a>
+
+              </div>
+              <h4> <a> Labour Day 2025 </a> </h4>
+              <h6> <a> YES Clean </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/giraf-mayday-2025.jpg">
+                  <img src="./img/services/branding/giraf-mayday-2025.jpg" alt="may day">
+                </a>
+
+              </div>
+              <h4> <a> Labour Day 2025 </a> </h4>
+              <h6> <a> Giraf </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/alshurooq-environment-day-2025.jpg">
+                  <img src="./img/services/branding/alshurooq-environment-day-2025.jpg" alt="environment day">
+                </a>
+
+              </div>
+              <h4> <a> Environment Day 2025 </a> </h4>
+              <h6> <a> Alshurooq </a> </h6>
+            </div>
+
+           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/yes-mach-environment-day-2025.jpg">
+                  <img src="./img/services/branding/yes-mach-environment-day-2025.jpg" alt="environment day">
+                </a>
+
+              </div>
+              <h4> <a> Environment Day 2025 </a> </h4>
+              <h6> <a> YES Machinery </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/giraf-environment-day-2025.jpg">
+                  <img src="./img/services/branding/giraf-environment-day-2025.jpg" alt="environment day">
+                </a>
+
+              </div>
+              <h4> <a> Environment Day 2025 </a> </h4>
+              <h6> <a> Giraf </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/omca-easter-2025.jpg">
+                  <img src="./img/services/branding/omca-easter-2025.jpg" alt="omca easter">
+                </a>
+
+              </div>
+              <h4> <a> Easter 2025 </a> </h4>
+              <h6> <a> Omca Machinery </a> </h6>
+            </div>
+
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/yes-clean-easter-2025.jpg">
+                  <img src="./img/services/branding/yes-clean-easter-2025.jpg" alt="Eid al adha">
+                </a>
+
+              </div>
+              <h4> <a> Easter 2025 </a> </h4>
+              <h6> <a> YES Clean </a> </h6>
+            </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
@@ -488,11 +609,6 @@
               <h4> <a> Paper Cup Design </a> </h4>
               <h6> <a> YES Machinery </a> </h6>
             </div>
-
-
-
-
-
 
 
 
@@ -989,6 +1105,40 @@
 
           <!-- ================ SEO  START =================== -->
           <div class="row tab-bar-content" id="seo">
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <img src="./img/services/seo/granda-gift.jpg" alt="Granda gift">
+
+              </div>
+
+              <h4> <a href="https://www.grandagifts.com/" target="_blank">Granda Gift</a> </h4>
+              <h6> <a href="https://www.grandagifts.com/" target="_blank"> www.grandagifts.com</a> </h6>
+            </div>
+
+           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <img src="./img/services/seo/red-rock.jpg" alt="Red Rock">
+
+              </div>
+
+              <h4> <a href="https://redrockautomation.com/" target="_blank">Red Rock</a> </h4>
+              <h6> <a href="https://redrockautomation.com/" target="_blank"> www.redrockautomation.com</a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <img src="./img/services/seo/yes-shop.jpg" alt="yes-shop">
+
+              </div>
+
+              <h4> <a href="https://yesshop.ae/" target="_blank"> YES Shop</a> </h4>
+              <h6> <a href="https://yesshop.ae/" target="_blank"> www.yesshop.ae </a> </h6>
+            </div>
+
           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">

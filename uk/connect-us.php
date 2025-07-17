@@ -186,10 +186,11 @@ how we can help you stand apart. </h4>
 
 
           <ul class="address-list">
-            <!-- <li> <i class="fas fa-map-marker-alt"></i> <a href="#"> Kistler Maschinen- und Anlagenbau GmbH, <br>
-                Mackstrasse 84, <br>
-                88348 Bad Saulgau, Germany </a> </li>
-            <li> <i class="fas fa-phone"></i> <a href="tel:+497581488820"> +49 / 7581 / 48882-0 </a> </li> -->
+            <li> <i class="fas fa-map-marker-alt"></i> <a href="#"> 7b Cartside avenue, <br>
+              PA4 9RX, 
+                  <br>
+                Glasgow, United Kingdom </a> </li>
+            <li> <i class="fas fa-phone"></i> <a href="tel:+447498986428"> +44 / 7498 / 98642-8 </a> </li>
             <li> <i class="fas fa-envelope"></i> <a href="mailto:info@girafcreatives.com"> info@girafcreatives.com </a> </li>
             <li> <i class="fas fa-map-marker-alt"></i> <a> UK </a>
             </li>
@@ -208,7 +209,7 @@ how we can help you stand apart. </h4>
         <!-- <div class="col-xl-4 col-lg-5 col-md-12 felix-image">
           <img src="./img/Felix_Kistler.png" alt="felix kistler">
           <h4> Felix Kistler</h4>
-          <h5> <a href="tel:497581488820"> +49 / 7581 / 48882-0 </a> </h5>
+          <h5> <a href="tel:497581488820"> +44 / 7498 / 98642-8</a> </h5>
         </div> -->
 
 

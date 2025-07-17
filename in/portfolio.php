@@ -477,8 +477,8 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/LABOUR DAY 2025.jpg">
-                  <img src="./img/services/branding/LABOUR DAY 2025.jpg" alt="labour day">
+                <a data-fancybox="gallery" href="./img/services/branding/rhino-labour-day-2025.jpg">
+                  <img src="./img/services/branding/rhino-labour-day-2025.jpg" alt="labour day">
                 </a>
 
               </div>
@@ -488,8 +488,8 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/TOBACCO DAY 2025 .jpg">
-                  <img src="./img/services/branding/TOBACCO DAY 2025 .jpg" alt="tobacco day">
+                <a data-fancybox="gallery" href="./img/services/branding/giraf-tobacco-2025.jpg">
+                  <img src="./img/services/branding/giraf-tobacco-2025.jpg" alt="tobacco day">
                 </a>
 
               </div>
@@ -499,41 +499,41 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/May Day.jpg">
-                  <img src="./img/services/branding/May Day.jpg" alt="may day">
+                <a data-fancybox="gallery" href="./img/services/branding/giraf-mayday-2025.jpg">
+                  <img src="./img/services/branding/giraf-mayday-2025.jpg" alt="may day">
                 </a>
 
               </div>
-              <h4> <a> May Day 2025 </a> </h4>
+              <h4> <a> Labour Day 2025 </a> </h4>
               <h6> <a> Giraf </a> </h6>
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/omca May Day 2025.jpg">
-                  <img src="./img/services/branding/omca May Day 2025.jpg" alt="omca may day">
+                <a data-fancybox="gallery" href="./img/services/branding/omca-mayday-2025.jpg">
+                  <img src="./img/services/branding/omca-mayday-2025.jpg" alt="omca may day">
                 </a>
 
               </div>
-              <h4> <a> May Day 2025 </a> </h4>
+              <h4> <a> Labour Day 2025 </a> </h4>
               <h6> <a> Omca Machinery </a> </h6>
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/May day 2025 .jpg">
-                  <img src="./img/services/branding/May day 2025 .jpg" alt="may day">
+                <a data-fancybox="gallery" href="./img/services/branding/yes-clean-mayday-2025.jpg">
+                  <img src="./img/services/branding/yes-clean-mayday-2025.jpg" alt="may day">
                 </a>
 
               </div>
-              <h4> <a> May Day 2025 </a> </h4>
+              <h4> <a> Labour Day 2025 </a> </h4>
               <h6> <a> YES Clean </a> </h6>
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/omca Easter 2025.jpg">
-                  <img src="./img/services/branding/omca Easter 2025.jpg" alt="omca easter">
+                <a data-fancybox="gallery" href="./img/services/branding/omca-easter-2025.jpg">
+                  <img src="./img/services/branding/omca-easter-2025.jpg" alt="omca easter">
                 </a>
 
               </div>
@@ -543,8 +543,8 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/hijra 2025.jpg">
-                  <img src="./img/services/branding/hijra 2025.jpg" alt="hijra">
+                <a data-fancybox="gallery" href="./img/services/branding/store-to-go-hijra-2025.jpg">
+                  <img src="./img/services/branding/store-to-go-hijra-2025.jpg" alt="hijra">
                 </a>
 
               </div>
@@ -554,8 +554,8 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/hijri 2025.jpg">
-                  <img src="./img/services/branding/hijri 2025.jpg" alt="hijra">
+                <a data-fancybox="gallery" href="./img/services/branding/yes-mach-hijri-2025.jpg">
+                  <img src="./img/services/branding/yes-mach-hijri-2025.jpg" alt="hijra">
                 </a>
 
               </div>
@@ -565,8 +565,8 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/Hijra  2025 .jpg">
-                  <img src="./img/services/branding/Hijra  2025 .jpg" alt="hijra">
+                <a data-fancybox="gallery" href="./img/services/branding/alshurooq-hijra-2025.jpg">
+                  <img src="./img/services/branding/alshurooq-hijra-2025.jpg" alt="hijra">
                 </a>
 
               </div>
@@ -576,8 +576,8 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/hijra 2025 .jpg">
-                  <img src="./img/services/branding/hijra 2025 .jpg" alt="hijra">
+                <a data-fancybox="gallery" href="./img/services/branding/red-rock-hijra-2025.jpg">
+                  <img src="./img/services/branding/red-rock-hijra-2025.jpg" alt="hijra">
                 </a>
 
               </div>
@@ -587,8 +587,8 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/hijri  2025 .jpg">
-                  <img src="./img/services/branding/hijri  2025 .jpg" alt="hijra">
+                <a data-fancybox="gallery" href="./img/services/branding/rhino-hijri-2025.jpg">
+                  <img src="./img/services/branding/rhino-hijri-2025.jpg" alt="hijra">
                 </a>
 
               </div>
@@ -598,8 +598,8 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/environment day2025.jpg">
-                  <img src="./img/services/branding/environment day2025.jpg" alt="environment day">
+                <a data-fancybox="gallery" href="./img/services/branding/alshurooq-environment-day-2025.jpg">
+                  <img src="./img/services/branding/alshurooq-environment-day-2025.jpg" alt="environment day">
                 </a>
 
               </div>
@@ -609,8 +609,8 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/environment day 2025.jpg">
-                  <img src="./img/services/branding/environment day 2025.jpg" alt="environment day">
+                <a data-fancybox="gallery" href="./img/services/branding/bigleap-environment-day-2025.jpg">
+                  <img src="./img/services/branding/bigleap-environment-day-2025.jpg" alt="environment day">
                 </a>
 
               </div>
@@ -620,8 +620,8 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/Eid 2025.jpg">
-                  <img src="./img/services/branding/Eid 2025.jpg" alt="Eid al adha">
+                <a data-fancybox="gallery" href="./img/services/branding/seek-eid-2025.jpg">
+                  <img src="./img/services/branding/seek-eid-2025.jpg" alt="Eid al adha">
                 </a>
 
               </div>
@@ -631,8 +631,8 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/environment-2025.jpg">
-                  <img src="./img/services/branding/environment-2025.jpg" alt="environment day">
+                <a data-fancybox="gallery" href="./img/services/branding/yes-mach-environment-day-2025.jpg">
+                  <img src="./img/services/branding/yes-mach-environment-day-2025.jpg" alt="environment day">
                 </a>
 
               </div>
@@ -642,8 +642,8 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/environment 2025 .jpg">
-                  <img src="./img/services/branding/environment 2025 .jpg" alt="environment day">
+                <a data-fancybox="gallery" href="./img/services/branding/giraf-environment-day-2025.jpg">
+                  <img src="./img/services/branding/giraf-environment-day-2025.jpg" alt="environment day">
                 </a>
 
               </div>
@@ -652,28 +652,28 @@
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/arafah day 2025 .jpg">
-                  <img src="./img/services/branding/arafah day 2025 .jpg" alt="Eid al adha">
+                <a data-fancybox="gallery" href="./img/services/branding/alshurooq-arafah-day-2025.jpg">
+                  <img src="./img/services/branding/alshurooq-arafah-day-2025.jpg" alt="Eid al adha">
                 </a>
 
               </div>
-              <h4> <a> Eid 2025 </a> </h4>
+              <h4> <a> Arafah 2025 </a> </h4>
               <h6> <a> Alshurooq </a> </h6>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/eid-2025.jpg">
-                  <img src="./img/services/branding/eid-2025.jpg" alt="Eid al adha">
+                <a data-fancybox="gallery" href="./img/services/branding/yes-clean-easter-2025.jpg">
+                  <img src="./img/services/branding/yes-clean-easter-2025.jpg" alt="Eid al adha">
                 </a>
 
               </div>
-              <h4> <a> Eid 2025 </a> </h4>
+              <h4> <a> Easter 2025 </a> </h4>
               <h6> <a> YES Clean </a> </h6>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/Easter-2025.jpg">
-                  <img src="./img/services/branding/Easter-2025.jpg" alt="Eid al adha">
+                <a data-fancybox="gallery" href="./img/services/branding/yes-auto-easter-2025.jpg">
+                  <img src="./img/services/branding/yes-auto-easter-2025.jpg" alt="Eid al adha">
                 </a>
 
               </div>
@@ -682,8 +682,8 @@
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/Eid-al-adha.jpg">
-                  <img src="./img/services/branding/Eid-al-adha.jpg" alt="Eid al adha">
+                <a data-fancybox="gallery" href="./img/services/branding/store-to-go-eid-al-adha.jpg">
+                  <img src="./img/services/branding/store-to-go-eid-al-adha.jpg" alt="Eid al adha">
                 </a>
 
               </div>
@@ -1757,10 +1757,12 @@
           <!-- ================ SEO  START =================== -->
           <div class="row tab-bar-content" id="seo">
 
+          
+
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
-                <img src="./img/services/seo/Granda gift.jpg" alt="Granda gift">
+                <img src="./img/services/seo/granda-gift.jpg" alt="Granda gift">
 
               </div>
 
@@ -1771,7 +1773,7 @@
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
-                <img src="./img/services/seo/Red Rock.jpg" alt="Red Rock">
+                <img src="./img/services/seo/red-rock.jpg" alt="Red Rock">
 
               </div>
 
@@ -1793,7 +1795,7 @@
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
-                <img src="./img/services/seo/YES Shop.jpg" alt="YES Shop">
+                <img src="./img/services/seo/yes-shop.jpg" alt="yes-shop">
 
               </div>
 

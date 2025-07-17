@@ -156,6 +156,86 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
               <div class="box">
 
+                <a data-fancybox="gallery" href="./img/services/web/risagrobotics.jpg">
+                  <img src="./img/services/web/risagrobotics.jpg" alt="risagrobotics">
+                </a>
+
+              </div>
+
+              <h4> <a>Risag Robotics</a> </h4>
+
+              <h6> <a href="https://risagrobotics.com/" target="_blank">www.risagrobotics.com </a> </a> </h6>
+
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+
+                <a data-fancybox="gallery" href="./img/services/web/glasslifter-2.jpg">
+                  <img src="./img/services/web/glasslifter-2.jpg" alt="glasslifter">
+                </a>
+
+              </div>
+
+              <h4> <a>Glasslifter</a> </h4>
+
+              <h6> <a href="https://glasslifter.com/" target="_blank">www.glasslifter.com </a> </a> </h6>
+
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+
+                <a data-fancybox="gallery" href="./img/services/web/safetyat-work.jpg">
+                  <img src="./img/services/web/safetyat-work.jpg" alt="safetyat-work">
+                </a>
+
+              </div>
+
+              <h4> <a> Safety-at-Works</a> </h4>
+
+              <h6> <a href="https://safetyatworks.com/" target="_blank">www.safetyatworks.com </a> </a> </h6>
+
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+
+                <a data-fancybox="gallery" href="./img/services/web/alzamil.jpg">
+                  <img src="./img/services/web/alzamil.jpg" alt="alzamil">
+                </a>
+
+              </div>
+
+              <h4> <a> Alzamil</a> </h4>
+
+              <h6> <a href="https://alzamilmetal.com/" target="_blank">www.alzamilmetal.com </a> </a> </h6>
+
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+
+                <a data-fancybox="gallery" href="./img/services/web/yesshop.jpg">
+                  <img src="./img/services/web/yesshop.jpg" alt="yesshop">
+                </a>
+
+              </div>
+
+              <h4> <a> YES Shop</a> </h4>
+
+              <h6> <a href="https://yesshop.ae/" target="_blank">www.yesshop.ae </a> </a> </h6>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+
                 <a data-fancybox="gallery" href="./img/services/web/Alshurooq1.jpg">
                   <img src="./img/services/web/Alshurooq1.jpg" alt="alshurooq">
                 </a>
@@ -353,7 +433,115 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <!-- ================ BRANDING START =================== -->
           <div class="row tab-bar-content" id="branding">
 
+<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/rhino-labour-day-2025.jpg">
+                  <img src="./img/services/branding/rhino-labour-day-2025.jpg" alt="labour day">
+                </a>
 
+              </div>
+              <h4> <a> Labour Day 2025 </a> </h4>
+              <h6> <a> Rhino Floor </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/giraf-tobacco-2025.jpg">
+                  <img src="./img/services/branding/giraf-tobacco-2025.jpg" alt="tobacco day">
+                </a>
+
+              </div>
+              <h4> <a> Tobacco Day 2025 </a> </h4>
+              <h6> <a> Giraf </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/omca-mayday-2025.jpg">
+                  <img src="./img/services/branding/omca-mayday-2025.jpg" alt="omca may day">
+                </a>
+
+              </div>
+              <h4> <a> Labour Day 2025 </a> </h4>
+              <h6> <a> Omca Machinery </a> </h6>
+            </div>
+
+                   <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/yes-clean-mayday-2025.jpg">
+                  <img src="./img/services/branding/yes-clean-mayday-2025.jpg" alt="may day">
+                </a>
+
+              </div>
+              <h4> <a> Labour Day 2025 </a> </h4>
+              <h6> <a> YES Clean </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/giraf-mayday-2025.jpg">
+                  <img src="./img/services/branding/giraf-mayday-2025.jpg" alt="may day">
+                </a>
+
+              </div>
+              <h4> <a> Labour Day 2025 </a> </h4>
+              <h6> <a> Giraf </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/alshurooq-environment-day-2025.jpg">
+                  <img src="./img/services/branding/alshurooq-environment-day-2025.jpg" alt="environment day">
+                </a>
+
+              </div>
+              <h4> <a> Environment Day 2025 </a> </h4>
+              <h6> <a> Alshurooq </a> </h6>
+            </div>
+
+           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/yes-mach-environment-day-2025.jpg">
+                  <img src="./img/services/branding/yes-mach-environment-day-2025.jpg" alt="environment day">
+                </a>
+
+              </div>
+              <h4> <a> Environment Day 2025 </a> </h4>
+              <h6> <a> YES Machinery </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/giraf-environment-day-2025.jpg">
+                  <img src="./img/services/branding/giraf-environment-day-2025.jpg" alt="environment day">
+                </a>
+
+              </div>
+              <h4> <a> Environment Day 2025 </a> </h4>
+              <h6> <a> Giraf </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/omca-easter-2025.jpg">
+                  <img src="./img/services/branding/omca-easter-2025.jpg" alt="omca easter">
+                </a>
+
+              </div>
+              <h4> <a> Easter 2025 </a> </h4>
+              <h6> <a> Omca Machinery </a> </h6>
+            </div>
+
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+              <div class="box">
+                <a data-fancybox="gallery" href="./img/services/branding/yes-clean-easter-2025.jpg">
+                  <img src="./img/services/branding/yes-clean-easter-2025.jpg" alt="Eid al adha">
+                </a>
+
+              </div>
+              <h4> <a> Easter 2025 </a> </h4>
+              <h6> <a> YES Clean </a> </h6>
+            </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
@@ -932,6 +1120,72 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <!-- ================ SEO  START =================== -->
           <div class="row tab-bar-content" id="seo">
 
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <img src="./img/services/seo/safetyat-work.jpg" alt="safetyat-work">
+
+              </div>
+
+              <h4> <a href="https://safetyatworks.com/" target="_blank"> Safety-at-work </a> </h4>
+              <h6> <a href="https://safetyatworks.com/" target="_blank"> www.safetyatworks.com </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <img src="./img/services/seo/risagrobotics.jpg" alt="risagrobotics">
+
+              </div>
+
+              <h4> <a href="https://risagrobotics.com/" target="_blank"> Risag Robotics </a> </h4>
+              <h6> <a href="https://risagrobotics.com/" target="_blank"> www.risagrobotics.com </a> </h6>
+            </div>
+
+
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <img src="./img/services/seo/yes-shop.jpg" alt="YES Shop">
+
+              </div>
+
+              <h4> <a href="https://yesshop.ae/" target="_blank"> YES Shop </a> </h4>
+              <h6> <a href="https://yesshop.ae/" target="_blank"> www.yesshop.ae </a> </h6>
+            </div>
+
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <img src="./img/services/seo/mg-saws.jpg" alt="Seek Machine">
+
+              </div>
+
+              <h4> <a href="https://www.mgsaws.com/" target="_blank"> MG Saws </a> </h4>
+              <h6> <a href="https://www.mgsaws.com/" target="_blank"> www.mgsaws.com </a> </h6>
+            </div>
+
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <img src="./img/services/seo/red-rock.jpg" alt="Seek Machine">
+
+              </div>
+
+              <h4> <a href="https://redrockautomation.com/" target="_blank"> Red Rock </a> </h4>
+              <h6> <a href="https://redrockautomation.com/" target="_blank"> www.redrockautomation.com </a> </h6>
+            </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+              <div class="box">
+                <img src="./img/services/seo/granda-gift.jpg" alt="Seek Machine">
+
+              </div>
+
+              <h4> <a href="https://www.grandagifts.com/" target="_blank"> Granda Gift </a> </h4>
+              <h6> <a href="https://www.grandagifts.com/" target="_blank"> www.grandagifts.com </a> </h6>
+            </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1420,6 +1674,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </div>
                 </div>
 
+                <div class="col-xl-6 col-lg-6 col-md-12 video-1">
+                  <div class="portfolio-page-box corporate">
+                    <img src="./img/portfolio/v-1.jpg" alt="video-1">
+                    <div class="hero-video"> <a href="https://www.youtube.com/watch?v=iMGN0kV0HLI" class="video-play-btn1 popup-video"> <i class="icofont-play-alt-3"></i>
+                        <div class="center1">
+                          <div class="pulse1"> <i class="fas fa-play"></i> </div>
+                        </div>
+                      </a> </div>
+                    <!--// video popup -->
+                    <h4> <a href="#" target="_blank"> YES Open House 2024 - Day 1 </a> </h4>
+                    <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                  </div>
+                </div>
+
+                <div class="col-xl-6 col-lg-6 col-md-12 video-1">
+                  <div class="portfolio-page-box corporate">
+                    <img src="./img/portfolio/v-2.jpg" alt="video-2">
+                    <div class="hero-video"> <a href="https://www.youtube.com/watch?v=W952bRv7Vek" class="video-play-btn1 popup-video"> <i class="icofont-play-alt-3"></i>
+                        <div class="center1">
+                          <div class="pulse1"> <i class="fas fa-play"></i> </div>
+                        </div>
+                      </a> </div>
+                    <!--// video popup -->
+                    <h4> <a href="#" target="_blank"> YES Open House 2024 - Day 2 </a> </h4>
+                    <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                  </div>
+                </div>
+
+                <div class="col-xl-6 col-lg-6 col-md-12 video-1">
+                  <div class="portfolio-page-box corporate">
+                    <img src="./img/portfolio/v-3.jpg" alt="video-3">
+                    <div class="hero-video"> <a href="https://www.youtube.com/watch?v=RZpIl4fRI04" class="video-play-btn1 popup-video"> <i class="icofont-play-alt-3"></i>
+                        <div class="center1">
+                          <div class="pulse1"> <i class="fas fa-play"></i> </div>
+                        </div>
+                      </a> </div>
+                    <!--// video popup -->
+                    <h4> <a href="#" target="_blank"> CNC Drilling Machines | YES Machinery | DAMA|</a> </h4>
+                    <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                  </div>
+                </div>
 
 
 
