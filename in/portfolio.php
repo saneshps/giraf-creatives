@@ -2354,11 +2354,7 @@
                     <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
                   </div>
                 </div>
-
-
-
-
-
+                
               </div>
             </div>
           </div>

@@ -1667,6 +1667,48 @@
                   </div>
                 </div>
 
+                <div class="col-xl-6 col-lg-6 col-md-12 video-1">
+                  <div class="portfolio-page-box corporate">
+                    <img src="./img/portfolio/v-1.jpg" alt="video-1">
+                    <div class="hero-video"> <a href="https://www.youtube.com/watch?v=iMGN0kV0HLI" class="video-play-btn1 popup-video"> <i class="icofont-play-alt-3"></i>
+                        <div class="center1">
+                          <div class="pulse1"> <i class="fas fa-play"></i> </div>
+                        </div>
+                      </a> </div>
+                    <!--// video popup -->
+                    <h4> <a href="#" target="_blank"> YES Open House 2024 - Day 1 </a> </h4>
+                    <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                  </div>
+                </div>
+
+                <div class="col-xl-6 col-lg-6 col-md-12 video-1">
+                  <div class="portfolio-page-box corporate">
+                    <img src="./img/portfolio/v-2.jpg" alt="video-2">
+                    <div class="hero-video"> <a href="https://www.youtube.com/watch?v=W952bRv7Vek" class="video-play-btn1 popup-video"> <i class="icofont-play-alt-3"></i>
+                        <div class="center1">
+                          <div class="pulse1"> <i class="fas fa-play"></i> </div>
+                        </div>
+                      </a> </div>
+                    <!--// video popup -->
+                    <h4> <a href="#" target="_blank"> YES Open House 2024 - Day 2 </a> </h4>
+                    <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                  </div>
+                </div>
+
+                <div class="col-xl-6 col-lg-6 col-md-12 video-1">
+                  <div class="portfolio-page-box corporate">
+                    <img src="./img/portfolio/v-3.jpg" alt="video-3">
+                    <div class="hero-video"> <a href="https://www.youtube.com/watch?v=RZpIl4fRI04" class="video-play-btn1 popup-video"> <i class="icofont-play-alt-3"></i>
+                        <div class="center1">
+                          <div class="pulse1"> <i class="fas fa-play"></i> </div>
+                        </div>
+                      </a> </div>
+                    <!--// video popup -->
+                    <h4> <a href="#" target="_blank"> CNC Drilling Machines | YES Machinery | DAMA|</a> </h4>
+                    <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                  </div>
+                </div>
+
 
 
 
