@@ -67,28 +67,38 @@
   <!-- <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'> -->
   <!-- blogs -->
   <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NST5FJCH');
-</script>
-<!-- End Google Tag Manager -->
-<style>
-        label.error {
-            color: red;
-            font-size: 14px;
-            margin-top: 5px;
-            display: block;
-        }
- </style>
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NST5FJCH');
+  </script>
+  <!-- End Google Tag Manager -->
+  <style>
+    label.error {
+      color: red;
+      font-size: 14px;
+      margin-top: 5px;
+      display: block;
+    }
+  </style>
 </head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NST5FJCH"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NST5FJCH"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
   <!-- =====================
           HEADER START
      ===================== -->
@@ -182,18 +192,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="col-xl-6 col-lg-7 col-md-12 address-from-first">
           <h6> You are almost there! </h6>
           <h4> Give us a call to learn more about <br>
-how we can help you stand apart. </h4>
+            how we can help you stand apart. </h4>
 
 
           <ul class="address-list">
             <li> <i class="fas fa-map-marker-alt"></i> <a href="#"> 7b Cartside avenue, <br>
-              PA4 9RX, 
-                  <br>
+                PA4 9RX,
+                <br>
                 Glasgow, United Kingdom </a> </li>
             <li> <i class="fas fa-phone"></i> <a href="tel:+447498986428"> +44 / 7498 / 98642-8 </a> </li>
             <li> <i class="fas fa-envelope"></i> <a href="mailto:info@girafcreatives.com"> info@girafcreatives.com </a> </li>
-            <li> <i class="fas fa-map-marker-alt"></i> <a> UK </a>
-            </li>
+
           </ul>
 
           <ul class="contact-social">
@@ -224,9 +233,9 @@ how we can help you stand apart. </h4>
     <div class="container">
       <div class="row">
         <div class="col-md-12 map-area">
-          
-       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10842543.651837125!2d-15.024794630218125!3d54.10133062173865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x25a3b1142c791a9%3A0xc4f8a0433288257a!2sUnited%20Kingdom!5e1!3m2!1sen!2sin!4v1749191392945!5m2!1sen!2sin" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-          </div>
+
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10842543.651837125!2d-15.024794630218125!3d54.10133062173865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x25a3b1142c791a9%3A0xc4f8a0433288257a!2sUnited%20Kingdom!5e1!3m2!1sen!2sin!4v1749191392945!5m2!1sen!2sin" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
       </div>
     </div>
   </section>
@@ -242,7 +251,7 @@ how we can help you stand apart. </h4>
         <div class="col-xl-9 col-lg-10 col-md-12 address-from">
           <div class="form-bg">
             <div class="form-container">
-                <form class="form-horizontal" method="post" action="send_mail.php" id="contact_form_">
+              <form class="form-horizontal" method="post" action="send_mail.php" id="contact_form_">
 
                 <h3 class="title"> Drop Us a Line </h3>
 
@@ -268,7 +277,7 @@ how we can help you stand apart. </h4>
                   <textarea class="form-control" name="msg" rows="4" cols="120" placeholder="Message"></textarea>
 
                 </div>
-                 <div class="g-recaptcha" data-sitekey="6Le7ggIrAAAAAJun6e28-mI0moO5OwQHzvENAt9f">
+                <div class="g-recaptcha" data-sitekey="6Le7ggIrAAAAAJun6e28-mI0moO5OwQHzvENAt9f">
                 </div>
                 <button type="submit" name="subc" id="sub" class="btn btn-default" style="top: 10px;"> Get in Touch <i class="fas fa-angle-right"></i> </button>
               </form>
@@ -342,7 +351,7 @@ how we can help you stand apart. </h4>
   <script src="./js/script.js"></script>
   <!--// back to top -->
 
- 
+
 
   <!-- video -->
   <script src="https://dayapuram.org/FrontendAsset/js/jquery.magnific-popup.min.js"></script>
@@ -355,65 +364,65 @@ how we can help you stand apart. </h4>
   <script src="./js/jquery.validate.min.js"></script>
   <script src="./js/jquery.form.min.js"></script>
 
- <script>
-  (function ($) {
-    $("#contact_form_").validate({
-      submitHandler: function (form) {
-        var form_btn = $(form).find('button[type="submit"]');
-        var form_result_div = '#form-result';
-        // alert('AFAS')
-        Swal.fire({
-          title: 'Sending...',
-          text: 'Please wait while we send your message.',
-          allowOutsideClick: false,
-          didOpen: () => {
-            Swal.showLoading();
-          }
-        });
+  <script>
+    (function($) {
+      $("#contact_form_").validate({
+        submitHandler: function(form) {
+          var form_btn = $(form).find('button[type="submit"]');
+          var form_result_div = '#form-result';
+          // alert('AFAS')
+          Swal.fire({
+            title: 'Sending...',
+            text: 'Please wait while we send your message.',
+            allowOutsideClick: false,
+            didOpen: () => {
+              Swal.showLoading();
+            }
+          });
 
-        form_btn.prop('disabled', true);
+          form_btn.prop('disabled', true);
 
-        $(form).ajaxSubmit({
-          url: 'send_gmail.php',
-          dataType: 'json',
-          success: function (data) {
-            Swal.close();
+          $(form).ajaxSubmit({
+            url: 'send_gmail.php',
+            dataType: 'json',
+            success: function(data) {
+              Swal.close();
 
-            form_btn.prop('disabled', false);
-            if (data.status === 'success') {
+              form_btn.prop('disabled', false);
+              if (data.status === 'success') {
                 // alert('s')
-                form.reset(); 
-            //   $(form).find('.form-control').val('');
-              Swal.fire({
-                icon: 'success',
-                title: 'Success!',
-                text: data.message
-              });
-            } else {
+                form.reset();
+                //   $(form).find('.form-control').val('');
+                Swal.fire({
+                  icon: 'success',
+                  title: 'Success!',
+                  text: data.message
+                });
+              } else {
                 // alert('f')
 
+                Swal.fire({
+                  icon: 'error',
+                  title: 'Oops...',
+                  text: data.message
+                });
+              }
+            },
+            error: function() {
+              Swal.close();
+
+              form_btn.prop('disabled', false);
               Swal.fire({
                 icon: 'error',
                 title: 'Oops...',
-                text: data.message
+                text: 'Something went wrong. Please try again later.'
               });
             }
-          },
-          error: function () {
-            Swal.close();
-
-            form_btn.prop('disabled', false);
-            Swal.fire({
-              icon: 'error',
-              title: 'Oops...',
-              text: 'Something went wrong. Please try again later.'
-            });
-          }
-        });
-      }
-    });
-  })(jQuery);
-</script>
+          });
+        }
+      });
+    })(jQuery);
+  </script>
   <!-- humberger menu -->
   <script>
     let navButton = document.querySelector(".nav-button");

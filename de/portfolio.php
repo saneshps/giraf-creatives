@@ -140,7 +140,7 @@
           <!-- ================ WEB START =================== -->
           <div class="row tab-bar-content is-active" id="website">
 
-           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a href="https://yesshop.ae/" target="_blank"> <img src="./img/services/web/yes-shop.jpg" alt="yes-shop"> </a>
@@ -152,7 +152,7 @@
               <h6> <a href="https://yesshop.ae/" target="_blank"> www.yesshop.ae</a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a href="https://alzamilmetal.com/" target="_blank"> <img src="./img/services/web/alzamil.jpg" alt="Alzamil"> </a>
@@ -164,7 +164,7 @@
               <h6> <a href="https://www.alzamilmetal.com/" target="_blank"> www.alzamilmetal.com </a> </h6>
             </div>
 
-             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a href="https://www.flexlifting.com/" target="_blank"> <img src="./img/services/web/flexlift.jpg" alt="Flexlift"> </a>
@@ -188,7 +188,7 @@
               <h6> <a href="https://yesmachinery.com/" target="_blank"> www.yesmachinery.com </a> </h6>
             </div>
 
-             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a href="https://safetyatworks.com/" target="_blank"> <img src="./img/services/web/safetyat-work.jpg" alt="Safety at Work"> </a>
@@ -212,7 +212,7 @@
               <h6> <a href="https://glasslifter.com/" target="_blank"> www.glasslifter.com </a> </h6>
             </div>
 
-             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a href="https://risagrobotics.com/" target="_blank"> <img src="./img/services/web/risagrobotics.jpg" alt="Risa Robotics"> </a>
@@ -424,10 +424,10 @@
           <!-- ================ WEB END =================== -->
 
           <!-- ================ BRANDING START =================== -->
-          
+
           <div class="row tab-bar-content" id="branding">
-          
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/rhino-labour-day-2025.jpg">
                   <img src="./img/services/branding/rhino-labour-day-2025.jpg" alt="labour day">
@@ -438,7 +438,7 @@
               <h6> <a> Rhino Floor </a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/giraf-tobacco-2025.jpg">
                   <img src="./img/services/branding/giraf-tobacco-2025.jpg" alt="tobacco day">
@@ -449,7 +449,7 @@
               <h6> <a> Giraf </a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/omca-mayday-2025.jpg">
                   <img src="./img/services/branding/omca-mayday-2025.jpg" alt="omca may day">
@@ -460,7 +460,7 @@
               <h6> <a> Omca Machinery </a> </h6>
             </div>
 
-                   <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/yes-clean-mayday-2025.jpg">
                   <img src="./img/services/branding/yes-clean-mayday-2025.jpg" alt="may day">
@@ -471,7 +471,7 @@
               <h6> <a> YES Clean </a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/giraf-mayday-2025.jpg">
                   <img src="./img/services/branding/giraf-mayday-2025.jpg" alt="may day">
@@ -482,7 +482,7 @@
               <h6> <a> Giraf </a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/alshurooq-environment-day-2025.jpg">
                   <img src="./img/services/branding/alshurooq-environment-day-2025.jpg" alt="environment day">
@@ -493,7 +493,7 @@
               <h6> <a> Alshurooq </a> </h6>
             </div>
 
-           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/yes-mach-environment-day-2025.jpg">
                   <img src="./img/services/branding/yes-mach-environment-day-2025.jpg" alt="environment day">
@@ -504,7 +504,7 @@
               <h6> <a> YES Machinery </a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/giraf-environment-day-2025.jpg">
                   <img src="./img/services/branding/giraf-environment-day-2025.jpg" alt="environment day">
@@ -515,7 +515,7 @@
               <h6> <a> Giraf </a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a data-fancybox="gallery" href="./img/services/branding/omca-easter-2025.jpg">
                   <img src="./img/services/branding/omca-easter-2025.jpg" alt="omca easter">
@@ -1063,7 +1063,7 @@
               <h6> <a href="https://www.yesmachinery.ae" target="_blank"> www.yesmachinery.ae </a> </h6>
             </div>
 
-         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
                 <a>
                   <img src="./img/services/app/Seek-machine.jpg" alt="Seek Machine"> </a>
@@ -1088,7 +1088,7 @@
 
 
 
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <a>
@@ -1106,7 +1106,7 @@
           <!-- ================ SEO  START =================== -->
           <div class="row tab-bar-content" id="seo">
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <img src="./img/services/seo/granda-gift.jpg" alt="Granda gift">
@@ -1117,7 +1117,7 @@
               <h6> <a href="https://www.grandagifts.com/" target="_blank"> www.grandagifts.com</a> </h6>
             </div>
 
-           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <img src="./img/services/seo/red-rock.jpg" alt="Red Rock">
@@ -1128,7 +1128,7 @@
               <h6> <a href="https://redrockautomation.com/" target="_blank"> www.redrockautomation.com</a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <img src="./img/services/seo/yes-shop.jpg" alt="yes-shop">
@@ -1139,7 +1139,7 @@
               <h6> <a href="https://yesshop.ae/" target="_blank"> www.yesshop.ae </a> </h6>
             </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <img src="./img/services/seo/risagrobotics.jpg" alt="Risag Robotics">
@@ -1150,7 +1150,7 @@
               <h6> <a href="https://risagrobotics.com/" target="_blank"> www.risagrobotics.com </a> </h6>
             </div>
 
-                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
               <div class="box">
                 <img src="./img/services/seo/safetyat-work.jpg" alt="Safety at Work">
@@ -1353,23 +1353,7 @@
                   </div>
                 </div>
 
-                <div class="col-xl-6 col-lg-6 col-md-12 video-1">
-                  <div class="portfolio-page-box corporate">
-                    <img src="./img/portfolio/videography/BIAX.jpg" alt="BIAX">
-                    <div class="hero-video"> <a href="https://www.youtube.com/watch?v=4zwcpkwqmqw" class="video-play-btn1 popup-video"> <i class="icofont-play-alt-3"></i>
-                        <div class="center1">
-                          <div class="pulse1"> <i class="fas fa-play"></i> </div>
-                        </div>
-                      </a> </div>
 
-
-                    <h4> <a href="#" target="_blank"> <a target="_blank"> BIAX Deburring Spindles with Radial Deflection </a></a> </h4>
-
-                    <a target="_blank">
-                      <h6> <a href="#" target="_blank"> BIAX Deburring Spindles with Radial Deflection </a> </h6>
-                    </a>
-                  </div>
-                </div>
 
                 <div class="col-xl-6 col-lg-6 col-md-12 video-1">
                   <div class="portfolio-page-box corporate">
