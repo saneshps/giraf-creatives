@@ -7858,6 +7858,54 @@ h2 {
     width: 100%;
   }
 }
+.address-from-area .felix-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.address-from-area .felix-image img {
+  width: 250px;
+}
+@media (max-width: 1199px) {
+  .address-from-area .felix-image img {
+    width: 210px;
+  }
+}
+@media (max-width: 639px) {
+  .address-from-area .felix-image img {
+    width: 170px;
+  }
+}
+.address-from-area .felix-image h4 {
+  font-size: 28px !important;
+  margin: 10px 0 10px 0;
+}
+@media (max-width: 1199px) {
+  .address-from-area .felix-image h4 {
+    font-size: 24px !important;
+    margin: 10px 0 5px 0;
+  }
+}
+@media (max-width: 639px) {
+  .address-from-area .felix-image h4 {
+    font-size: 22px !important;
+    margin: 10px 0 5px 0;
+  }
+}
+.address-from-area .felix-image h5 a {
+  font-size: 18px !important;
+  color: #000;
+}
+.address-from-area .felix-image h5 a:hover {
+  color: #F9B217;
+  text-decoration: none;
+}
+@media (max-width: 639px) {
+  .address-from-area .felix-image h5 {
+    margin: 0px 0 5px 0;
+  }
+}
 
 .map-area {
   margin: 0 0 20px 0;

@@ -247,7 +247,57 @@
         }
     }
 
+    .felix-image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
 
+        img {
+            width: 250px;
+
+            @include respond-below(lg) {
+                width: 210px;
+            }
+
+            @include respond-below(sm) {
+                width: 170px;
+            }
+        }
+
+        h4 {
+            font-size: 28px !important;
+            margin: 10px 0 10px 0;
+
+            @include respond-below(lg) {
+                font-size: 24px !important;
+                margin: 10px 0 5px 0;
+            }
+
+            @include respond-below(sm) {
+                font-size: 22px !important;
+                margin: 10px 0 5px 0;
+            }
+        }
+
+        h5 {
+
+
+            a {
+                font-size: 18px !important;
+                color: #000;
+
+                &:hover {
+                    color: $brand-color;
+                    text-decoration: none;
+                }
+            }
+
+            @include respond-below(sm) {
+                margin: 0px 0 5px 0;
+            }
+        }
+    }
 
 }
 

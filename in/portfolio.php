@@ -193,6 +193,11 @@
 
               <h4> <a href="https://scantool.dk/en" target="_blank"> Scantool </a> </h4>
               <h6> <a href="https://scantool.dk/en" target="_blank"> www.scantool.dk</a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/denmark.jpg" alt="denmark">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -205,6 +210,11 @@
 
               <h4> <a href="https://yesshop.ae/" target="_blank"> YES Shop </a> </h4>
               <h6> <a href="https://yesshop.ae/" target="_blank"> www.yesshop.ae</a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -217,6 +227,11 @@
 
               <h4> <a href="https://www.alzamilmetal.com/" target="_blank"> Alzamil </a> </h4>
               <h6> <a href="https://www.alzamilmetal.com/" target="_blank"> www.alzamilmetal.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/Soudi.jpg" alt="Soudi">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -229,6 +244,11 @@
 
               <h4> <a href="https://www.flexlifting.com/" target="_blank"> Flexlift </a> </h4>
               <h6> <a href="https://www.flexlifting.com/" target="_blank"> www.flexlifting.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/italy.jpg" alt="Italy">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -243,6 +263,11 @@
 
               <h4> <a href="https://yesmachinery.com/" target="_blank"> YES Machinery </a> </h4>
               <h6> <a href="https://yesmachinery.com/" target="_blank"> www.yesmachinery.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -255,6 +280,11 @@
 
               <h4> <a href="https://safetyatworks.com/" target="_blank"> Safety-at-Works </a> </h4>
               <h6> <a href="https://safetyatworks.com/" target="_blank"> www.safetyatworks.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -267,6 +297,11 @@
 
               <h4> <a href="https://glasslifter.com/" target="_blank"> Glasslifter </a> </h4>
               <h6> <a href="https://glasslifter.com/" target="_blank"> www.glasslifter.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -279,6 +314,11 @@
 
               <h4> <a href="https://risagrobotics.com/" target="_blank"> Risag Robotics </a> </h4>
               <h6> <a href="https://risagrobotics.com/" target="_blank"> www.risagrobotics.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -293,7 +333,11 @@
               <h4> <a href="https://alshurooq.ae/" target="_blank"> Al Shurooq Industries L.L.C </a> </h4>
 
               <h6> <a href="https://alshurooq.ae/" target="_blank"> www.alshurooq.ae </a> </a> </h6>
-
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -308,7 +352,11 @@
               <h4> <a href="https://www.hytekmarketing.biz/" target="_blank"> Hytek Marketing </a> </h4>
 
               <h6> <a href="https://www.hytekmarketing.biz/" target="_blank"> www.hytekmarketing.biz </a> </a> </h6>
-
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="India">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -323,7 +371,11 @@
               <h4> <a href="https://seekmachines.com" target="_blank"> Seek Machines </a> </h4>
 
               <h6> <a href="https://seekmachines.com" target="_blank"> www.seekmachines.com </a> </a> </h6>
-
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -335,7 +387,11 @@
               <h4> <a href="logistica-portfolio.php" target="_blank"> Logistica Group </a> </h4>
 
               <h6> <a href="https://logistica-group.com" target="_blank"> www.logistica-group.com </a> </a> </h6>
-
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -349,7 +405,11 @@
               <h4> <a href="kistler-portfolio.php" target="_blank"> Kistler-machine </a> </h4>
 
               <h6> <a href="https://www.kistler-machine.com/de" target="_blank"> www.kistler-machine.com/de </a> </a> </h6>
-
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/german.jpg" alt="Germany">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -361,6 +421,11 @@
 
               <h4> <a href="https://www.yesmachinery.ae/" target="_blank"> YES Machinery </a> </h4>
               <h6> <a href="https://www.yesmachinery.ae/" target="_blank"> www.yesmachinery.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -376,6 +441,11 @@
 
               <h4> <a href="https://www.bigleap.ae/" target="_blank"> Bigleap </a> </h4>
               <h6> <a href="https://www.bigleap.ae/" target="_blank"> www.bigleap.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -388,6 +458,11 @@
 
               <h4> <a href="https://www.yesclean.ae/" target="_blank"> YES Clean </a> </h4>
               <h6> <a href="https://www.yesclean.ae/" target="_blank"> www.yesclean.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -398,6 +473,11 @@
 
               <h4> <a href="https://www.yesautomation.ae/" target="_blank"> YES Automation </a> </h4>
               <h6> <a href="https://www.yesautomation.ae/" target="_blank"> www.yesautomation.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -410,6 +490,11 @@
 
               <h4> <a href="https://www.rhinofloor.ae/" target="_blank"> Rhino Floor </a> </h4>
               <h6> <a href="https://www.rhinofloor.ae/" target="_blank"> www.rhinofloor.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -422,6 +507,11 @@
 
               <h4> <a href="https://www.storetogo.ae/" target="_blank"> Store To Go </a> </h4>
               <h6> <a href="https://www.storetogo.ae/" target="_blank"> www.storetogo.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -434,6 +524,11 @@
 
               <h4> <a href="https://dayapuram.org/" target="_blank"> Dayapuram </a> </h4>
               <h6> <a href="https://dayapuram.org/" target="_blank"> www.dayapuram.org</a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="India">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -446,6 +541,11 @@
 
               <h4> <a href="https://rackovan.com/" target="_blank"> Rackovan </a> </h4>
               <h6> <a href="https://rackovan.com/" target="_blank"> www.rackovan.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="India">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -458,22 +558,17 @@
 
               <h4> <a href="https://www.mgsaws.com/" target="_blank"> TRONZADORAS MG </a> </h4>
               <h6> <a href="https://www.mgsaws.com/" target="_blank"> www.mgsaws.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/spain.png" alt="Spain">
+              </div>
+              <!--  -->
             </div>
 
           </div>
 
           <div class="row tab-bar-content" id="branding">
 
-            <!-- <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
-              <div class="box">
-                <a data-fancybox="gallery" href="./img/services/branding/Welding Rotators.jpg">
-                  <img src="./img/services/branding/Welding Rotators.jpg" alt="welding rotator">
-                </a>
-
-              </div>
-              <h4> <a>Welding Rotators</a> </h4>
-              <h6> <a> Red Rock </a> </h6>
-            </div>  -->
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
@@ -1701,6 +1796,11 @@
 
               <h4> <a href="kistler-portfolio-sales-app.php" target="_blank"> Kistler Machines </a> </h4>
               <h6> <a href="https://www.kistler-machine.com/de" target="_blank"> www.kistler-machine.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/german.jpg" alt="germany">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1710,6 +1810,11 @@
               </div>
               <h4> <a> Bruehl </a> </h4>
               <h6> <a href="https://bruehl-safety.com/en/" target="_blank"> www.bruehl-safety.com/en </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/german.jpg" alt="Germany">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1719,6 +1824,11 @@
               </div>
               <h4> <a> YES Machinery Sales App </a> </h4>
               <h6> <a href="https://www.yesmachinery.ae" target="_blank"> www.yesmachinery.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1728,6 +1838,11 @@
               </div>
               <h4> <a> Seek Machines </a> </h4>
               <h6> <a href="https://seekmachines.com/" target="_blank"> www.seekmachines.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1740,6 +1855,11 @@
               </div>
 
               <h4> <a> Madhuirima Jewellery </a> </h4>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="India">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1750,6 +1870,11 @@
               </div>
               <h4> <a> Gullco </a> </h4>
               <h6> <a href="https://www.gullco.com/" target="_blank"> www.gullco.com</a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/US.jpg" alt="US">
+              </div>
+              <!--  -->
             </div>
           </div>
 
@@ -1757,7 +1882,7 @@
           <!-- ================ SEO  START =================== -->
           <div class="row tab-bar-content" id="seo">
 
-          
+
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1768,6 +1893,11 @@
 
               <h4> <a href="https://www.grandagifts.com/" target="_blank">Granda Gift</a> </h4>
               <h6> <a href="https://www.grandagifts.com/" target="_blank"> www.grandagifts.com</a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1779,6 +1909,11 @@
 
               <h4> <a href="https://redrockautomation.com/" target="_blank">Red Rock</a> </h4>
               <h6> <a href="https://redrockautomation.com/" target="_blank"> www.redrockautomation.com</a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uk.png" alt="uk">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1790,6 +1925,11 @@
 
               <h4> <a href="https://www.mgsaws.com/" target="_blank"> MG Saws</a> </h4>
               <h6> <a href="https://www.mgsaws.com/" target="_blank"> www.mgsaws.com</a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/spain.png" alt="Spain">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1801,6 +1941,11 @@
 
               <h4> <a href="https://yesshop.ae/" target="_blank"> YES Shop</a> </h4>
               <h6> <a href="https://yesshop.ae/" target="_blank"> www.yesshop.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1812,6 +1957,11 @@
 
               <h4> <a href="https://risagrobotics.com/" target="_blank"> Risag Robotics</a> </h4>
               <h6> <a href="https://risagrobotics.com/" target="_blank"> www.risagrobotics.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1823,6 +1973,11 @@
 
               <h4> <a href="https://safetyatworks.com/" target="_blank"> Safety-at-work</a> </h4>
               <h6> <a href="https://safetyatworks.com/" target="_blank"> www.safetyatworks.com</a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1836,6 +1991,11 @@
 
               <h4> <a href="https://seekmachines.com" target="_blank"> Seek Machines </a> </h4>
               <h6> <a href="https://seekmachines.com" target="_blank"> www.seekmachines.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1847,6 +2007,11 @@
 
               <h4> <a href="https://logistica-group.com/ae/en" target="_blank"> Logistica Group </a> </h4>
               <h6> <a href="https://logistica-group.com/ae/en" target="_blank"> www.logistica-group.com/ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1858,6 +2023,11 @@
 
               <h4> <a href="https://alshurooq.ae" target="_blank"> Al shurooq </a> </h4>
               <h6> <a href="https://alshurooq.ae" target="_blank"> www.alshurooq.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1869,6 +2039,11 @@
 
               <h4> <a href="https://glasslifter.com" target="_blank"> Glass Lifter </a> </h4>
               <h6> <a href="https://glasslifter.com" target="_blank"> www.glasslifter.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1880,6 +2055,11 @@
 
               <h4> <a href="https://welmeqs.com" target="_blank"> Welmeqs </a> </h4>
               <h6> <a href="https://welmeqs.com" target="_blank"> www.welmeqs.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1891,6 +2071,11 @@
 
               <h4> <a href="https://www.kistler-machine.com/de" target="_blank"> Kistler </a> </h4>
               <h6> <a href="https://www.kistler-machine.com/de" target="_blank"> www.kistler-machine.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/german.jpg" alt="Germany">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1902,6 +2087,11 @@
 
               <h4> <a href="https://patchsnatched.com/" target="_blank"> Patch Snatched </a> </h4>
               <h6> <a href="https://patchsnatched.com/" target="_blank"> www.patchsnatched.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/german.jpg" alt="Germany">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1913,6 +2103,11 @@
 
               <h4> <a href="sbr-portfolio.php" target="_blank"> SBR Batteries </a> </h4>
               <h6> <a href="https://sbrbatteries.com/" target="_blank"> www.sbrbatteries.com </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1924,6 +2119,11 @@
 
               <h4> <a href="https://www.yesmachinery.ae/" target="_blank"> YES Machinery </a> </h4>
               <h6> <a href="https://www.yesmachinery.ae/" target="_blank"> www.yesmachinery.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1935,6 +2135,11 @@
 
               <h4> <a href="https://www.yesautomation.ae/" target="_blank"> YES Automation </a> </h4>
               <h6> <a href="https://www.yesautomation.ae/" target="_blank"> www.yesautomation.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1946,6 +2151,11 @@
 
               <h4> <a href="https://www.yesclean.ae/" target="_blank"> YES Clean </a> </h4>
               <h6> <a href="https://www.yesclean.ae/" target="_blank"> www.yesclean.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1957,6 +2167,11 @@
 
               <h4> <a href="https://www.storetogo.ae/" target="_blank"> Store To Go </a> </h4>
               <h6> <a href="https://www.storetogo.ae/" target="_blank"> www.storetogo.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1968,6 +2183,11 @@
 
               <h4> <a href="https://rhinofloor.ae/" target="_blank"> Rhino Floor</a> </h4>
               <h6> <a href="https://rhinofloor.ae/" target="_blank"> www.rhinofloor.ae </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1994,6 +2214,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> Meet Jack, the new Mascot of M.tech, brought to life by Giraf creatives. </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2012,6 +2237,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> BIAX Deburring Spindles with Radial Deflection </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/german.jpg" alt="Germany">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2032,6 +2262,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> YES Open House 2025| Promotion Video </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 video-1">
@@ -2049,6 +2284,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> Neo Intro Video </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 video-1">
@@ -2066,6 +2306,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> Permanent Lasthebemagnete FX by Flaig Magnetsysteme </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/german.jpg" alt="Germany">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2098,6 +2343,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> YES Open House - Bring your Future |Kids | YES Machinery </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2116,6 +2366,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> YES Open House | Day 02 | YES Machinery </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2134,6 +2389,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> YES Open House - 2025 | Day 01 </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2152,6 +2412,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> YES Machinery at SteelFab 2025 </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 video-1">
@@ -2169,6 +2434,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> Laser Fest - Day 3 & 4 </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 video-1">
@@ -2186,6 +2456,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> AL SHUROOQ </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 video-1">
@@ -2203,6 +2478,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> YES Machinery - 10 Years of delivering high quality machines </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 video-1">
@@ -2220,6 +2500,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> YES Open House 2024 </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2238,6 +2523,11 @@
                     <a target="_blank">
                       <h6> <a href="#" target="_blank"> Introducing NEO | YES Machinery </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2256,6 +2546,11 @@
                     <a href="https://logistica-group.com/" target="_blank">
                       <h6> <a href="#" target="_blank"> Logistica </a> </h6>
                     </a>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2270,6 +2565,11 @@
 
                     <h4> <a href="#" target="_blank"> YES Machinery </a> </h4>
                     <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2284,6 +2584,11 @@
                       </a> </div> <!--// video popup -->
                     <h4> <a href="#" target="_blank"> YES Machinery </a> </h4>
                     <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2297,6 +2602,11 @@
                       </a> </div> <!--// video popup -->
                     <h4> <a href="#" target="_blank"> YES Machinery </a> </h4>
                     <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 video-1">
@@ -2310,6 +2620,11 @@
                     <!--// video popup -->
                     <h4> <a href="#" target="_blank"> YES Machinery </a> </h4>
                     <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2324,6 +2639,11 @@
                     <!--// video popup -->
                     <h4> <a href="#" target="_blank"> YES Open House 2024 - Day 1 </a> </h4>
                     <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2338,6 +2658,11 @@
                     <!--// video popup -->
                     <h4> <a href="#" target="_blank"> YES Open House 2024 - Day 2 </a> </h4>
                     <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
 
@@ -2352,9 +2677,14 @@
                     <!--// video popup -->
                     <h4> <a href="#" target="_blank"> CNC Drilling Machines | YES Machinery | DAMA|</a> </h4>
                     <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+                    <!--  -->
+                    <div class="flag-container video-flag">
+                      <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
+                    </div>
+                    <!--  -->
                   </div>
                 </div>
-                
+
               </div>
             </div>
           </div>
