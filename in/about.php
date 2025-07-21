@@ -388,12 +388,12 @@
           <div class="col-xl-3 col-lg-4 col-md-4">
             <div class="our-team">
               <div class="pic">
-                <img src="./img/team/shainu.jpg" alt="shainu">
+                <img src="./img/team/Sanesh.jpg" alt="Sanesh">
 
               </div>
               <div class="team-content">
-                <h3 class="title"> Shainu Shankar </h3>
-                <span class="post"> Project Leader </span>
+                <h3 class="title"> Sanesh P S </h3>
+                <span class="post"> Team Lead </span>
               </div>
             </div>
           </div>
@@ -429,20 +429,7 @@
           </div>
           <!-- team -->
 
-          <!-- team -->
-          <div class="col-xl-3 col-lg-4 col-md-4">
-            <div class="our-team">
-              <div class="pic">
-                <img src="./img/team/Sanesh.jpg" alt="Sanesh">
 
-              </div>
-              <div class="team-content">
-                <h3 class="title"> Sanesh P S </h3>
-                <span class="post"> Development Head </span>
-              </div>
-            </div>
-          </div>
-          <!-- team -->
 
           <!-- team -->
           <div class="col-xl-3 col-lg-4 col-md-4">

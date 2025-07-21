@@ -529,20 +529,7 @@ $result = $conn->query($sql);
                   </div>
                   <!-- slide -->
 
-                  <!-- slide -->
-                  <div class="swiper-slide">
-                    <div class="our-team">
-                      <div class="pic">
-                        <img src="./img/team/shainu.jpg" alt="Shainu">
 
-                      </div>
-                      <div class="team-content">
-                        <h3 class="title"> Shainu Shankar </h3>
-                        <span class="post"> Project Leader </span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- slide -->
 
                   <!-- slide -->
                   <div class="swiper-slide">
@@ -554,6 +541,21 @@ $result = $conn->query($sql);
                       <div class="team-content">
                         <h3 class="title"> Basil </h3>
                         <span class="post"> Animator Head </span>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- slide -->
+
+                  <!-- slide -->
+                  <div class="swiper-slide">
+                    <div class="our-team">
+                      <div class="pic">
+                        <img src="./img/team/Sanesh.jpg" alt="Sanesh">
+
+                      </div>
+                      <div class="team-content">
+                        <h3 class="title"> Sanesh P S </h3>
+                        <span class="post"> Team Lead </span>
                       </div>
                     </div>
                   </div>
@@ -589,7 +591,7 @@ $result = $conn->query($sql);
                   </div>
                   <!-- slide -->
 
-                   <!-- slide -->
+                  <!-- slide -->
                   <div class="swiper-slide">
                     <div class="our-team">
                       <div class="pic">
@@ -667,20 +669,7 @@ $result = $conn->query($sql);
                   </div>
                   <!-- slide -->
 
-                  <!-- slide -->
-                  <div class="swiper-slide">
-                    <div class="our-team">
-                      <div class="pic">
-                        <img src="./img/team/Sanesh.jpg" alt="Sanesh">
 
-                      </div>
-                      <div class="team-content">
-                        <h3 class="title"> Sanesh P S </h3>
-                        <span class="post"> Development Head </span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- slide -->
 
 
                   <!-- slide -->
@@ -793,7 +782,7 @@ $result = $conn->query($sql);
                   </div>
                   <!-- slide -->
 
-              
+
                   <!-- slide -->
                   <div class="swiper-slide">
                     <div class="our-team">
@@ -990,7 +979,7 @@ $result = $conn->query($sql);
     <div class="slide">
       <img src="./img/clients/daya-logo.png" alt="clients">
     </div>
-    
+
 
 
   </section>
