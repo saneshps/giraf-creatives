@@ -942,7 +942,6 @@ $result = $conn->query($sql);
     <div class="slide">
       <img src="./img/clients/rh-logo.png" alt="clients">
     </div>
-
     <div class="slide">
       <img src="./img/clients/sg-logo.png" alt="clients">
     </div>
@@ -991,8 +990,6 @@ $result = $conn->query($sql);
       <img src="./img/clients/daya-logo.png" alt="clients">
     </div>
     
-
-
   </section>
 
   <!-- == ========================
@@ -1057,7 +1054,6 @@ $result = $conn->query($sql);
                         from our customers and dealers and the increase in enquiries we receive is quite noticeable.
                         It’s a great pleasure to work with them for the past 3+years. Would surely recommend this team if
                         you’re looking for best website development and digital marketing services.
-
 
 
                       </p>
