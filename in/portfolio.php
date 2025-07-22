@@ -560,7 +560,7 @@
               <h6> <a href="https://www.mgsaws.com/" target="_blank"> www.mgsaws.com </a> </h6>
               <!--  -->
               <div class="flag-container">
-                <img class="flag" src="./img/flags/spain.png" alt="Spain">
+                <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
               </div>
               <!--  -->
             </div>
@@ -1927,7 +1927,7 @@
               <h6> <a href="https://www.mgsaws.com/" target="_blank"> www.mgsaws.com</a> </h6>
               <!--  -->
               <div class="flag-container">
-                <img class="flag" src="./img/flags/spain.png" alt="Spain">
+                <img class="flag" src="./img/flags/uae.jpg" alt="UAE">
               </div>
               <!--  -->
             </div>
