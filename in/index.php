@@ -268,8 +268,8 @@ $result = $conn->query($sql);
               <!-- col-xl-6 -->
               <div class="col-xl-6 col-lg-6 col-md-6 portfolio-page-box">
                 <div class="box">
-                  <a data-fancybox="gallery" href="./img/services/branding/Eid-al-adha.jpg">
-                    <img src="./img/services/branding/Eid-al-adha.jpg" alt="Eid al adha">
+                  <a data-fancybox="gallery" href="./img/services/branding/store-to-go-eid-al-adha.jpg">
+                    <img src="./img/services/branding/store-to-go-eid-al-adha.jpg" alt="Eid al adha">
                   </a>
                 </div>
               </div>

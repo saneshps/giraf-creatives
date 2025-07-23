@@ -579,6 +579,11 @@
               </div>
               <h4> <a> Labour Day 2025 </a> </h4>
               <h6> <a> Rhino Floor </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -590,6 +595,11 @@
               </div>
               <h4> <a> Tobacco Day 2025 </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -601,6 +611,11 @@
               </div>
               <h4> <a> Labour Day 2025 </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -612,6 +627,11 @@
               </div>
               <h4> <a> Labour Day 2025 </a> </h4>
               <h6> <a> Omca Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/italy.jpg" alt="italy">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -623,6 +643,11 @@
               </div>
               <h4> <a> Labour Day 2025 </a> </h4>
               <h6> <a> YES Clean </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -634,6 +659,11 @@
               </div>
               <h4> <a> Easter 2025 </a> </h4>
               <h6> <a> Omca Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/italy.jpg" alt="italy">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -645,6 +675,11 @@
               </div>
               <h4> <a> Hijra 2025 </a> </h4>
               <h6> <a> Store To Go </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -656,6 +691,11 @@
               </div>
               <h4> <a> Hijra 2025 </a> </h4>
               <h6> <a> YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -667,6 +707,11 @@
               </div>
               <h4> <a> Hijra 2025 </a> </h4>
               <h6> <a> Alshurooq </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -678,6 +723,11 @@
               </div>
               <h4> <a> Hijra 2025 </a> </h4>
               <h6> <a> Red Rock </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uk.png" alt="uk">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -689,6 +739,11 @@
               </div>
               <h4> <a> Hijra 2025 </a> </h4>
               <h6> <a> Rhinofloor </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -700,6 +755,11 @@
               </div>
               <h4> <a> Environment Day 2025 </a> </h4>
               <h6> <a> Alshurooq </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -711,6 +771,11 @@
               </div>
               <h4> <a> Environment Day 2025 </a> </h4>
               <h6> <a> Bigleap </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -722,6 +787,11 @@
               </div>
               <h4> <a> EID 2025 </a> </h4>
               <h6> <a> SEEK Machines </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -733,6 +803,11 @@
               </div>
               <h4> <a> Environment Day 2025 </a> </h4>
               <h6> <a> YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -744,6 +819,11 @@
               </div>
               <h4> <a> Environment Day 2025 </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
@@ -754,6 +834,11 @@
               </div>
               <h4> <a> Arafah 2025 </a> </h4>
               <h6> <a> Alshurooq </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
@@ -764,6 +849,11 @@
               </div>
               <h4> <a> Easter 2025 </a> </h4>
               <h6> <a> YES Clean </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
@@ -774,6 +864,11 @@
               </div>
               <h4> <a> Easter 2025 </a> </h4>
               <h6> <a> YES Automation </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
@@ -784,6 +879,11 @@
               </div>
               <h4> <a> Eid Al Adha Poster </a> </h4>
               <h6> <a> StoreToGo </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -795,6 +895,11 @@
               </div>
               <h4> <a> Sports Day Poster </a> </h4>
               <h6> <a> Alshurooq </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -806,6 +911,11 @@
               </div>
               <h4> <a> SEO </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -817,6 +927,11 @@
               </div>
               <h4> <a> Calendar 2025 </a> </h4>
               <h6> <a> YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -829,6 +944,11 @@
               </div>
               <h4> <a> SEO Conferemce 2025 </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -840,6 +960,11 @@
               </div>
               <h4> <a> New Year Poster </a> </h4>
               <h6> <a> OMCA </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/italy.jpg" alt="italy">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -851,6 +976,11 @@
               </div>
               <h4> <a> New Year Poster </a> </h4>
               <h6> <a> Alshurooq </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -862,6 +992,11 @@
               </div>
               <h4> <a> Onam 2025 Poster </a> </h4>
               <h6> <a> YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -873,6 +1008,11 @@
               </div>
               <h4> <a> Onam 2025 Poster </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -884,6 +1024,11 @@
               </div>
               <h4> <a> Paper Cup Design </a> </h4>
               <h6> <a> YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -900,6 +1045,11 @@
               </div>
               <h4> <a> Mens Day 2024 Poster </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -911,6 +1061,11 @@
               </div>
               <h4> <a> Flagday 2024 Poster </a> </h4>
               <h6> <a> YES Clean </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -922,6 +1077,11 @@
               </div>
               <h4> <a> Brochure Design </a> </h4>
               <h6> <a> Flex Lifting </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/italy.jpg" alt="italy">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -935,6 +1095,11 @@
               </div>
               <h4> <a> EID 2024 Poster </a> </h4>
               <h6> <a> Rhinofloor </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -946,6 +1111,11 @@
               </div>
               <h4> <a> Logo Design </a> </h4>
               <h6> <a> Chameleon </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/italy.jpg" alt="italy">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -959,6 +1129,11 @@
               </div>
               <h4> <a> ART 940 Poster </a> </h4>
               <h6> <a> OMCA </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/italy.jpg" alt="italy">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -970,6 +1145,11 @@
               </div>
               <h4> <a> 20k Poster </a> </h4>
               <h6> <a> Alshurooq </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -981,6 +1161,11 @@
               </div>
               <h4> <a> Arafah Day Poster </a> </h4>
               <h6> <a> StoreToGo </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -992,6 +1177,11 @@
               </div>
               <h4> <a> Brochure Design </a> </h4>
               <h6> <a> Dosa Hut </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1003,6 +1193,11 @@
               </div>
               <h4> <a> Brochure Mockup </a> </h4>
               <h6> <a> Flex Lifting </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/italy.jpg" alt="italy">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1014,6 +1209,11 @@
               </div>
               <h4> <a> Poster </a> </h4>
               <h6> <a> YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1025,6 +1225,11 @@
               </div>
               <h4> <a> UAE National Day Poster </a> </h4>
               <h6> <a> YES Clear </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1036,6 +1241,11 @@
               </div>
               <h4> <a> UAE Commemoration Day Poster </a> </h4>
               <h6> <a> Rhinofloor </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1047,6 +1257,11 @@
               </div>
               <h4> <a> Logo Design </a> </h4>
               <h6> <a> Painite </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1058,6 +1273,11 @@
               </div>
               <h4> <a> Keralapiravi 2024 Poster </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1069,6 +1289,11 @@
               </div>
               <h4> <a> Invitation Design </a> </h4>
               <h6> <a> YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1080,6 +1305,11 @@
               </div>
               <h4> <a> Independence Day Poster </a> </h4>
               <h6> <a> YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1092,6 +1322,11 @@
               </div>
               <h4> <a> Satisfaction Stories </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1103,6 +1338,11 @@
               </div>
               <h4> <a> Health Day Poster </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1114,6 +1354,11 @@
               </div>
               <h4> <a> World Environment Day </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1127,6 +1372,11 @@
               </div>
               <h4> <a> Eid Poster </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1138,6 +1388,11 @@
               </div>
               <h4> <a> Retro-poster </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1149,6 +1404,11 @@
               </div>
               <h4> <a> National Technology Day </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1160,6 +1420,11 @@
               </div>
               <h4> <a>YES Machinery Calender</a> </h4>
               <h6> <a>YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1172,6 +1437,11 @@
               </div>
               <h4> <a> kistler App Poster </a> </h4>
               <h6> <a> kistler </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/german.jpg" alt="german">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1183,6 +1453,11 @@
               </div>
               <h4> <a> Keralapiravi </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1194,6 +1469,11 @@
               </div>
               <h4> <a> Neo Construction </a> </h4>
               <h6> <a> YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1205,6 +1485,11 @@
               </div>
               <h4> <a> Hanin Bangalore Visit </a> </h4>
               <h6> <a> Hanin Bangalore Visit </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1216,6 +1501,11 @@
               </div>
               <h4> <a> August 15 </a> </h4>
               <h6> <a> YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1229,6 +1519,11 @@
               </div>
               <h4> <a> Service Poster </a> </h4>
               <h6> <a> Bigleap </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1244,6 +1539,11 @@
 
               <h4> <a> Seek Machines </a> </h4>
               <h6> <a> Logo Design </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1255,6 +1555,11 @@
               </div>
               <h4> <a> Eid Al Adha </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1267,6 +1572,11 @@
               </div>
               <h4> <a> Onam </a> </h4>
               <h6> <a> Giraf </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1280,6 +1590,11 @@
 
               <h4> <a href="#" target="_blank"> Hamly </a> </h4>
               <h6> <a href="#" target="_blank"> Poster </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1293,6 +1608,11 @@
 
               <h4> <a href="#" target="_blank"> 51 UAE National Day </a> </h4>
               <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1306,6 +1626,11 @@
 
               <h4> <a href="#" target="_blank"> Hayat </a> </h4>
               <h6> <a href="#" target="_blank"> Package Design </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1319,6 +1644,11 @@
 
               <h4> <a href="#" target="_blank"> Christmas </a> </h4>
               <h6> <a href="#" target="_blank"> YES Machinery </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1331,6 +1661,11 @@
 
               <h4> <a href="#" target="_blank"> Yaash </a> </h4>
               <h6> <a href="#" target="_blank"> Business Card </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1343,6 +1678,11 @@
 
               <h4> <a href="#" target="_blank"> Christmas </a> </h4>
               <h6> <a href="#" target="_blank"> Store To Go</a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
             <!-- 10 -->
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1356,6 +1696,11 @@
 
               <h4> <a href="#" target="_blank"> Christmas </a> </h4>
               <h6> <a href="#" target="_blank"> Store To Go</a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1369,6 +1714,11 @@
 
               <h4> <a href="#" target="_blank"> Christmas </a> </h4>
               <h6> <a href="#" target="_blank"> YES Clean </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1382,6 +1732,11 @@
 
               <h4> <a href="#" target="_blank"> Promag </a> </h4>
               <h6> <a href="#" target="_blank"> Design </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/qatar.jpg" alt="qatar">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1395,6 +1750,11 @@
 
               <h4> <a href="#" target="_blank"> Hermas </a> </h4>
               <h6> <a href="#" target="_blank"> Package Design </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1408,6 +1768,11 @@
 
               <h4> <a href="#" target="_blank"> Commemoration Day </a> </h4>
               <h6> <a href="#" target="_blank"> Bigleap </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1421,6 +1786,11 @@
 
               <h4> <a href="#" target="_blank"> Promag </a> </h4>
               <h6> <a href="#" target="_blank"> Brochure Design </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/qatar.jpg" alt="qatar">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1433,6 +1803,11 @@
 
               <h4> <a href="#" target="_blank"> Aditya </a> </h4>
               <h6> <a href="#" target="_blank"> Holding </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1446,6 +1821,11 @@
 
               <h4> <a href="#" target="_blank"> Cosmiq </a> </h4>
               <h6> <a href="#" target="_blank"> Cosmiq </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1459,6 +1839,11 @@
 
               <h4> <a href="#" target="_blank"> Apple tree </a> </h4>
               <h6> <a href="#" target="_blank"> Business Card </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1472,6 +1857,11 @@
 
               <h4> <a href="#" target="_blank"> Cosmiq </a> </h4>
               <h6> <a href="#" target="_blank"> Cosmiq </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1484,6 +1874,11 @@
 
               <h4> <a href="#" target="_blank"> Bigleap </a> </h4>
               <h6> <a href="#" target="_blank"> Onam </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
             <!-- 20 -->
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1497,6 +1892,11 @@
 
               <h4> <a href="#" target="_blank"> Cosmiq </a> </h4>
               <h6> <a href="#" target="_blank"> Cosmiq </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1510,6 +1910,11 @@
 
               <h4> <a href="#" target="_blank"> SEED </a> </h4>
               <h6> <a href="#" target="_blank"> Eid Poster </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1523,6 +1928,11 @@
 
               <h4> <a href="#" target="_blank"> Promag </a> </h4>
               <h6> <a href="#" target="_blank"> Eid Poster </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/qatar.jpg" alt="qatar">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1535,6 +1945,11 @@
 
               <h4> <a href="#" target="_blank"> Promag </a> </h4>
               <h6> <a href="#" target="_blank"> Eid Poster </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/qatar.jpg" alt="qatar">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1548,6 +1963,11 @@
 
               <h4> <a href="#" target="_blank"> YES Clean </a> </h4>
               <h6> <a href="#" target="_blank"> Expo </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1562,6 +1982,11 @@
 
               <h4> <a href="#" target="_blank"> Hamly </a> </h4>
               <h6> <a href="#" target="_blank"> Poster </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1575,6 +2000,11 @@
 
               <h4> <a href="#" target="_blank"> Mahacare </a> </h4>
               <h6> <a href="#" target="_blank"> Poster </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1587,6 +2017,11 @@
 
               <h4> <a href="#" target="_blank"> YES Clean </a> </h4>
               <h6> <a href="#" target="_blank"> Poster </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1600,6 +2035,11 @@
 
               <h4> <a href="#" target="_blank"> Cosmiq </a> </h4>
               <h6> <a href="#" target="_blank"> Onam </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1615,6 +2055,11 @@
 
               <h4> <a href="#" target="_blank"> YES Machinery </a> </h4>
               <h6> <a href="#" target="_blank"> Onam </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1629,6 +2074,11 @@
 
               <h4> <a href="#" target="_blank"> Aditya </a> </h4>
               <h6> <a href="#" target="_blank"> Business Card </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1641,6 +2091,11 @@
 
               <h4> <a href="#" target="_blank"> Aditya </a> </h4>
               <h6> <a href="#" target="_blank"> Cover </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1655,6 +2110,11 @@
 
               <h4> <a href="#" target="_blank"> Apple tree </a> </h4>
               <h6> <a href="#" target="_blank"> Poster </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1668,6 +2128,11 @@
 
               <h4> <a href="#" target="_blank"> Azad </a> </h4>
               <h6> <a href="#" target="_blank"> Poster </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1683,6 +2148,11 @@
 
               <h4> <a href="#" target="_blank"> Hermas </a> </h4>
               <h6> <a href="#" target="_blank"> Package Design </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
@@ -1696,6 +2166,11 @@
 
               <h4> <a href="#" target="_blank"> Hermas </a> </h4>
               <h6> <a href="#" target="_blank"> Package Design </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1708,6 +2183,11 @@
 
               <h4> <a href="#" target="_blank"> Iva </a> </h4>
               <h6> <a href="#" target="_blank"> Package Design </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1720,6 +2200,11 @@
 
               <h4> <a href="#" target="_blank"> Licinil </a> </h4>
               <h6> <a href="#" target="_blank"> Package Design </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1734,6 +2219,11 @@
 
               <h4> <a href="#" target="_blank"> Mahacare </a> </h4>
               <h6> <a href="#" target="_blank"> Brochure Design </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1751,6 +2241,11 @@
 
               <h4> <a href="#" target="_blank"> Seek Machines </a> </h4>
               <h6> <a href="#" target="_blank"> Business Card </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/uae.jpg" alt="uae">
+              </div>
+              <!--  -->
             </div>
 
 
@@ -1766,6 +2261,11 @@
 
               <h4> <a href="#" target="_blank"> Yaash </a> </h4>
               <h6> <a href="#" target="_blank"> Design </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
 
@@ -1778,6 +2278,11 @@
 
               <h4> <a href="#" target="_blank"> Yaash </a> </h4>
               <h6> <a href="#" target="_blank"> Design </a> </h6>
+              <!--  -->
+              <div class="flag-container">
+                <img class="flag" src="./img/flags/india.jpg" alt="india">
+              </div>
+              <!--  -->
             </div>
 
           </div>
@@ -1796,6 +2301,7 @@
 
               <h4> <a href="kistler-portfolio-sales-app.php" target="_blank"> Kistler Machines </a> </h4>
               <h6> <a href="https://www.kistler-machine.com/de" target="_blank"> www.kistler-machine.com </a> </h6>
+
               <!--  -->
               <div class="flag-container">
                 <img class="flag" src="./img/flags/german.jpg" alt="germany">

@@ -2478,6 +2478,83 @@ h2 {
     margin: 0 0 30px 0;
   }
 }
+.portfolio-page-boxes .portfolio-page-box .flag-container {
+  height: auto;
+  overflow: hidden;
+  perspective: 70px;
+  position: absolute;
+  bottom: 38px;
+  right: 20px;
+}
+@media (max-width: 1199px) {
+  .portfolio-page-boxes .portfolio-page-box .flag-container {
+    right: 10px;
+  }
+}
+.portfolio-page-boxes .portfolio-page-box .flag-container.video-flag {
+  right: 40px;
+  bottom: 75px;
+}
+@media (max-width: 1599px) {
+  .portfolio-page-boxes .portfolio-page-box .flag-container.video-flag {
+    right: 30px;
+    bottom: 30px;
+  }
+}
+@media (max-width: 1199px) {
+  .portfolio-page-boxes .portfolio-page-box .flag-container.video-flag {
+    right: 30px;
+    bottom: 40px;
+  }
+}
+@media (max-width: 639px) {
+  .portfolio-page-boxes .portfolio-page-box .flag-container.video-flag {
+    right: 10px;
+    bottom: 38px;
+  }
+}
+.portfolio-page-boxes .portfolio-page-box .flag-container.video-flag .flag {
+  width: 50px;
+  animation: wave 2s infinite linear;
+  transform-origin: left center;
+  border-radius: 0;
+}
+@media (max-width: 1599px) {
+  .portfolio-page-boxes .portfolio-page-box .flag-container.video-flag .flag {
+    width: 38px;
+  }
+}
+@media (max-width: 1199px) {
+  .portfolio-page-boxes .portfolio-page-box .flag-container.video-flag .flag {
+    width: 35px;
+  }
+}
+@media (max-width: 639px) {
+  .portfolio-page-boxes .portfolio-page-box .flag-container.video-flag .flag {
+    width: 30px;
+  }
+}
+.portfolio-page-boxes .portfolio-page-box .flag {
+  width: 45px;
+  animation: wave 2s infinite linear;
+  transform-origin: left center;
+  border-radius: 0;
+}
+@media (max-width: 1599px) {
+  .portfolio-page-boxes .portfolio-page-box .flag {
+    width: 40px;
+  }
+}
+@media (max-width: 1199px) {
+  .portfolio-page-boxes .portfolio-page-box .flag {
+    width: 35px;
+  }
+}
+@media (max-width: 639px) {
+  .portfolio-page-boxes .portfolio-page-box .flag {
+    width: 35px;
+  }
+}
 .portfolio-page-boxes .title {
   font-family: inherit;
   font-size: 2rem;

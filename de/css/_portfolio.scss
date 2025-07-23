@@ -848,7 +848,76 @@
             }
         }
 
+        .flag-container {
+            height: auto;
+            overflow: hidden;
+            perspective: 70px;
+            position: absolute;
+            bottom: 38px;
+            right: 20px;
 
+            @include respond-below(lg) {
+                right: 10px;
+            }
+
+            &.video-flag {
+                right: 40px;
+                bottom: 75px;
+
+                @include respond-below(xl) {
+                    right: 30px;
+                    bottom: 30px;
+                }
+
+                @include respond-below(lg) {
+                    right: 30px;
+                    bottom: 40px;
+                }
+
+                @include respond-below(sm) {
+                    right: 10px;
+                    bottom: 38px;
+                }
+
+                .flag {
+                    width: 50px;
+                    animation: wave 2s infinite linear;
+                    transform-origin: left center;
+                    border-radius: 0;
+
+                    @include respond-below(xl) {
+                        width: 38px;
+                    }
+
+                    @include respond-below(lg) {
+                        width: 35px;
+                    }
+
+                    @include respond-below(sm) {
+                        width: 30px;
+                    }
+                }
+            }
+        }
+
+        .flag {
+            width: 45px;
+            animation: wave 2s infinite linear;
+            transform-origin: left center;
+            border-radius: 0;
+
+            @include respond-below(xl) {
+                width: 40px;
+            }
+
+            @include respond-below(lg) {
+                width: 35px;
+            }
+
+            @include respond-below(sm) {
+                width: 35px;
+            }
+        }
 
     }
 
