@@ -78,11 +78,256 @@
 
     }
 
-    .read-more
-    {
-        a 
-        {
+    .read-more {
+        a {
             text-transform: lowercase !important;
         }
     }
 }
+
+
+// -------------------------CASE STUDY AREA START-------------------------
+
+
+.header-area {
+    padding: 120px 0 80px 0;
+
+    @include respond-below(lg) {
+        padding: 120px 0 0 0;
+    }
+
+    .header-start {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        a {
+            color: #fff;
+            text-decoration: none;
+            padding: 15px 20px;
+            margin-top: 20px;
+            border: 1px solid #fff;
+            border-radius: 20px;
+
+        }
+
+        h2 {
+            color: #fff;
+            font-size: 140px !important;
+            padding: 100px 0 20px 0;
+
+            @include respond-below(lg) {
+                font-size: 120px !important;
+                padding: 70px 0 0 0;
+            }
+
+            @include respond-below(md) {
+                font-size: 120px !important;
+                padding: 50px 0 0 0;
+            }
+
+            @include respond-below(sm) {
+                font-size: 90px !important;
+                line-height: 90px;
+                padding: 60px 0 20px 0;
+            }
+        }
+
+        p {
+            @include p;
+            text-align: center;
+            font-size: 40px;
+            line-height: 40px;
+            padding-top: 30px;
+
+            @include respond-below(lg) {
+                font-size: 30px;
+                line-height: 35px;
+
+            }
+
+            @include respond-below(md) {
+                font-size: 30px !important;
+            }
+
+            @include respond-below(sm) {
+                text-align: left;
+                font-size: 30px;
+                padding-top: 10px;
+
+            }
+        }
+    }
+}
+
+.list-area {
+    ul {
+        padding: 120px 0 80px 0;
+
+        @include respond-below(md) {
+            padding: 60px 0 60px 0;
+        }
+
+        @include respond-below(sm) {
+            padding: 0 0 80px 0;
+        }
+
+        li {
+            line-height: 30px;
+
+            i {
+                color: white;
+
+                span {
+                    padding-left: 10px;
+                    letter-spacing: 3px;
+                    font-size: small;
+                }
+            }
+
+        }
+    }
+
+}
+
+.image-area {
+    img {
+        width: 100%;
+    }
+}
+
+
+.difference-area {
+    padding: 180px 0 100px 0;
+
+    @include respond-below(sm) {
+        padding: 180px 0 0 0;
+    }
+
+    .des-area {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+
+
+        @include respond-below(md) {
+            display: flex;
+            align-items: flex-start;
+        }
+
+        h2 {
+            @include h2;
+            font-size: 70px !important;
+
+            @include respond-below(lg) {
+                font-size: 60px !important;
+            }
+
+            @include respond-below(sm) {
+                font-size: 50px !important;
+            }
+
+        }
+
+        p {
+            text-align: center;
+            color: #fff;
+            width: 60%;
+            padding-top: 20px;
+            line-height: 20px;
+
+            @include respond-below(lg) {
+                width: 60%;
+            }
+
+            @include respond-below(md) {
+                text-align: left;
+                width: 100%;
+            }
+
+            @include respond-below(sm) {
+                text-align: left;
+                width: auto;
+            }
+        }
+
+        img {
+            width: 10%;
+            padding: 120px 0 80px 0;
+
+            @include respond-below(md) {
+                padding: 50px 0 80px 0;
+            }
+
+            @include respond-below(sm) {
+                padding: 30px 0 80px 0;
+            }
+        }
+    }
+}
+
+.problems-area {
+    padding: 120px 0 80px 0;
+
+    @include respond-below(sm) {
+        padding: 0 0 60px 0;
+    }
+
+    .problem-sect {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        @include respond-below(sm) {
+            display: flex;
+            align-items: flex-start;
+        }
+
+        h2 {
+            @include h2;
+            font-size: 350px !important;
+
+            @include respond-below(sm) {
+                font-size: 80px !important;
+            }
+        }
+
+        h3 {
+            width: 60%;
+            @include h3;
+            font-size: 56px !important;
+            text-align: center;
+            padding-top: 25px;
+
+            @include respond-below(sm) {
+                font-size: 35px !important;
+                text-align: left;
+                width: auto;
+                line-height: 40px;
+            }
+        }
+
+        p {
+            color: #fff;
+            width: 56%;
+            padding-top: 50px;
+            font-size: 20px;
+            line-height: 27px;
+            text-align: center;
+
+            @include respond-below(sm) {
+                text-align: left;
+                width: auto;
+                font-size: 16px;
+                padding-top: 30px;
+
+            }
+        }
+    }
+
+}
+
+
+// -------------------------CASE STUDY AREA END---------------------------

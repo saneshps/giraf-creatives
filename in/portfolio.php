@@ -2325,7 +2325,7 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 portfolio-page-box">
               <div class="box">
-                <a>
+               <a href="yes-machinery-sales-app.php" target="_blank">
                   <img src="./img/services/app/YM-sales-app.jpeg" alt="YM-sales-app"> </a>
               </div>
               <h4> <a> YES Machinery Sales App </a> </h4>
