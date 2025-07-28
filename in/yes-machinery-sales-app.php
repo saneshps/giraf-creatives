@@ -173,7 +173,7 @@
         <div class="problem-sect">
         <h2>Problem</h2>
 
-            <h3>A brand that’s become quite fragmented as it’s grown.</h3>
+            <span>A brand that’s become quite fragmented as it’s grown.</span>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
             Voluptatum nam numquam soluta veniam aut, consequatur 
             cumque quibusdam iste praesentium eius rem quisquam nostrum 
@@ -182,7 +182,10 @@
             Incidunt a, sunt dolorum amet ducimus tempora, porro esse 
             quae blanditiis perspiciatis, dignissimos velit sapiente 
             voluptate distinctio possimus delectus dolorem voluptatem quos.</p>
-        </div>
+        
+                     <img src="./img/white_arrow.png" alt="">
+        
+          </div>
     </div>
 
 </section>
@@ -190,6 +193,146 @@
      <!-- =====================
           PROBLEM AREA END
      ===================== -->
+
+
+     <!-- =================
+       APP-SWIPER AREA START
+     ===================== -->
+
+  <section class="app-swiper-area">
+    <div class="container">
+      <div class="app-swip">
+        <!-- Swiper -->
+  <div class="swiper app-swiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img src="./img/app-swiper/app1.png" alt=""> 
+      </div>
+      <div class="swiper-slide">
+        <img src="./img/app-swiper/app1.png" alt=""> 
+      </div>
+      <div class="swiper-slide">
+        <img src="./img/app-swiper/app1.png" alt=""> 
+      </div>
+      <div class="swiper-slide">
+        <img src="./img/app-swiper/app1.png" alt=""> 
+      </div>
+      
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+  </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =================
+       APP-SWIPER AREA END
+     ===================== -->
+
+
+     <!-- ===================
+      INSIGHT AREA START
+      ======================= -->
+
+  <section class="insight-area">
+    <div class="container">
+      <div class="insight-start">
+        <h2>Insights</h2>
+        <span>lorem ipsum dolor sit amet lorem ipsum dolor sit amet
+          lorem ipsum dolor sit amet
+        </span>
+        <p>Lorem <a href="#">ipsum dolor sit</a> amet consectetur adipisicing elit.
+           Aperiam eaque maiores explicabo? Non, ducimus quo possimus 
+           suscipit dolor, eveniet blanditiis cumque dolorum ipsum, at 
+           harum quam deserunt expedita quibusdam corporis.</p>
+
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+           Aperiam eaque maiores explicabo? Non, ducimus quo possimus 
+           suscipit dolor, eveniet blanditiis cumque dolorum ipsum, at 
+           harum quam deserunt expedita quibusdam corporis.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+           Aperiam eaque maiores explicabo? Non, ducimus quo possimus
+           suscipit dolor, eveniet blanditiis cumque dolorum ipsum, at
+           harum quam deserunt expedita quibusdam corporis. Lorem ipsum dolor, 
+           sit amet consectetur adipisicing elit. 
+           Illum vitae ea eligendi cumque reiciendis odit, 
+           officia provident debitis voluptatum, labore aperiam neque. 
+           Excepturi nisi sequi vitae incidunt earum nam iure.</p>
+
+           <img src="./img/white_arrow.png" alt="">
+
+      </div>
+    </div>
+  </section>
+      <!-- =======================
+       INSIGHT AREA END
+       ======================= -->
+
+        <!-- =================
+       IMAGE AREA START
+     ===================== -->
+
+  <section class="third-image-area">
+      <img src="./img/banner.jpg" alt="">
+  </section>
+
+  <!-- =================
+       IMAGE AREA END
+     ===================== -->
+
+         <!-- ===================
+      SOLUTION AREA START
+      ======================= -->
+
+  <section class="solution-area">
+    <div class="container">
+      <div class="solution-start">
+        <h2>Solutions</h2>
+        <span>Aperiam eaque maiores explicabo.
+        </span>
+        <p>Lorem amet consectetur adipisicing elit.
+           Aperiam eaque maiores explicabo? Non, ducimus quo possimus 
+           suscipit dolor, eveniet blanditiis cumque dolorum ipsum, at 
+           harum quam deserunt expedita quibusdam corporis.</p>
+
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+           Aperiam eaque maiores explicabo? Non, ducimus quo possimus 
+           suscipit dolor, eveniet blanditiis cumque dolorum ipsum, at 
+           harum quam deserunt expedita quibusdam corporis.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+           Aperiam eaque maiores explicabo? Non, ducimus quo possimus
+           suscipit dolor, eveniet blanditiis cumque dolorum ipsum, at
+           harum quam deserunt expedita quibusdam corporis. Lorem ipsum dolor, 
+           sit amet consectetur adipisicing elit. 
+           Illum vitae ea eligendi cumque reiciendis odit, 
+           officia provident debitis voluptatum, labore aperiam neque. 
+           Excepturi nisi sequi vitae incidunt earum nam iure.</p>
+
+           <img src="./img/white_arrow.png" alt="">
+
+      </div>
+    </div>
+  </section>
+      <!-- =======================
+       SOLUTION AREA END
+       ======================= -->
+
+         <!-- =================
+       IMAGE AREA START
+     ===================== -->
+
+  <section class="fourth-image-area">
+      <img src="./img/banner.jpg" alt="">
+  </section>
+
+  <!-- =================
+       IMAGE AREA END
+     ===================== -->
+
   <!-- ======================
           FOOTER AREA START
        ====================== -->
@@ -214,60 +357,7 @@
   <!-- =====================
           FOOTER AREA END
        ===================== -->
-
-  <!-- =====================
-          JS AREA START
-     ===================== -->
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
-     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-     crossorigin="anonymous"></script> -->
-
-  <!-- swiper -->
-
-  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-
-  <script src="./js/main.js"></script>
-  <!-- back to top -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-  <script src="./js/script.js"></script>
-  <!--// back to top -->
-
-
-
-  <!-- video -->
-  <script src="https://dayapuram.org/FrontendAsset/js/jquery.magnific-popup.min.js"></script>
-  <script src="https://dayapuram.org/FrontendAsset/js/aos.js"></script>
-  <script src="https://dayapuram.org/FrontendAsset/js/youtube.js"></script>
-  <!-- video -->
-
-  <!-- humberger menu -->
-  <script>
-    let navButton = document.querySelector(".nav-button");
-
-    navButton.addEventListener("click", e => {
-      e.preventDefault();
-
-      // toggle nav state
-      document.body.classList.toggle("nav-visible");
-    });
-  </script>
-  <!-- humberger menu -->
-
-
-  <!-- animate aos -->
-  <script>
-    AOS.init();
-  </script>
-
-  <!--// animate aos -->
-
-  <!-- Team slider -->
+<!-- Team slider -->
   <script>
     var swiper = new Swiper(".teamSlider", {
       slidesPerView: 1,
@@ -415,6 +505,121 @@
   </script>
   <!--// blogs area -->
 
+      <!-- <script defer type="text/javascript" src="./js/case-study.js"></script> -->
+<script>
+  
+var swiper = new Swiper(".app-swiper", {
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+    },
+    autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+    },
+    navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+    },
+    breakpoints: {
+        // when window width is >= 320px
+        320: {
+            slidesPerView: 1,
+            spaceBetween: 20
+        },
+        // when window width is >= 480px
+        480: {
+            slidesPerView: 2,
+            spaceBetween: 30
+        },
+        // when window width is >= 640px
+        640: {
+            slidesPerView: 2,
+            spaceBetween: 40
+        },
+        992: {
+            slidesPerView: 2,
+            spaceBetween: 40
+        },
+        1200: {
+            slidesPerView: 4,
+            spaceBetween: 0
+        },
+        1600: {
+            slidesPerView: 4,
+            spaceBetween: 40
+        },
+        1920: {
+            slidesPerView: 4,
+            spaceBetween: 40
+        }
+    },
+});
+
+
+</script>
+
+  <!-- =====================
+          JS AREA START
+     ===================== -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+     crossorigin="anonymous"></script> -->
+
+  <!-- swiper -->
+
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+  <script src="./js/main.js"></script>
+  <!-- back to top -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  <script src="./js/script.js"></script>
+  <!--// back to top -->
+
+
+
+  <!-- video -->
+  <script src="https://dayapuram.org/FrontendAsset/js/jquery.magnific-popup.min.js"></script>
+  <script src="https://dayapuram.org/FrontendAsset/js/aos.js"></script>
+  <script src="https://dayapuram.org/FrontendAsset/js/youtube.js"></script>
+  
+  <!-- video -->
+
+
+
+  <!-- humberger menu -->
+  <script>
+    let navButton = document.querySelector(".nav-button");
+
+    navButton.addEventListener("click", e => {
+      e.preventDefault();
+
+      // toggle nav state
+      document.body.classList.toggle("nav-visible");
+    });
+  </script>
+  <!-- humberger menu -->
+
+
+  <!-- animate aos -->
+  <script>
+    AOS.init();
+  </script>
+
+  <!--// animate aos -->
+
+
+
+
+  
   <!-- =====================
           JS AREA END
      ===================== -->

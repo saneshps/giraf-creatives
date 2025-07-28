@@ -90,7 +90,7 @@
 
 
 .header-area {
-    padding: 120px 0 80px 0;
+    padding: 120px 0 0px 0;
 
     @include respond-below(lg) {
         padding: 120px 0 0 0;
@@ -162,6 +162,12 @@
 }
 
 .list-area {
+    padding: 0px 0 80px 0;
+
+    @include respond-below(sm) {
+        padding: 60px 0 60px 0;
+    }
+
     ul {
         padding: 120px 0 80px 0;
 
@@ -201,8 +207,13 @@
 .difference-area {
     padding: 180px 0 100px 0;
 
+    @include respond-below(md) {
+        padding: 180px 0 30px 0;
+
+    }
+
     @include respond-below(sm) {
-        padding: 180px 0 0 0;
+        padding: 100px 0 0 0;
     }
 
     .des-area {
@@ -225,8 +236,13 @@
                 font-size: 60px !important;
             }
 
+            @include respond-below(md) {
+                line-height: 75px;
+            }
+
             @include respond-below(sm) {
                 font-size: 50px !important;
+                line-height: 60px;
             }
 
         }
@@ -235,21 +251,34 @@
             text-align: center;
             color: #fff;
             width: 60%;
-            padding-top: 20px;
+            padding-top: 50px;
             line-height: 20px;
 
+            @include respond-below(xl) {
+                width: 90%;
+                font-size: large;
+                line-height: 30px;
+            }
+
             @include respond-below(lg) {
-                width: 60%;
+                width: 100%;
+                line-height: 35px;
+                font-size: 24px;
             }
 
             @include respond-below(md) {
                 text-align: left;
                 width: 100%;
+                font-size: 24px;
+                line-height: 40px;
+                padding-top: 30px;
             }
 
             @include respond-below(sm) {
                 text-align: left;
                 width: auto;
+                font-size: 16px;
+                line-height: 30px;
             }
         }
 
@@ -269,7 +298,15 @@
 }
 
 .problems-area {
-    padding: 120px 0 80px 0;
+    padding: 20px 0 80px 0;
+
+    @include respond-below(lg) {
+        padding: 0 0 60px 0;
+    }
+
+    @include respond-below(md) {
+        padding: 0 0 60px 0;
+    }
 
     @include respond-below(sm) {
         padding: 0 0 60px 0;
@@ -289,17 +326,46 @@
             @include h2;
             font-size: 350px !important;
 
+            @include respond-below(xl) {
+                font-size: 310px !important;
+            }
+
+            @include respond-below(lg) {
+                font-size: 190px !important;
+            }
+
+            @include respond-below(md) {
+                font-size: 165px !important;
+            }
+
             @include respond-below(sm) {
                 font-size: 80px !important;
             }
         }
 
-        h3 {
-            width: 60%;
+        span {
             @include h3;
+            width: 60%;
             font-size: 56px !important;
             text-align: center;
             padding-top: 25px;
+
+            @include respond-below(xl) {
+                font-size: 45px !important;
+                width: 100%;
+            }
+
+            @include respond-below(lg) {
+                width: 90%;
+                font-size: 30px !important;
+                line-height: 45px;
+            }
+
+            @include respond-below(md) {
+                font-size: 27px !important;
+                width: 80%;
+                line-height: 40px;
+            }
 
             @include respond-below(sm) {
                 font-size: 35px !important;
@@ -317,17 +383,292 @@
             line-height: 27px;
             text-align: center;
 
+            @include respond-below(xl) {
+                width: 100%;
+                font-size: 20px;
+            }
+
+            @include respond-below(lg) {
+                width: 100%;
+            }
+
+            @include respond-below(md) {
+                width: auto;
+                text-align: left;
+                line-height: 40px;
+                font-size: 24px;
+            }
+
             @include respond-below(sm) {
                 text-align: left;
                 width: auto;
-                font-size: 16px;
+                font-size: 20px;
                 padding-top: 30px;
+                line-height: 30px;
 
             }
+        }
+
+        img {
+            width: 10%;
+            padding: 120px 0 80px 0;
+
+            @include respond-below(sm) {
+                padding: 50px 0 50px 0;
+
+            }
+
         }
     }
 
 }
 
+.app-swiper-area {
+
+    .app-swip {
+
+        .app-swiper {
+            .swiper-wrapper {
+                .swiper-slide {
+                    width: auto !important;
+                    img {
+                       width: 45%; 
+                        
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+.insight-area {
+    padding: 120px 0 80px 0;
+
+    .insight-start {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        @include respond-below(sm) {
+            display: flex;
+            align-items: flex-start;
+        }
+
+        h2 {
+            @include h2;
+            font-size: 290px !important;
+
+            @include respond-below(lg) {
+                font-size: 200px !important;
+            }
+
+            @include respond-below(lg) {
+                font-size: 150px !important;
+            }
+
+            @include respond-below(sm) {
+                font-size: 90px !important;
+                align-items: flex-start;
+                direction: left;
+            }
+
+        }
+
+        span {
+            font-size: 50px;
+            width: 70%;
+            text-align: center;
+            padding: 60px 0 60px 0;
+            color: #ff9718;
+
+            @include respond-below(lg) {
+                font-size: 35px;
+                width: 90%;
+                padding: 60px 0 30px 0;
+            }
+
+            @include respond-below(md) {
+                width: 100%;
+                font-size: 33px;
+                line-height: 40px;
+                padding: 40px 0 60px 0;
+            }
+
+            @include respond-below(sm) {
+                font-size: 20px;
+                width: 100%;
+                padding: 30px 0 30px 0;
+                line-height: 30px
+            }
+        }
+
+        p {
+            @include p;
+            text-align: center;
+            padding: 0px 0 20px;
+            width: 100%;
+            font-size: 20px;
+            line-height: 30px;
+
+            @include respond-below(xl) {
+                width: 100%;
+            }
+
+            @include respond-below(lg) {
+                width: 100%;
+                font-size: 25px;
+            }
+
+            @include respond-below(md) {
+                font-size: 24px;
+                text-align: left;
+            }
+
+            @include respond-below(sm) {
+                width: 90%;
+                font-size: 20px;
+                line-height: 26px;
+
+            }
+
+            a {
+                color: orange;
+            }
+        }
+
+        img {
+            width: 10%;
+            padding: 150px 0 80px 0;
+
+            @include respond-below(sm) {
+                width: 10%;
+                padding: 50px 0 50px 0;
+                display: flex;
+                align-items: flex-start;
+
+            }
+
+        }
+    }
+}
+
+.third-image-area {
+    img {
+        width: 100%;
+    }
+}
+
+.solution-area {
+    padding: 120px 0 80px 0;
+
+    .solution-start {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        @include respond-below(sm) {
+            display: flex;
+            align-items: flex-start;
+        }
+
+        h2 {
+            @include h2;
+            font-size: 290px !important;
+
+            @include respond-below(lg) {
+                font-size: 200px !important;
+            }
+
+            @include respond-below(lg) {
+                font-size: 150px !important;
+            }
+
+            @include respond-below(sm) {
+                font-size: 80px !important;
+            }
+
+        }
+
+        span {
+            font-size: 50px;
+            width: 70%;
+            text-align: center;
+            padding: 60px 0 60px 0;
+            color: #ff9718;
+
+            @include respond-below(lg) {
+                font-size: 35px;
+                width: 90%;
+                padding: 60px 0 30px 0;
+            }
+
+            @include respond-below(md) {
+                width: 100%;
+                font-size: 33px;
+                line-height: 40px;
+                padding: 40px 0 60px 0;
+            }
+
+            @include respond-below(sm) {
+                font-size: 20px;
+                width: 100%;
+                padding: 30px 0 30px 0;
+            }
+        }
+
+        p {
+            @include p;
+            text-align: center;
+            padding: 0 0 20px;
+            width: 10%;
+            font-size: 20px;
+            line-height: 30px;
+
+            @include respond-below(xl) {
+                width: 100%;
+            }
+
+            @include respond-below(lg) {
+                width: 100%;
+                font-size: 25px;
+            }
+
+            @include respond-below(md) {
+                font-size: 24px;
+                text-align: left;
+            }
+
+            @include respond-below(sm) {
+                width: 90%;
+                font-size: 20px;
+                line-height: 26px;
+
+            }
+
+            a {
+                color: orange;
+            }
+        }
+
+        img {
+            width: 10%;
+            padding: 150px 0 80px 0;
+
+            @include respond-below(sm) {
+                width: 10%;
+                padding: 50px 0 50px 0;
+
+            }
+        }
+    }
+}
+
+.fourth-image-area {
+    img {
+        width: 100%;
+    }
+}
 
 // -------------------------CASE STUDY AREA END---------------------------
