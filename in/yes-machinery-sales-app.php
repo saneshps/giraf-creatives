@@ -30,19 +30,20 @@
   <!--// animate -->
   <!-- swiper -->
   <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+  
   <!--// swiper -->
 
   <!-- testimonials -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css"> -->
   <!--// testimonials -->
 
   <!-- video -->
-  <link rel="stylesheet" href="https://dayapuram.org/FrontendAsset/css/magnific-popup.css">
+  <!-- <link rel="stylesheet" href="https://dayapuram.org/FrontendAsset/css/magnific-popup.css"> -->
   <!-- video -->
 
   <!-- text-loop -->
-  <link rel="stylesheet" href="./css/text-loop.css">
+  <!-- <link rel="stylesheet" href="./css/text-loop.css"> -->
   <!-- text-loop -->
 
   <!-- slick -->
@@ -58,12 +59,12 @@
   <!-- humberger menu -->
 
   <!-- testimonials -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css"> -->
   <!-- testimonials -->
 
   <!-- blogs -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"> -->
   <!-- <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'> -->
   <!-- blogs -->
   <?php include("gtag_head.php"); ?>
@@ -89,7 +90,7 @@
      ===================== -->
   <section>
     <div class="banner-area">
-      <img src="./img/slider/about.jpg" alt="banner">
+      <img src="./img/slider/yes-banner.jpeg" alt="banner">
       <h1> Yes Machinery Sales App </h1>
     </div>
   </section>
@@ -110,30 +111,53 @@
         </div>
     </div>
 </section>
+<!-- =====================
+          HEADER AREA END
+     ===================== -->
 
+
+     <!-- =====================
+          LIST-TEXT AREA START
+     ===================== -->
 <section class="list-area">
     <div class="container">
-        <ul>
+        <div class="row lists">
+          <div class="col-xl-3 col-lg-4 col-md-12 col-12 ">
+            <div class="list-ul">
+              <ul>
             <li><i class="fa-solid fa-arrow-right-long"><span>Brand Creation</span></i></li>
             <li><i class="fa-solid fa-arrow-right-long"><span>Brand Strategy</span></i></li>
             <li><i class="fa-solid fa-arrow-right-long"><span>Brand Identity</span></i></li>
             <li><i class="fa-solid fa-arrow-right-long"><span>Brand Guidelines</span></i></li>
             <li><i class="fa-solid fa-arrow-right-long"><span>Brand Collateral</span></i></li>
-        </ul>
+           </ul>
+            </div>
+          </div>
+
+          <div class="col-xl-9 col-lg-8 col-md-12 col-12 ">
+            <div class="list-content">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Totam corrupti nemo, sapiente porro dicta nostrum reprehenderit 
+                soluta facere alias libero odio expedita nobis praesentium. 
+                Nam quidem atque natus at maxime?</p>
+            </div>
+          </div>
+        </div>
     </div>
 </section>
 
-
- <!-- =====================
-          HEADER AREA END
+<!-- =====================
+          LIST-TEXT AREA END
      ===================== -->
+
+ 
 
  <!-- =====================
           IMAGE AREA START
      ===================== -->
 
 <section class="image-area">
-    <img src="./img/banner.jpg" alt="">
+    <img src="./img/banner.jpeg" alt="">
 </section>
 
 <!-- =====================
@@ -154,9 +178,23 @@
                     reprehenderit optio fugiat molestias natus officiis molestiae sequi?
                      Distinctio voluptatum tempore tenetur repellat!</p>
 
-                     <img src="./img/white_arrow.png" alt="">
-            </div>
+            
         </div>
+        <div class="row">
+      <div class="col-md-12">
+         <div class="mouse_scroll">
+
+            <div class="mouse">
+              <div class="wheel"></div>
+            </div>
+            <div>
+              <span class="m_scroll_arrows unu"></span>
+              <span class="m_scroll_arrows doi"></span>
+              <span class="m_scroll_arrows trei"></span>
+            </div>
+          </div>
+      </div>
+    </div>
      </section>
 
       <!-- =====================
@@ -183,9 +221,24 @@
             quae blanditiis perspiciatis, dignissimos velit sapiente 
             voluptate distinctio possimus delectus dolorem voluptatem quos.</p>
         
-                     <img src="./img/white_arrow.png" alt="">
+         
         
           </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+         <div class="mouse_scroll">
+
+            <div class="mouse">
+              <div class="wheel"></div>
+            </div>
+            <div>
+              <span class="m_scroll_arrows unu"></span>
+              <span class="m_scroll_arrows doi"></span>
+              <span class="m_scroll_arrows trei"></span>
+            </div>
+          </div>
+      </div>
     </div>
 
 </section>
@@ -199,10 +252,9 @@
        APP-SWIPER AREA START
      ===================== -->
 
-  <section class="app-swiper-area">
+  <!-- <section class="app-swiper-area">
     <div class="container">
       <div class="app-swip">
-        <!-- Swiper -->
   <div class="swiper app-swiper">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
@@ -225,7 +277,7 @@
   </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <!-- =================
        APP-SWIPER AREA END
@@ -262,8 +314,22 @@
            officia provident debitis voluptatum, labore aperiam neque. 
            Excepturi nisi sequi vitae incidunt earum nam iure.</p>
 
-           <img src="./img/white_arrow.png" alt="">
 
+
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="mouse_scroll">
+            <div class="mouse">
+              <div class="wheel"></div>
+            </div>
+            <div>
+              <span class="m_scroll_arrows unu"></span>
+              <span class="m_scroll_arrows doi"></span>
+              <span class="m_scroll_arrows trei"></span>
+		</div>
+</div>
+        </div>
       </div>
     </div>
   </section>
@@ -276,7 +342,7 @@
      ===================== -->
 
   <section class="third-image-area">
-      <img src="./img/banner.jpg" alt="">
+      <img src="./img/banner.jpeg" alt="">
   </section>
 
   <!-- =================
@@ -312,9 +378,24 @@
            officia provident debitis voluptatum, labore aperiam neque. 
            Excepturi nisi sequi vitae incidunt earum nam iure.</p>
 
-           <img src="./img/white_arrow.png" alt="">
+           
 
       </div>
+      <div class="row">
+      <div class="col-md-12">
+         <div class="mouse_scroll">
+
+            <div class="mouse">
+              <div class="wheel"></div>
+            </div>
+            <div>
+              <span class="m_scroll_arrows unu"></span>
+              <span class="m_scroll_arrows doi"></span>
+              <span class="m_scroll_arrows trei"></span>
+            </div>
+          </div>
+      </div>
+    </div>
     </div>
   </section>
       <!-- =======================
@@ -357,155 +438,7 @@
   <!-- =====================
           FOOTER AREA END
        ===================== -->
-<!-- Team slider -->
-  <script>
-    var swiper = new Swiper(".teamSlider", {
-      slidesPerView: 1,
-      spaceBetween: 10,
-      pagination: {
-        el: ".swiper-pagination",
-        clickable: true,
-      },
-      autoplay: {
-        delay: 2500,
-        disableOnInteraction: false,
-      },
-      navigation: {
-        nextEl: ".swiper-button-next",
-        prevEl: ".swiper-button-prev",
-      },
-      breakpoints: {
-        // when window width is >= 320px
-        320: {
-          slidesPerView: 1,
-          spaceBetween: 20
-        },
-        // when window width is >= 480px
-        480: {
-          slidesPerView: 2,
-          spaceBetween: 30
-        },
-        // when window width is >= 640px
-        640: {
-          slidesPerView: 2,
-          spaceBetween: 40
-        },
-        992: {
-          slidesPerView: 2,
-          spaceBetween: 40
-        },
-        1200: {
-          slidesPerView: 3,
-          spaceBetween: 40
-        },
-        1600: {
-          slidesPerView: 4,
-          spaceBetween: 40
-        },
-        1920: {
-          slidesPerView: 4,
-          spaceBetween: 40
-        }
-      },
-    });
-  </script>
-  <!--// Team slider -->
 
-  <!-- Clients -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
-  <script>
-    $(document).ready(function() {
-      $('.customer-logos').slick({
-        slidesToShow: 6,
-        slidesToScroll: 1,
-        autoplay: true,
-        autoplaySpeed: 1500,
-        arrows: false,
-        dots: false,
-        pauseOnHover: false,
-        responsive: [{
-            breakpoint: 1920,
-            settings: {
-              slidesToShow: 6
-            }
-          },
-          {
-            breakpoint: 1600,
-            settings: {
-              slidesToShow: 5
-            }
-          },
-          {
-            breakpoint: 1200,
-            settings: {
-              slidesToShow: 4
-            }
-          },
-          {
-            breakpoint: 992,
-            settings: {
-              slidesToShow: 3
-            }
-          },
-          {
-            breakpoint: 768,
-            settings: {
-              slidesToShow: 3
-            }
-          },
-
-          {
-            breakpoint: 520,
-            settings: {
-              slidesToShow: 2
-            }
-          }
-        ]
-      });
-    });
-  </script>
-  <!--// Clients -->
-
-  <!-- testimonials -->
-  <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script> -->
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
-
-  <script>
-    $(document).ready(function() {
-      $("#testimonial-slider").owlCarousel({
-        items: 1,
-        itemsDesktop: [1000, 1],
-        itemsDesktopSmall: [979, 1],
-        itemsTablet: [768, 1],
-        margin: 10,
-        pagination: false,
-        navigation: true,
-        navigationText: ["", ""],
-        autoPlay: true
-      });
-    });
-  </script>
-  <!--// testimonials -->
-
-  <!-- blogs area -->
-  <script>
-    var swiper = new Swiper('.blog-slider', {
-      spaceBetween: 30,
-      effect: 'fade',
-      loop: true,
-      mousewheel: {
-        invert: false,
-      },
-      // autoHeight: true,
-      pagination: {
-        el: '.blog-slider__pagination',
-        clickable: true,
-      }
-    });
-  </script>
-  <!--// blogs area -->
-
-      <!-- <script defer type="text/javascript" src="./js/case-study.js"></script> -->
 <script>
   
 var swiper = new Swiper(".app-swiper", {
@@ -545,7 +478,7 @@ var swiper = new Swiper(".app-swiper", {
         },
         1200: {
             slidesPerView: 4,
-            spaceBetween: 0
+            spaceBetween: 40
         },
         1600: {
             slidesPerView: 4,
@@ -560,6 +493,54 @@ var swiper = new Swiper(".app-swiper", {
 
 
 </script>
+
+
+  <!-- Clients -->
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script> -->
+ 
+  <!--// Clients -->
+
+  <!-- testimonials -->
+  <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script> -->
+  <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script> -->
+
+  <!-- <script>
+    $(document).ready(function() {
+      $("#testimonial-slider").owlCarousel({
+        items: 1,
+        itemsDesktop: [1000, 1],
+        itemsDesktopSmall: [979, 1],
+        itemsTablet: [768, 1],
+        margin: 10,
+        pagination: false,
+        navigation: true,
+        navigationText: ["", ""],
+        autoPlay: true
+      });
+    });
+  </script> -->
+  <!--// testimonials -->
+
+  <!-- blogs area -->
+  <!-- <script>
+    var swiper = new Swiper('.blog-slider', {
+      spaceBetween: 30,
+      effect: 'fade',
+      loop: true,
+      mousewheel: {
+        invert: false,
+      },
+      // autoHeight: true,
+      pagination: {
+        el: '.blog-slider__pagination',
+        clickable: true,
+      }
+    }); -->
+  <!-- </script> -->
+  <!--// blogs area -->
+
+      <!-- <script defer type="text/javascript" src="./js/case-study.js"></script> -->
+
 
   <!-- =====================
           JS AREA START

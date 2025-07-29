@@ -162,40 +162,124 @@
 }
 
 .list-area {
-    padding: 0px 0 80px 0;
+    padding: 120px 0 100px 0;
 
     @include respond-below(sm) {
         padding: 60px 0 60px 0;
     }
 
-    ul {
-        padding: 120px 0 80px 0;
+    .lists {
+        display: flex;
+        align-items: center;
+        padding: 0 50px;
 
-        @include respond-below(md) {
-            padding: 60px 0 60px 0;
+        @include respond-below(xl) {
+            padding: 0 0;
         }
 
-        @include respond-below(sm) {
-            padding: 0 0 80px 0;
-        }
 
-        li {
-            line-height: 30px;
+        .list-ul {
+            padding: 0 12px;
 
-            i {
-                color: white;
-
-                span {
-                    padding-left: 10px;
-                    letter-spacing: 3px;
-                    font-size: small;
-                }
+            @include respond-below(xl) {
+                padding: 0 0;
             }
 
+            @include respond-below(lg) {
+                padding: 0 0;
+            }
+
+            ul {
+                color: #fff;
+
+                li {
+                    i {
+                        span {
+                            color: #fff;
+                            line-height: 22px;
+                            letter-spacing: 2px;
+                            padding: 0 10px;
+
+                            @include respond-below(lg) {
+                                line-height: 25px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .list-content {
+            padding: 0 50px;
+
+            @include respond-below(lg) {
+                padding: 0 0;
+            }
+
+            @include respond-below(md) {
+                padding: 20px 0;
+            }
+
+            @include respond-below(sm) {
+                padding: 20px 0;
+            }
+
+            p {
+                color: #fff;
+                border: 1px solid #fff;
+                width: 100%;
+                line-height: 24px;
+                padding: 50px 30px;
+                border-radius: 20px;
+
+                @include respond-below(lg) {
+                    padding: 30px 20px;
+                }
+
+                @include respond-below(md) {
+                    padding: 10px 20px;
+                }
+
+                @include respond-below(sm) {
+                    padding: 10px 20px;
+                }
+            }
         }
     }
 
 }
+
+
+
+
+// ul {
+//     padding: 120px 0 80px 0;
+
+//     @include respond-below(md) {
+//         padding: 60px 0 60px 0;
+//     }
+
+//     @include respond-below(sm) {
+//         padding: 0 0 80px 0;
+//     }
+
+//     li {
+//         line-height: 30px;
+
+//         i {
+//             color: white;
+
+//             span {
+//                 padding-left: 10px;
+//                 letter-spacing: 3px;
+//                 font-size: small;
+//             }
+//         }
+
+//     }
+// }
+
+
 
 .image-area {
     img {
@@ -207,8 +291,13 @@
 .difference-area {
     padding: 180px 0 100px 0;
 
+    @include respond-below(lg) {
+        padding: 80px 0 30px 0;
+
+    }
+
     @include respond-below(md) {
-        padding: 180px 0 30px 0;
+        padding: 100px 0 30px 0;
 
     }
 
@@ -282,18 +371,7 @@
             }
         }
 
-        img {
-            width: 10%;
-            padding: 120px 0 80px 0;
 
-            @include respond-below(md) {
-                padding: 50px 0 80px 0;
-            }
-
-            @include respond-below(sm) {
-                padding: 30px 0 80px 0;
-            }
-        }
     }
 }
 
@@ -301,15 +379,15 @@
     padding: 20px 0 80px 0;
 
     @include respond-below(lg) {
-        padding: 0 0 60px 0;
+        padding: 70px 0 60px 0;
     }
 
     @include respond-below(md) {
-        padding: 0 0 60px 0;
+        padding: 60px 0 60px 0;
     }
 
     @include respond-below(sm) {
-        padding: 0 0 60px 0;
+        padding: 20px 0 0 0;
     }
 
     .problem-sect {
@@ -409,42 +487,52 @@
             }
         }
 
-        img {
-            width: 10%;
-            padding: 120px 0 80px 0;
 
-            @include respond-below(sm) {
-                padding: 50px 0 50px 0;
-
-            }
-
-        }
     }
 
 }
 
-.app-swiper-area {
+// .app-swiper-area {
 
-    .app-swip {
+//     .app-swip {
 
-        .app-swiper {
-            .swiper-wrapper {
-                .swiper-slide {
-                    width: auto !important;
-                    img {
-                       width: 45%; 
-                        
-                    }
-                }
-            }
-        }
-    }
-}
+//         .app-swiper {
+//             .swiper-wrapper {
+
+
+//                 .swiper-slide {
+//                     width: auto !important;
+
+//                     img {
+//                         width: 45%;
+
+//                     }
+//                 }
+//             }
+//         }
+//     }
+// }
 
 
 
 .insight-area {
     padding: 120px 0 80px 0;
+
+    @include respond-below(xl) {
+        padding: 40px 0 0 0;
+    }
+
+    @include respond-below(lg) {
+        padding: 0 0 0 0;
+    }
+
+    @include respond-below(md) {
+        padding: 50px 0 0 0;
+    }
+
+    @include respond-below(sm) {
+        padding: 20px 0 0 0;
+    }
 
     .insight-start {
         display: flex;
@@ -464,7 +552,7 @@
                 font-size: 200px !important;
             }
 
-            @include respond-below(lg) {
+            @include respond-below(md) {
                 font-size: 150px !important;
             }
 
@@ -538,23 +626,26 @@
             }
         }
 
-        img {
-            width: 10%;
-            padding: 150px 0 80px 0;
 
-            @include respond-below(sm) {
-                width: 10%;
-                padding: 50px 0 50px 0;
-                display: flex;
-                align-items: flex-start;
-
-            }
-
-        }
     }
 }
 
 .third-image-area {
+    padding: 30px 0 30px 0;
+
+    @include respond-below(lg) {
+        padding: 60px 0 0 0;
+    }
+
+    @include respond-below(md) {
+        padding: 60px 0 0 0;
+    }
+
+    @include respond-below(sm) {
+        padding: 10px 0 10px 0;
+
+    }
+
     img {
         width: 100%;
     }
@@ -562,6 +653,11 @@
 
 .solution-area {
     padding: 120px 0 80px 0;
+
+    @include respond-below(sm) {
+        padding: 60px 0 80px 0;
+
+    }
 
     .solution-start {
         display: flex;
@@ -652,16 +748,7 @@
             }
         }
 
-        img {
-            width: 10%;
-            padding: 150px 0 80px 0;
 
-            @include respond-below(sm) {
-                width: 10%;
-                padding: 50px 0 50px 0;
-
-            }
-        }
     }
 }
 
