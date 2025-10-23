@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> imprint |Digital Marketing,Designing,Branding Agency,India|Giraf </title>
+  <title> Impressum  |Digital Marketing,Designing,Branding Agency,India|Giraf </title>
   <meta name="description" content="Looking for a Digital Marketing Company, Branding, Designing, Web and App Development, Animation, Photography and Video Production in India Contact Us: +91 9874598775">
 
   <!-- canonical -->
@@ -96,7 +96,7 @@
   <section>
     <div class="banner-area">
       <img src="./img/banner-privacy.jpg" alt="banner">
-      <h1> imprint </h1>
+      <h1> Impressum </h1>
     </div>
   </section>
   <!-- =====================
