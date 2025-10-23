@@ -96,7 +96,7 @@
   <section>
     <div class="banner-area">
       <img src="./img/banner-privacy.jpg" alt="banner">
-      <h1> imprint </h1>
+      <h1> Imprint </h1>
     </div>
   </section>
   <!-- =====================
