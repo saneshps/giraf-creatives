@@ -111,19 +111,19 @@
       <div class="row">
         <div class="col-md-12 privacy-first"> 
           
-          <P> We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the Kistler Maschinen- und Anlagenbau GmbH. The use of the Internet pages of the Kistler Maschinen- und Anlagenbau GmbH is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.
+          <P> We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the Giraf Creatives. The use of the Internet pages of the Giraf Creatives is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.
 
              </P>
-        <p> The processing of personal data, such as the name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to the Kistler Maschinen- und Anlagenbau GmbH. By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.
+        <p> The processing of personal data, such as the name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to the Giraf Creatives. By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.
 
 
         </p>
-        <p> As the controller, the Kistler Maschinen- und Anlagenbau GmbH has implemented numerous technical and organizational measures to ensure the most complete protection of personal data processed through this website. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed. For this reason, every data subject is free to transfer personal data to us via alternative means, e.g. by telephone.
+        <p> As the controller, the Giraf Creatives has implemented numerous technical and organizational measures to ensure the most complete protection of personal data processed through this website. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed. For this reason, every data subject is free to transfer personal data to us via alternative means, e.g. by telephone.
 
 
         </p>
         <h4> DEFINITIONS </h4>
-<p>  The data protection declaration of the Kistler Maschinen- und Anlagenbau GmbH is based on the terms used by the European legislator for the adoption of the General Data Protection Regulation (GDPR). Our data protection declaration should be legible and understandable for the general public, as well as our customers and business partners. To ensure this, we would like to first explain the terminology used.
+<p>  The data protection declaration of the Giraf Creatives is based on the terms used by the European legislator for the adoption of the General Data Protection Regulation (GDPR). Our data protection declaration should be legible and understandable for the general public, as well as our customers and business partners. To ensure this, we would like to first explain the terminology used.
 
 
 </p>
@@ -183,24 +183,24 @@
 
 </p>
 
-<p> Kistler Maschinen- und Anlagenbau GmbH</p>
+<p> Giraf Creatives</p>
 <p> Mackstrasse 84 </p>
 <p> 88348 Bad Saulgau </p>
 <p> Deutschland </p>
 <p> Phone: +(49) 7581 48882 – 0</p>
-<p> Email: info@kistler-machine.de </p>
-<p> Website: https://kistler-machine.com/ </p>
+<p> Email: info@girafcreatives.com </p>
+<p> Website: https://girafcreatives.com/de </p>
 <h4> 3. COLLECTION OF GENERAL DATA AND INFORMATION </h4>
-<p> The website of the Kistler Maschinen- und Anlagenbau GmbH collects a series of general data and information when a data subject or automated system calls up the website. This general data and information are stored in the server log files. Collected may be (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.
+<p> The website of the Giraf Creatives collects a series of general data and information when a data subject or automated system calls up the website. This general data and information are stored in the server log files. Collected may be (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.
 
 
 </p>
-<p>When using these general data and information, the Kistler Maschinen- und Anlagenbau GmbH does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, the Kistler Maschinen- und Anlagenbau GmbH analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
+<p>When using these general data and information, the Giraf Creatives does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, the Giraf Creatives analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
 
 
 </p>
 <h4>4. CONTACT POSSIBILITY VIA THE WEBSITE </h4>
-<p> The website of the Kistler Maschinen- und Anlagenbau GmbH contains information that enables a quick electronic contact to our enterprise, as well as direct communication with us, which also includes a general address of the so-called electronic mail (e-mail address). If a data subject contacts the controller by e-mail or via a contact form, the personal data transmitted by the data subject are automatically stored. Such personal data transmitted on a voluntary basis by a data subject to the data controller are stored for the purpose of processing or contacting the data subject. There is no transfer of this personal data to third parties.
+<p> The website of the Giraf Creatives contains information that enables a quick electronic contact to our enterprise, as well as direct communication with us, which also includes a general address of the so-called electronic mail (e-mail address). If a data subject contacts the controller by e-mail or via a contact form, the personal data transmitted by the data subject are automatically stored. Such personal data transmitted on a voluntary basis by a data subject to the data controller are stored for the purpose of processing or contacting the data subject. There is no transfer of this personal data to third parties.
 
 
 </p>
@@ -269,11 +269,11 @@
  
   
 </ul>
-<p> If one of the aforementioned reasons applies, and a data subject wishes to request the erasure of personal data stored by the Kistler Maschinen- und Anlagenbau GmbH, he or she may, at any time, contact any employee of the controller. An employee of Kistler Maschinen- und Anlagenbau GmbH shall promptly ensure that the erasure request is complied with immediately.
+<p> If one of the aforementioned reasons applies, and a data subject wishes to request the erasure of personal data stored by the Giraf Creatives, he or she may, at any time, contact any employee of the controller. An employee of Giraf Creatives shall promptly ensure that the erasure request is complied with immediately.
 
 
 </p>
-<p>  Where the controller has made personal data public and is obliged pursuant to Article 17(1) to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform other controllers processing the personal data that the data subject has requested erasure by such controllers of any links to, or copy or replication of, those personal data, as far as processing is not required. An employees of the Kistler Maschinen- und Anlagenbau GmbH will arrange the necessary measures in individual cases.
+<p>  Where the controller has made personal data public and is obliged pursuant to Article 17(1) to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform other controllers processing the personal data that the data subject has requested erasure by such controllers of any links to, or copy or replication of, those personal data, as far as processing is not required. An employees of the Giraf Creatives will arrange the necessary measures in individual cases.
 
 
 </p>
@@ -294,7 +294,7 @@
    </li> 
 </ul>
 
-<p> If one of the aforementioned conditions is met, and a data subject wishes to request the restriction of the processing of personal data stored by the Kistler Maschinen- und Anlagenbau GmbH, he or she may at any time contact any employee of the controller. The employee of the Kistler Maschinen- und Anlagenbau GmbH will arrange the restriction of the processing.
+<p> If one of the aforementioned conditions is met, and a data subject wishes to request the restriction of the processing of personal data stored by the Giraf Creatives, he or she may at any time contact any employee of the controller. The employee of the Giraf Creatives will arrange the restriction of the processing.
 
 
 </p>
@@ -309,7 +309,7 @@
 
 </p>
 
-<p> In order to assert the right to data portability, the data subject may at any time contact any employee of the Kistler Maschinen- und Anlagenbau GmbH.
+<p> In order to assert the right to data portability, the data subject may at any time contact any employee of the Giraf Creatives.
 
 </p>
 <h6> G)    RIGHT TO OBJECT</h6>
@@ -318,21 +318,21 @@
 
 </p>
 
-<p> The Kistler Maschinen- und Anlagenbau GmbH shall no longer process the personal data in the event of the objection, unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject, or for the establishment, exercise or defence of legal claims.
+<p> The Giraf Creatives shall no longer process the personal data in the event of the objection, unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject, or for the establishment, exercise or defence of legal claims.
    </p>
-<p>If the Kistler Maschinen- und Anlagenbau GmbH processes personal data for direct marketing purposes, the data subject shall have the right to object at any time to processing of personal data concerning him or her for such marketing. This applies to profiling to the extent that it is related to such direct marketing. If the data subject objects to the Kistler Maschinen- und Anlagenbau GmbH to the processing for direct marketing purposes, the Kistler Maschinen- und Anlagenbau GmbH will no longer process the personal data for these purposes.
+<p>If the Giraf Creatives processes personal data for direct marketing purposes, the data subject shall have the right to object at any time to processing of personal data concerning him or her for such marketing. This applies to profiling to the extent that it is related to such direct marketing. If the data subject objects to the Giraf Creatives to the processing for direct marketing purposes, the Giraf Creatives will no longer process the personal data for these purposes.
 
 </p>
-<p> In addition, the data subject has the right, on grounds relating to his or her particular situation, to object to processing of personal data concerning him or her by the Kistler Maschinen- und Anlagenbau GmbH for scientific or historical research purposes, or for statistical purposes pursuant to Article 89(1) of the GDPR, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
+<p> In addition, the data subject has the right, on grounds relating to his or her particular situation, to object to processing of personal data concerning him or her by the Giraf Creatives for scientific or historical research purposes, or for statistical purposes pursuant to Article 89(1) of the GDPR, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
    </p>
-<p> In order to exercise the right to object, the data subject may contact any employee of the Kistler Maschinen- und Anlagenbau GmbH. In addition, the data subject is free in the context of the use of information society services, and notwithstanding Directive 2002/58/EC, to use his or her right to object by automated means using technical specifications.
+<p> In order to exercise the right to object, the data subject may contact any employee of the Giraf Creatives. In addition, the data subject is free in the context of the use of information society services, and notwithstanding Directive 2002/58/EC, to use his or her right to object by automated means using technical specifications.
    </p>
    <h6> H)    AUTOMATED INDIVIDUAL DECISION-MAKING, INCLUDING PROFILING</h6>
 <p> Each data subject shall have the right granted by the European legislator not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her, or similarly significantly affects him or her, as long as the decision (1) is not is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) is not authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject’s rights and freedoms and legitimate interests, or (3) is not based on the data subject’s explicit consent.
    </p>
-<p>  If the decision (1) is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) it is based on the data subject’s explicit consent, the Kistler Maschinen- und Anlagenbau GmbH shall implement suitable measures to safeguard the data subject’s rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and contest the decision.
+<p>  If the decision (1) is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) it is based on the data subject’s explicit consent, the Giraf Creatives shall implement suitable measures to safeguard the data subject’s rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and contest the decision.
    </p>
-<p> If the data subject wishes to exercise the rights concerning automated individual decision-making, he or she may, at any time, contact any employee of the Kistler Maschinen- und Anlagenbau GmbH.
+<p> If the data subject wishes to exercise the rights concerning automated individual decision-making, he or she may, at any time, contact any employee of the Giraf Creatives.
    </p>
 
 <h6> I)    RIGHT TO WITHDRAW DATA PROTECTION CONSENT </h6>
@@ -340,7 +340,7 @@
 
 
 </p>
-<p> If the data subject wishes to exercise the right to withdraw the consent, he or she may, at any time, contact any employee of the Kistler Maschinen- und Anlagenbau GmbH.
+<p> If the data subject wishes to exercise the right to withdraw the consent, he or she may, at any time, contact any employee of the Giraf Creatives.
 
 </p>
 <h4> 7. DATA PROTECTION FOR APPLICATIONS AND THE APPLICATION PROCEDURES</h4>

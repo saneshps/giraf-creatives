@@ -29,9 +29,9 @@
           <p> © 2025 Alle Rechte vorbehalten <span> <a href="https://girafcreatives.com/de" target="_blank"> Giraf Creatives </a> </span>
           </p>
             <p>  
-             <span>    <a class="privacy" href="imprint.php">  Imprint </a>  </span> || 
-             <span>    <a class="privacy" href="conditions.php"> Terms and Conditions </a>  </span>  ||
-             <span>    <a class="privacy" href="privacy-policy.php"> Privacy Policy </a>  </span>  
+             <span>    <a class="privacy" href="imprint.php">  Impressum </a>  </span> || 
+             <span>    <a class="privacy" href="conditions.php">  AGB </a>  </span>  ||
+             <span>    <a class="privacy" href="privacy-policy.php">  Datenschutz </a>  </span>  
           </p>
         </div>
         <!-- secnd -->
