@@ -3,7 +3,7 @@
       <div class="row footer-title-box">
         <!-- first -->
         <div class="col-xl-4 col-lg-4 col-md-6 footer-first">
-          <p class="f-address">  
+          <p class="f-address">
             Mackstraße 84, <br>
             88348 Bad Saulgau, Deutschland
           </p>
@@ -26,12 +26,13 @@
        =======================-->
 
           <img src="./img/logo.png" alt="logo">
-          <p> © 2025 Alle Rechte vorbehalten <span> <a href="https://girafcreatives.com/de" target="_blank"> Giraf Creatives </a> </span>
+          <p> © 2025 Alle Rechte vorbehalten <span> <a href="https://girafcreatives.com/de" target="_blank">
+                Giraf Creatives </a> </span>
           </p>
-            <p>  
-             <span>    <a class="privacy" href="imprint.php">  Impressum </a>  </span> || 
-             <span>    <a class="privacy" href="conditions.php">  AGB </a>  </span>  ||
-             <span>    <a class="privacy" href="privacy-policy.php">  Datenschutz </a>  </span>  
+          <p>
+            <span> <a class="privacy" href="imprint.php"> Impressum </a> </span> ||
+            <span> <a class="privacy" href="#"> AGB </a> </span> ||
+            <span> <a class="privacy" href="privacy-policy.php"> Datenschutz </a> </span>
           </p>
         </div>
         <!-- secnd -->
@@ -43,7 +44,8 @@
             <div id='contact-info'>
               <div class='links'>
 
-                <a href="https://www.facebook.com/people/GIRAF/100088398906381/" class='orange-border' target='_blank'>
+                <a href="https://www.facebook.com/people/GIRAF/100088398906381/" class='orange-border'
+                  target='_blank'>
                   <div>
                     <span></span>
                     <span></span>
@@ -66,7 +68,8 @@
 
                   </div>
                 </a>
-                <a href="https://www.instagram.com/girafcreatives/" class='orange-background' target='_blank'>
+                <a href="https://www.instagram.com/girafcreatives/" class='orange-background'
+                  target='_blank'>
                   <div>
                     <span></span>
                     <span></span>
@@ -77,7 +80,8 @@
                     </span>
                   </div>
                 </a>
-                <a href="https://www.linkedin.com/company/girafcreatives/?viewAsMember=true" target='_blank'>
+                <a href="https://www.linkedin.com/company/girafcreatives/?viewAsMember=true"
+                  target='_blank'>
                   <div>
                     <span></span>
                     <span></span>
