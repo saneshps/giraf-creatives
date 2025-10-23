@@ -29,6 +29,8 @@
           <p> © 2025 All rights reserved <span> <a href="https://girafcreatives.com/de/en" target="_blank"> Giraf Creatives </a> </span>  
           </p>
            <p>  
+             <span>    <a class="privacy" href="imprint.php">  Imprint </a>  </span> || 
+             <span>    <a class="privacy" href="conditions.php"> Conditions </a>  </span>  ||
              <span>    <a class="privacy" href="privacy-policy.php"> Privacy Policy </a>  </span>  
           </p>
         </div>

@@ -8063,6 +8063,31 @@ h2 {
   line-height: 26px;
   margin: 14px 0 15px 0;
 }
+.privacy-area .privacy-first .condition-p {
+  margin: 0 0 0px 30px;
+}
+.privacy-area .privacy-first .condition-ul {
+  margin: 0 0 0 50px;
+}
+@media (max-width: 639px) {
+  .privacy-area .privacy-first .condition-ul {
+    margin: 0 0 0 20px;
+  }
+}
+.privacy-area .privacy-first .condition-ul li {
+  list-style-type: decimal;
+  color: #000;
+  line-height: 30px;
+}
+
+.link {
+  color: #F9B217;
+  text-decoration: none;
+}
+.link:hover {
+  text-decoration: none;
+  color: #ce900b;
+}
 
 .home-header {
   height: 100%;

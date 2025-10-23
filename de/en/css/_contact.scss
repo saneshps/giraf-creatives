@@ -392,12 +392,42 @@
         }
 
 
+        .condition-p {
+            margin: 0 0 0px 30px;
+        }
+
+        .condition-ul {
+            margin: 0 0 0 50px;
+
+            @include respond-below(sm) {
+                margin: 0 0 0 20px;
+            }
+
+            li {
+                list-style-type: decimal;
+                color: #000;
+                line-height: 30px;
+            }
+        }
+
+
 
     }
 
 
 
 
+}
+
+
+.link {
+    color: $brand-color;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: none;
+        color: #ce900b;
+    }
 }
 
 // ============================================ PRIVACY POLICY AREA END
