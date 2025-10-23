@@ -186,7 +186,7 @@
 <p> Giraf Creatives</p>
 <p> Mackstrasse 84 </p>
 <p> 88348 Bad Saulgau </p>
-<p> Deutschland </p>
+<p> Germany  </p>
 <p> Phone: +(49) 7581 48882 – 0</p>
 <p> Email: info@girafcreatives.com </p>
 <p> Website: https://girafcreatives.com/de </p>
