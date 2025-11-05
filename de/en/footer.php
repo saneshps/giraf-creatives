@@ -31,7 +31,7 @@
                   </p>
                   <p>
                       <span> <a class="privacy" href="imprint.php"> Imprint </a> </span> ||
-                      <span> <a class="privacy" href="#"> Terms and Conditions </a> </span> ||
+                      <span> <a class="privacy" href="conditions.php"> Terms and Conditions </a> </span> ||
                       <span> <a class="privacy" href="privacy-policy.php"> Privacy Policy </a> </span>
                   </p>
               </div>
