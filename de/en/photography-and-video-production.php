@@ -67,7 +67,21 @@
   <!-- fancy box -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
   <!-- fancy box -->
+
+  <link rel="alternate" hreflang="en" href="https://girafcreatives.com/" />
+  <link rel="alternate" hreflang="de" href="https://girafcreatives.com/de/" />
+  <link rel="alternate" hreflang="en-DE" href="https://girafcreatives.com/de/en/" />
+  <link rel="alternate" hreflang="en-IN" href="https://girafcreatives.com/in/" />
+  <link rel="alternate" hreflang="en-GB" href="https://girafcreatives.com/uk/" />
+  <link rel="alternate" hreflang="x-default" href="https://girafcreatives.com/" />
+
+
   <?php include("gtag_head.php"); ?>
+
+  <!-- CookieConsent -->
+  <script type="text/javascript" charset="UTF-8" src="//cdn.cookie-script.com/s/35eaccce22fb0d051cda9731c9be6e07.js">
+  </script>
+  <!-- CookieConsent -->
 </head>
 
 <body>
@@ -110,9 +124,8 @@
 
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 service-detailes-brief-first">
-            <h6> Photography & Video Production </h6>
-            <h4> Giving Your Business
-              Some Great Ideas </h4>
+            <h6> The Best Photography and Video Production in Germany </h6>
+            <h4> Great Ideas For Your Business </h4>
           </div>
           <!--// col-md-4 -->
 
@@ -124,8 +137,21 @@
               customized websites.
               “Craft your ideas with us”
               Our clients consider us as one of the top Web Developers
-              because we have a team who got hands-on experience.</p>
+              because we have a team who got hands-on experience. 
+            
+              <br>
+              With Giraf Creatives by your side, you get photo and video content that elevates your brand and truly engages your customers.
+              Looking for a smarter way to explain your product? Then you have come to the right place. Explore our service page and learn how we can take your brand to the next level. We provide the best product explanatory video production in Germany, turning complex ideas into engaging visuals.
+            </p>
+
+            <!-- <p>
+                With Giraf Creatives by your side, you get photo and video content that elevates your brand and truly engages your customers.
+Looking for a smarter way to explain your product? Then you have come to the right place. Explore our service page and learn how we can take your brand to the next level. We provide the best product explanatory video production in Germany, turning complex ideas into engaging visuals. 
+              </p> -->
+
+
           </div>
+
           <!--// col-md-8 -->
 
 
@@ -198,6 +224,8 @@
             </p>
             <p> Quality contents are worth fortunes, a moment, a flicker of a switch is all that is needed for an appraisal of your company/clients.
               With GIRAF’s remarkably talented photography and videography production, you will flourish in today’s market with ease.</p>
+
+            <p>Looking to effectively explain or promote your product? Then we have got you covered. Explore <a class="internal-link" href="https://girafcreatives.com/de/en/services.php">our service page</a> and discover how we help to elevate your brand . For further details, feel free to <a class="internal-link" href="https://girafcreatives.com/de/en/connect-us.php">contact us</a>. Together, let’s take your product to the next level.</p>
           </div>
         </div>
       </div>
@@ -213,7 +241,8 @@
               but a cumulative process through which we bring the best to the table.
               Our videographers are excellent professionals with a third eye!! Cultivating
               collaborative ideas with the best players in the market.
-
+              Are you ready to start your project? Visit our <a class="internal-link" href="https://girafcreatives.com/de/en/connect-us.php" target="_blank">
+                contact us page </a> and take the next step.
             </p>
           </div>
         </div>
@@ -227,19 +256,17 @@
 
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-sub-title">
-            <h4> Brand Trust </h4>
-            <p> Forging audience trust is the keyword to our success with our innumerable clients. </p>
+            <h4> Future-Proof Visual Content </h4>
+            <p> We create explanatory videos that stay relevant over time, adaptable to new platforms and marketing campaigns without losing effectiveness.
+            </p>
           </div>
         </div>
 
 
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-sub-title">
-            <h4> Spark Conversation </h4>
-            <p> Positive word of mouth is good business, our services are guaranteed to
-              grab everyone and keep them hooked. There is a difference between amateurish videos,
-              where everything falls extremely short of expectation, which often turns out bland
-              like an ordinary salad.
+            <h4> Credibility That Shows Before You Speak </h4>
+            <p> A well-crafted explainer video instantly signals professionalism. With every detail refined, we help your brand appear trustworthy, competent, and ready for serious customers.
             </p>
           </div>
         </div>
@@ -289,6 +316,10 @@
               that will persuade you customers to land a click on your website.
 
             </p>
+
+            <p>
+              At Giraf, we capture high quality product images, from multiple angles, highlighting all the relevant details that will enhance the perceived value of the product and boost the likelihood of purchase. We ensure that you get clear and professional visuals that will help showcase the product at its best.
+            </p>
           </div>
         </div>
       </div>
@@ -306,6 +337,8 @@
               team will bring your design elements into life with the best motion graphics cost effectively.
 
             </p>
+
+            <p>Our dynamic motion graphics will enhance the impact of your ideas. Whether for product videos, social media posts, presentations or other brand communications, we transform your concepts into engaging and captivating animations. </p>
           </div>
         </div>
         <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12">
@@ -330,7 +363,11 @@
               its proportions will offer the users precise information about the specific digital asset.
 
             </p>
+
             <p> We are at your disposal to create fabulous product videos that provide the perfect demonstration of your product. </p>
+              <p>At GIRAF, we create professional product videos that clearly demonstrate the working of your product. Through compelling visuals and detailed shots, your audience will be able to grasp what the product is and feel confident enough to purchase it without a second thought.
+
+            </p>
           </div>
         </div>
       </div>
@@ -351,6 +388,9 @@
               for your ad campaigning, the perfect combination to reach success.
               At Giraf we propose premium video ad campaigns to promote your product.
 
+            </p>
+
+            <p>Are you looking for the best engaging videos to promote your products and services? Then we got you covered. We create strategic video ads that will enhance audience engagement and retain their interest, converting viewers into potential customers. Through curated content that targets specific audience and interests, we ensure that your message reaches the right people, at the right time.
             </p>
           </div>
         </div>

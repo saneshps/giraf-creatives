@@ -460,20 +460,7 @@
             </div>
           </div>
           <!-- team -->
-          <!-- team -->
-          <div class="col-xl-3 col-lg-4 col-md-4">
-            <div class="our-team">
-              <div class="pic">
-                <img src="./img/team/vishnu-cm.jpg" alt="Vishnu C M">
-
-              </div>
-              <div class="team-content">
-                <h3 class="title"> Vishnu C M </h3>
-                <span class="post"> Senior Laravel Developer </span>
-              </div>
-            </div>
-          </div>
-          <!-- team -->
+          
           <!-- team -->
           <div class="col-xl-3 col-lg-4 col-md-4">
             <div class="our-team">
@@ -498,6 +485,21 @@
               <div class="team-content">
                 <h3 class="title"> Sneha Rameshan </h3>
                 <span class="post"> Front-End-Developer </span>
+              </div>
+            </div>
+          </div>
+          <!-- team -->
+
+          <!-- team -->
+          <div class="col-xl-3 col-lg-4 col-md-4">
+            <div class="our-team">
+              <div class="pic">
+                <img src="./img/team/reefath.jpg" alt="Reefath">
+
+              </div>
+              <div class="team-content">
+                <h3 class="title"> Reefath </h3>
+                <span class="post"> Software Tester </span>
               </div>
             </div>
           </div>
@@ -685,23 +687,6 @@
           </div>
           <!-- team -->
 
-
-
-          <!-- team -->
-          <div class="col-xl-3 col-lg-4 col-md-4">
-            <div class="our-team">
-              <div class="pic">
-                <img src="./img/team/sinan.jpg" alt="Sinan">
-
-              </div>
-              <div class="team-content">
-                <h3 class="title"> Muhammad Sinan </h3>
-                <span class="post"> SEO Analyst </span>
-              </div>
-            </div>
-          </div>
-          <!-- team -->
-
           <!-- team -->
           <div class="col-xl-3 col-lg-4 col-md-4">
             <div class="our-team">
@@ -711,6 +696,22 @@
               </div>
               <div class="team-content">
                 <h3 class="title"> Maneesh </h3>
+                <span class="post"> SEO Analyst </span>
+              </div>
+            </div>
+          </div>
+          <!-- team -->
+
+
+          <!-- team -->
+          <div class="col-xl-3 col-lg-4 col-md-4">
+            <div class="our-team">
+              <div class="pic">
+                <img src="./img/team/vishnu p.jpg" alt="Vishnu P">
+
+              </div>
+              <div class="team-content">
+                <h3 class="title"> Vishnu P </h3>
                 <span class="post"> SEO Analyst </span>
               </div>
             </div>
